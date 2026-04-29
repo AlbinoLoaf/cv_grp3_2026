@@ -1,1 +1,1 @@
-# cv_grp3_2026
+# Computer Vision assignment 2 - Group 3
