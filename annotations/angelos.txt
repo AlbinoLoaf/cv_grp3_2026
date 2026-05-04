@@ -6,7 +6,7 @@ Event Description, Time-stamps, Subjectivity rating
 4.	 A person opens the side door and gets out of the vehicle, 00:27 - 00:33, 1 
 5.	The vehicle’s cockpit, controls, and internal wiring are shown 00:44-00:52, 2
 6.	The vehicle drives on a road, showing a collision scenario with a car, 00:58 - 01:03, 2 
-7.	The drivetrain and wheel mechanism of the vehicle are shown, 01:07 - 01:26 , 2 
+7. The drivetrain and wheel mechanism of the vehicle are shown, 01:07 - 01:26 , 2 
 8.	The vehicle’s dashboard display is shown from inside the cabin, 01:59 - 02:03, 1 
 9.	The vehicle drives through an urban street, 02:50 - 02:55, 2
 
