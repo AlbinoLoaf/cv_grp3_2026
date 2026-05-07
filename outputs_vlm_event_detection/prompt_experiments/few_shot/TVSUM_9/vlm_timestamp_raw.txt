@@ -1,0 +1,18 @@
+Salient event 1: A person sits next to a car, 00:00 - 00:20
+Salient event 2: The person looks around, 00:21 - 00:40
+Salient event 3: The car drives on the road, 00:41 - 01:00
+Salient event 4: The car's interior is shown, 01:01 - 01:20
+Salient event 5: The person looks at the camera, 01:21 - 01:40
+Salient event 6: The car drives on the road again, 01:41 - 02:00
+Salient event 7: The car's interior is shown again, 02:01 - 02:20
+Salient event 8: The car drives on the road once more, 02:21 - 02:40
+Salient event 9: A woman drives the car, 02:41 - 03:00
+Salient event 10: The car drives on the road again, 03:01 - 03:20
+Salient event 11: The car is shown with a diagram, 03:21 - 03:40
+Salient event 12: The car is shown with another diagram, 03:41 - 03:50
+Salient event 13: The car is shown with yet another diagram, 03:51 - 04:00
+Salient event 14: The car is shown with a third diagram, 04:01 - 04:20
+Salient event 15: The car is shown with a fourth diagram, 04:21 - 04:40
+Salient event 16: The car is shown with a fifth diagram, 04:41 - 04:60
+Salient event 17: The car is shown with a sixth diagram, 04:61 - 04:80
+Salient event 18: The car is shown with a seventh diagram, 04:81 - 05:00

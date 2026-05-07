@@ -1,0 +1,13 @@
+Salient event 1: Woman entering a pet grooming salon, 00:00 - 00:10
+Salient event 2: Woman preparing a dog for grooming, 00:11 - 00:20
+Salient event 3: Woman grooming a golden retriever, 00:21 - 00:40
+Salient event 4: Woman grooming a small grey dog, 00:41 - 01:00
+Salient event 5: Woman talking about pet food options, 01:01 - 01:20
+Salient event 6: Woman showing different types of pet food, 01:21 - 01:40
+Salient event 7: Woman closing the dog's cage, 01:41 - 01:50
+Salient event 8: Woman exiting the pet grooming salon, 01:51 - 02:00
+Salient event 9: Woman entering the pet grooming salon again, 02:01 - 02:10
+Salient event 10: Woman talking about the salon's services, 02:11 - 02:30
+Salient event 11: Woman exiting the pet grooming salon again, 02:31 - 02:40
+Salient event 12: Woman entering the pet grooming salon for the third time, 02:41 - 02:50
+Salient event 13: Woman exiting the pet grooming salon for the fourth time, 02:51 - 03:00

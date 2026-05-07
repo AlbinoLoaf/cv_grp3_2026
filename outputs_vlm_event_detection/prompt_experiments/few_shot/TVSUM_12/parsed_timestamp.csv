@@ -1,0 +1,18 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_12,few_shot,1,A person washes their hands,00:00,00:20,0,20
+TVSUM_12,few_shot,2,The person applies soap to their hands,00:21,00:40,21,40
+TVSUM_12,few_shot,3,The person rinses their hands under running water,00:41,01:00,41,60
+TVSUM_12,few_shot,4,The person dries their hands with a towel,01:01,01:20,61,80
+TVSUM_12,few_shot,5,The person applies lotion to their hands,01:21,01:40,81,100
+TVSUM_12,few_shot,6,The person applies hair conditioner to their hair,01:41,02:00,101,120
+TVSUM_12,few_shot,7,The person applies shampoo to their hair,02:01,02:20,121,140
+TVSUM_12,few_shot,8,The person applies conditioner to their hair again,02:21,02:40,141,160
+TVSUM_12,few_shot,9,The person applies hair gel to their hair,02:41,03:20,161,200
+TVSUM_12,few_shot,10,The person applies hair spray to their hair,03:21,03:40,201,220
+TVSUM_12,few_shot,11,The person applies hair gel to their hair again,03:41,04:00,221,240
+TVSUM_12,few_shot,12,The person applies hair spray to their hair again,04:01,04:20,241,260
+TVSUM_12,few_shot,13,The person applies hair gel to their hair again,04:21,04:40,261,280
+TVSUM_12,few_shot,14,The person applies hair spray to their hair again,04:41,05:00,281,300
+TVSUM_12,few_shot,15,The person applies hair gel to their hair again,05:01,05:20,301,320
+TVSUM_12,few_shot,16,The person applies hair spray to their hair again,05:21,05:40,321,340
+TVSUM_12,few_shot,17,The person applies hair gel to their hair again,05:41,06:00,341,360

@@ -1,0 +1,13 @@
+prompt_name,video_name,missed_count
+few_shot,TVSUM_10,3
+few_shot,TVSUM_11,1
+few_shot,TVSUM_12,5
+few_shot,TVSUM_9,9
+reasoning_guided,TVSUM_10,5
+reasoning_guided,TVSUM_11,1
+reasoning_guided,TVSUM_12,5
+reasoning_guided,TVSUM_9,7
+zero_shot,TVSUM_10,5
+zero_shot,TVSUM_11,1
+zero_shot,TVSUM_12,5
+zero_shot,TVSUM_9,12

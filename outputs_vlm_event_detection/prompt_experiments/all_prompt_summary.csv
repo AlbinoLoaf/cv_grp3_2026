@@ -1,0 +1,13 @@
+prompt_name,video_name,manual_events,matched_events,missed_events,match_rate
+zero_shot,TVSUM_10,6,1,5,0.16666666666666666
+zero_shot,TVSUM_11,8,7,1,0.875
+zero_shot,TVSUM_12,7,2,5,0.2857142857142857
+zero_shot,TVSUM_9,16,4,12,0.25
+few_shot,TVSUM_10,6,3,3,0.5
+few_shot,TVSUM_11,8,7,1,0.875
+few_shot,TVSUM_12,7,2,5,0.2857142857142857
+few_shot,TVSUM_9,16,7,9,0.4375
+reasoning_guided,TVSUM_10,6,1,5,0.16666666666666666
+reasoning_guided,TVSUM_11,8,7,1,0.875
+reasoning_guided,TVSUM_12,7,2,5,0.2857142857142857
+reasoning_guided,TVSUM_9,16,9,7,0.5625

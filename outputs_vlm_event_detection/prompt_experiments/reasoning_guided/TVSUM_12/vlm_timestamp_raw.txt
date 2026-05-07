@@ -1,0 +1,16 @@
+Salient event 1: A person is washing their hands in a sink, 00:00 - 00:20
+Salient event 2: The scene transitions to a woman talking in a kitchen, 00:21 - 00:40
+Salient event 3: The woman is shown holding a bottle of thickening agent, 00:41 - 01:00
+Salient event 4: The woman is seen applying the thickening agent to her hair, 01:01 - 01:20
+Salient event 5: The woman is shown in an elevator, 01:21 - 01:40
+Salient event 6: The woman is outside, waving at the camera, 01:41 - 01:50
+Salient event 7: The woman is back in the kitchen, talking to someone off-camera, 01:51 - 02:00
+Salient event 8: The woman is shown in a bathroom, washing her hands again, 02:01 - 02:20
+Salient event 9: The woman is shown in a living room, playing with a dog, 02:21 - 02:40
+Salient event 10: The woman is shown in a bathroom, washing her hands again, 02:41 - 03:20
+Salient event 11: The woman is shown in a living room, playing with a dog, 03:21 - 03:40
+Salient event 12: The woman is shown in a bathroom, washing her hands again, 03:41 - 04:00
+Salient event 13: The woman is shown in a living room, playing with a dog, 04:01 - 04:20
+Salient event 14: The woman is shown in a bathroom, washing her hands again, 04:21 - 04:40
+Salient event 15: The woman is shown in a living room, playing with a dog, 04:41 - 05:00
+Salient event 16: The woman is shown in a bathroom, washing her hands again,

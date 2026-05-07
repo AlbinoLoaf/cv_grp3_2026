@@ -1,0 +1,11 @@
+Salient event 1: Man sitting next to a car, talking, MM:00:00 - MM:00:20
+Salient event 2: Car driving on a road, MM:00:20 - MM:00:42
+Salient event 3: Close-up of car pedals, MM:00:42 - MM:01:02
+Salient event 4: Man sitting next to a car again, MM:01:02 - MM:01:24
+Salient event 5: Car driving on a road again, MM:01:24 - MM:01:44
+Salient event 6: Close-up of car pedals again, MM:01:44 - MM:02:06
+Salient event 7: Man sitting next to a car again, MM:02:06 - MM:02:26
+Salient event 8: Car driving on a road again, MM:02:26 - MM:02:48
+Salient event 9: Close-up of car components, MM:02:48 - MM:03:08
+Salient event 10: Woman driving a futuristic car, MM:03:08 - MM:03:30
+Salient event 11: Intel Free Press Tech News banner, MM:03:30 - MM:03:52

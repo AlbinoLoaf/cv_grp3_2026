@@ -1,0 +1,109 @@
+================================================================================
+zero_shot_event_only
+================================================================================
+You are given sampled frames from a video in chronological order.
+
+Task:
+Retrieve all of the salient events of the video.
+
+Rules:
+- List only important events needed to understand the video.
+- Keep the events in chronological order.
+- Use short and clear descriptions.
+- Do not describe every frame.
+- Do not include timestamps.
+- Do not include unimportant visual details.
+- Use this exact output format:
+
+Salient event 1: <event description>
+Salient event 2: <event description>
+Salient event 3: <event description>
+
+================================================================================
+zero_shot_event_timestamp
+================================================================================
+You are given sampled frames from a video in chronological order.
+Each frame is labeled with its timestamp.
+
+Task:
+Retrieve all of the salient events of the video with temporal localization.
+
+Rules:
+- List only important events needed to understand the video.
+- Keep events in chronological order.
+- Use short and clear descriptions.
+- Use precise but realistic timestamps.
+- Use MM:SS - MM:SS format.
+- Do not describe every frame.
+- Do not include unimportant visual details.
+- Use this exact output format:
+
+Salient event 1: <event description>, <MM:SS - MM:SS>
+Salient event 2: <event description>, <MM:SS - MM:SS>
+Salient event 3: <event description>, <MM:SS - MM:SS>
+
+================================================================================
+few_shot
+================================================================================
+You are given sampled frames from a video in chronological order.
+Each frame is labeled with its timestamp.
+
+Task:
+Retrieve the salient events of the video with temporal localization.
+
+Here are examples of the required output style:
+
+Salient event 1: A person enters a vehicle, 00:00 - 00:08
+Salient event 2: The vehicle interior is shown, 00:09 - 00:20
+Salient event 3: The vehicle drives on the road, 00:21 - 00:35
+
+Now analyze the provided video frames.
+
+Rules:
+- List only important events needed to understand the video.
+- Keep events in chronological order.
+- Use short and clear descriptions.
+- Every event must include a start and end timestamp.
+- Use timestamp format like 00:00 - 00:20.
+- Do not write the letters MM or SS in the timestamp.
+- Do not describe every frame separately.
+- Do not include explanations.
+- Use this exact output format:
+
+Salient event 1: <event description>, 00:00 - 00:20
+Salient event 2: <event description>, 00:21 - 00:40
+Salient event 3: <event description>, 00:41 - 01:00
+
+================================================================================
+reasoning_guided
+================================================================================
+You are given sampled frames from a video in chronological order.
+Each frame is labeled with its timestamp.
+
+Task:
+Retrieve the salient events of the video with temporal localization.
+
+Before producing the final answer, internally check:
+1. Which visible changes are important for understanding the video?
+2. Which events are distinct from each other?
+3. Which repeated moments should be merged into one event?
+4. Which timestamp range best matches each event?
+5. Is every timestamp written correctly as 00:00 - 00:20?
+
+Only output the final event list. Do not output your reasoning.
+
+Rules:
+- List only salient events needed to understand the video.
+- Merge repeated or very similar moments into one event.
+- Keep events in chronological order.
+- Every event must include a start and end timestamp.
+- Use timestamp format like 00:00 - 00:20.
+- Do not write the letters MM or SS in the timestamp.
+- Do not describe every frame separately.
+- Do not include explanations.
+- Use this exact output format:
+
+Salient event 1: <event description>, 00:00 - 00:20
+Salient event 2: <event description>, 00:21 - 00:40
+Salient event 3: <event description>, 00:41 - 01:00
+

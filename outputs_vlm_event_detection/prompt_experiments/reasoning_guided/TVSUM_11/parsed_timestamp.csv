@@ -1,0 +1,14 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_11,reasoning_guided,1,Woman entering a pet grooming salon,00:00,00:10,0,10
+TVSUM_11,reasoning_guided,2,Woman preparing a dog for grooming,00:11,00:20,11,20
+TVSUM_11,reasoning_guided,3,Woman grooming a golden retriever,00:21,00:40,21,40
+TVSUM_11,reasoning_guided,4,Woman grooming a small grey dog,00:41,01:00,41,60
+TVSUM_11,reasoning_guided,5,Woman talking about pet food options,01:01,01:20,61,80
+TVSUM_11,reasoning_guided,6,Woman showing different types of pet food,01:21,01:40,81,100
+TVSUM_11,reasoning_guided,7,Woman closing the dog's cage,01:41,01:50,101,110
+TVSUM_11,reasoning_guided,8,Woman exiting the pet grooming salon,01:51,02:00,111,120
+TVSUM_11,reasoning_guided,9,Woman entering the pet grooming salon again,02:01,02:10,121,130
+TVSUM_11,reasoning_guided,10,Woman talking about the salon's services,02:11,02:30,131,150
+TVSUM_11,reasoning_guided,11,Woman exiting the pet grooming salon again,02:31,02:40,151,160
+TVSUM_11,reasoning_guided,12,Woman entering the pet grooming salon for the third time,02:41,02:50,161,170
+TVSUM_11,reasoning_guided,13,Woman exiting the pet grooming salon for the fourth time,02:51,03:00,171,180

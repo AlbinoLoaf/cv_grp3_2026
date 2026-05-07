@@ -1,0 +1,13 @@
+timestamp,seconds,frame_path
+00:00,0,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_00-00.jpg
+00:14,14,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_00-14.jpg
+00:28,28,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_00-28.jpg
+00:42,42,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_00-42.jpg
+00:56,56,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_00-56.jpg
+01:10,70,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_01-10.jpg
+01:24,84,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_01-24.jpg
+01:38,98,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_01-38.jpg
+01:52,112,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_01-52.jpg
+02:06,126,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_02-06.jpg
+02:20,140,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_02-20.jpg
+02:36,156,outputs_vlm_event_detection\TVSUM_11\sampled_frames\frame_02-36.jpg

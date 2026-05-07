@@ -1,0 +1,17 @@
+Salient event 1: An electric car is shown being charged, 00:00 - 00:10
+Salient event 2: A news anchor introduces an electric car segment, 00:11 - 00:20
+Salient event 3: A man discusses the charging system for electric vehicles, 00:21 - 00:30
+Salient event 4: A graph showing data related to electric cars is displayed, 00:31 - 00:40
+Salient event 5: A man speaks about the benefits of electric cars, 00:41 - 00:50
+Salient event 6: A man discusses the importance of electric car technology at an exhibition, 00:51 - 01:00
+Salient event 7: A bus is shown driving on a road, 01:01 - 01:10
+Salient event 8: Attendees are shown taking notes during a meeting, 01:11 - 01:20
+Salient event 9: Attendees are shown interacting with a display at an exhibition, 01:21 - 01:30
+Salient event 10: A man speaks about the future of electric cars, 01:31 - 01:40
+Salient event 11: A woman demonstrates how to use a charging station, 01:41 - 01:50
+Salient event 12: A man speaks about the benefits of electric cars, 01:51 - 02:00
+Salient event 13: A man speaks about the importance of electric car technology, 02:01 - 02:10
+Salient event 14: A woman demonstrates how to use a charging station, 02:11 - 02:20
+Salient event 15: A man speaks about the benefits of electric cars, 02:21 - 02:30
+Salient event 16: A man speaks about the importance of electric car technology, 02:31 - 02:40
+Salient event 17: A woman demonstrates how to use a charging station, 02:

@@ -1,0 +1,17 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_10,few_shot,1,An electric car is shown being charged,00:00,00:10,0,10
+TVSUM_10,few_shot,2,A news anchor introduces an electric car segment,00:11,00:20,11,20
+TVSUM_10,few_shot,3,A man discusses the charging system for electric vehicles,00:21,00:30,21,30
+TVSUM_10,few_shot,4,A graph showing data related to electric cars is displayed,00:31,00:40,31,40
+TVSUM_10,few_shot,5,A man speaks about the benefits of electric cars,00:41,00:50,41,50
+TVSUM_10,few_shot,6,A man discusses the importance of electric car technology at an exhibition,00:51,01:00,51,60
+TVSUM_10,few_shot,7,A bus is shown driving on a road,01:01,01:10,61,70
+TVSUM_10,few_shot,8,Attendees are shown taking notes during a meeting,01:11,01:20,71,80
+TVSUM_10,few_shot,9,Attendees are shown interacting with a display at an exhibition,01:21,01:30,81,90
+TVSUM_10,few_shot,10,A man speaks about the future of electric cars,01:31,01:40,91,100
+TVSUM_10,few_shot,11,A woman demonstrates how to use a charging station,01:41,01:50,101,110
+TVSUM_10,few_shot,12,A man speaks about the benefits of electric cars,01:51,02:00,111,120
+TVSUM_10,few_shot,13,A man speaks about the importance of electric car technology,02:01,02:10,121,130
+TVSUM_10,few_shot,14,A woman demonstrates how to use a charging station,02:11,02:20,131,140
+TVSUM_10,few_shot,15,A man speaks about the benefits of electric cars,02:21,02:30,141,150
+TVSUM_10,few_shot,16,A man speaks about the importance of electric car technology,02:31,02:40,151,160

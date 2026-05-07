@@ -1,0 +1,3 @@
+Salient event 1: A person is washing a small white dog in a sink.
+Salient event 2: The person applies a thickening agent to the dog's fur.
+Salient event 3: The person dries the dog with a towel after applying the thickening agent.
