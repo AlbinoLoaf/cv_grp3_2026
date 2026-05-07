@@ -14,6 +14,7 @@ Man steping in a car, 03:34 - 03:40, 1
 Car driving in a street, 03:41 - 03:48, 0
 
 - Video 10
+Event, Time Stamp, Subjectivity
 Woman talking on a set, 00:05 - 00:25, 1
 People looking at a car, 00:26 - 00:28, 0
 Cable being plugged into a car, 00:32 - 00:33, 2
@@ -22,6 +23,7 @@ Man driving a small electric car, 01:20 - 01:22, 0
 Man talking with cars in the background, 01:28 - 01:42, 2
 
 - Video 11
+Event, Time Stamp, Subjectivity
 A woman talking while peting a dog, 00:05 - 00:09, 1
 A woman showing the inside of a dof cage, 00:11 - 00:26, 1
 A woman talking while peting a dog who is standing on a table, 00:27 - 01:26, 1
@@ -32,6 +34,7 @@ A woman talking in front of dog cages, 01:39 - 01:50, 0
 A woman talking in front of dog cages, 02:07 - 02:27, 0
 
 - Video 12
+Event, Time Stamp, Subjectivity
 A woman filming herself walking and talking around her house, 01:08, -1
 A dog playing around a kitchen countertop, 01:50 - 02:05, 0
 A dog getting pet on a kitchen countertop, 02:29 - 02:56
