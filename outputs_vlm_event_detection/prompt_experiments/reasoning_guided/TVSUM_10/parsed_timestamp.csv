@@ -1,0 +1,10 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_10,reasoning_guided,1,Introduction of electric cars making the earth more green,00:00,00:20,0,20
+TVSUM_10,reasoning_guided,2,Interview with Yoo Dong-kun about charging systems for electric vehicles,00:21,00:40,21,40
+TVSUM_10,reasoning_guided,3,Demonstration of electric vehicle charging system,00:41,01:00,41,60
+TVSUM_10,reasoning_guided,4,Interview with Kim Tae-hoon about the EV Korea exhibition,01:01,01:20,61,80
+TVSUM_10,reasoning_guided,5,Overview of the EV Korea exhibition,01:21,01:40,81,100
+TVSUM_10,reasoning_guided,6,Attendees at the EV Korea exhibition,01:41,02:00,101,120
+TVSUM_10,reasoning_guided,7,Close-up of attendees interacting with technology,02:01,02:20,121,140
+TVSUM_10,reasoning_guided,8,Attendees discussing and taking notes,02:21,02:40,141,160
+TVSUM_10,reasoning_guided,9,Attendees using charging stations,02:41,03:00,161,180

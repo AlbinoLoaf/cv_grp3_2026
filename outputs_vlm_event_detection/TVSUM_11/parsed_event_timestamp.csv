@@ -1,0 +1,9 @@
+event_id,event_description,start,end,start_seconds,end_seconds
+1,Woman entering a pet grooming salon,00:00,00:14,0,14
+2,Woman preparing a dog for grooming,00:14,00:28,14,28
+3,Woman grooming a golden retriever,00:28,00:56,28,56
+4,Woman grooming a small grey dog,00:56,01:10,56,70
+5,Woman talking about pet food options,01:10,01:24,70,84
+6,Woman showing different types of pet food,01:24,02:06,84,126
+7,Woman closing the dog's cage,02:06,02:36,126,156
+8,Woman exiting the pet grooming salon,02:36,02:40,156,160

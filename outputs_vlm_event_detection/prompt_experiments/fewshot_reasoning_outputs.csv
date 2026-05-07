@@ -1,0 +1,116 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_9,few_shot,1,A person sits next to a car,00:00,00:20,0,20
+TVSUM_9,few_shot,2,The person looks around,00:21,00:40,21,40
+TVSUM_9,few_shot,3,The car drives on the road,00:41,01:00,41,60
+TVSUM_9,few_shot,4,The car's interior is shown,01:01,01:20,61,80
+TVSUM_9,few_shot,5,The person looks at the camera,01:21,01:40,81,100
+TVSUM_9,few_shot,6,The car drives on the road again,01:41,02:00,101,120
+TVSUM_9,few_shot,7,The car's interior is shown again,02:01,02:20,121,140
+TVSUM_9,few_shot,8,The car drives on the road once more,02:21,02:40,141,160
+TVSUM_9,few_shot,9,A woman drives the car,02:41,03:00,161,180
+TVSUM_9,few_shot,10,The car drives on the road again,03:01,03:20,181,200
+TVSUM_9,few_shot,11,The car is shown with a diagram,03:21,03:40,201,220
+TVSUM_9,few_shot,12,The car is shown with another diagram,03:41,03:50,221,230
+TVSUM_9,few_shot,13,The car is shown with yet another diagram,03:51,04:00,231,240
+TVSUM_9,few_shot,14,The car is shown with a third diagram,04:01,04:20,241,260
+TVSUM_9,few_shot,15,The car is shown with a fourth diagram,04:21,04:40,261,280
+TVSUM_9,few_shot,16,The car is shown with a fifth diagram,04:41,04:60,281,300
+TVSUM_9,few_shot,17,The car is shown with a sixth diagram,04:61,04:80,301,320
+TVSUM_9,few_shot,18,The car is shown with a seventh diagram,04:81,05:00,321,300
+TVSUM_10,few_shot,1,An electric car is shown being charged,00:00,00:10,0,10
+TVSUM_10,few_shot,2,A news anchor introduces an electric car segment,00:11,00:20,11,20
+TVSUM_10,few_shot,3,A man discusses the charging system for electric vehicles,00:21,00:30,21,30
+TVSUM_10,few_shot,4,A graph showing data related to electric cars is displayed,00:31,00:40,31,40
+TVSUM_10,few_shot,5,A man speaks about the benefits of electric cars,00:41,00:50,41,50
+TVSUM_10,few_shot,6,A man discusses the importance of electric car technology at an exhibition,00:51,01:00,51,60
+TVSUM_10,few_shot,7,A bus is shown driving on a road,01:01,01:10,61,70
+TVSUM_10,few_shot,8,Attendees are shown taking notes during a meeting,01:11,01:20,71,80
+TVSUM_10,few_shot,9,Attendees are shown interacting with a display at an exhibition,01:21,01:30,81,90
+TVSUM_10,few_shot,10,A man speaks about the future of electric cars,01:31,01:40,91,100
+TVSUM_10,few_shot,11,A woman demonstrates how to use a charging station,01:41,01:50,101,110
+TVSUM_10,few_shot,12,A man speaks about the benefits of electric cars,01:51,02:00,111,120
+TVSUM_10,few_shot,13,A man speaks about the importance of electric car technology,02:01,02:10,121,130
+TVSUM_10,few_shot,14,A woman demonstrates how to use a charging station,02:11,02:20,131,140
+TVSUM_10,few_shot,15,A man speaks about the benefits of electric cars,02:21,02:30,141,150
+TVSUM_10,few_shot,16,A man speaks about the importance of electric car technology,02:31,02:40,151,160
+TVSUM_11,few_shot,1,A person opens a dog grooming salon,00:00,00:10,0,10
+TVSUM_11,few_shot,2,The person interacts with a dog,00:11,00:20,11,20
+TVSUM_11,few_shot,3,The person prepares the dog for grooming,00:21,00:40,21,40
+TVSUM_11,few_shot,4,The person grooms the dog,00:41,01:00,41,60
+TVSUM_11,few_shot,5,The person interacts with another dog,01:01,01:20,61,80
+TVSUM_11,few_shot,6,The person prepares the second dog for grooming,01:21,01:40,81,100
+TVSUM_11,few_shot,7,The person grooms the second dog,01:41,02:00,101,120
+TVSUM_11,few_shot,8,The person interacts with a third dog,02:01,02:20,121,140
+TVSUM_11,few_shot,9,The person prepares the third dog for grooming,02:21,02:40,141,160
+TVSUM_11,few_shot,10,The person grooms the third dog,02:41,03:00,161,180
+TVSUM_11,few_shot,11,The person interacts with a fourth dog,03:01,03:20,181,200
+TVSUM_11,few_shot,12,The person prepares the fourth dog for grooming,03:21,03:40,201,220
+TVSUM_11,few_shot,13,The person grooms the fourth dog,03:41,04:00,221,240
+TVSUM_11,few_shot,14,The person interacts with a fifth dog,04:01,04:20,241,260
+TVSUM_11,few_shot,15,The person prepares the fifth dog for grooming,04:21,04:40,261,280
+TVSUM_11,few_shot,16,The person grooms the fifth dog,04:41,05:00,281,300
+TVSUM_11,few_shot,17,The person interacts with a sixth dog,05:01,05:20,301,320
+TVSUM_12,few_shot,1,A person washes their hands,00:00,00:20,0,20
+TVSUM_12,few_shot,2,The person applies soap to their hands,00:21,00:40,21,40
+TVSUM_12,few_shot,3,The person rinses their hands under running water,00:41,01:00,41,60
+TVSUM_12,few_shot,4,The person dries their hands with a towel,01:01,01:20,61,80
+TVSUM_12,few_shot,5,The person applies lotion to their hands,01:21,01:40,81,100
+TVSUM_12,few_shot,6,The person applies hair conditioner to their hair,01:41,02:00,101,120
+TVSUM_12,few_shot,7,The person applies shampoo to their hair,02:01,02:20,121,140
+TVSUM_12,few_shot,8,The person applies conditioner to their hair again,02:21,02:40,141,160
+TVSUM_12,few_shot,9,The person applies hair gel to their hair,02:41,03:20,161,200
+TVSUM_12,few_shot,10,The person applies hair spray to their hair,03:21,03:40,201,220
+TVSUM_12,few_shot,11,The person applies hair gel to their hair again,03:41,04:00,221,240
+TVSUM_12,few_shot,12,The person applies hair spray to their hair again,04:01,04:20,241,260
+TVSUM_12,few_shot,13,The person applies hair gel to their hair again,04:21,04:40,261,280
+TVSUM_12,few_shot,14,The person applies hair spray to their hair again,04:41,05:00,281,300
+TVSUM_12,few_shot,15,The person applies hair gel to their hair again,05:01,05:20,301,320
+TVSUM_12,few_shot,16,The person applies hair spray to their hair again,05:21,05:40,321,340
+TVSUM_12,few_shot,17,The person applies hair gel to their hair again,05:41,06:00,341,360
+TVSUM_9,reasoning_guided,1,A man in glasses and a black sweater is talking to the camera while standing next to a white car,00:00,00:20,0,20
+TVSUM_9,reasoning_guided,2,The scene transitions to a futuristic-looking vehicle driving on a city street,00:21,00:40,21,40
+TVSUM_9,reasoning_guided,3,"The interior of the vehicle is shown, highlighting its unique design and features",00:41,01:00,41,60
+TVSUM_9,reasoning_guided,4,"The man continues his conversation, possibly explaining the vehicle's features",01:01,01:20,61,80
+TVSUM_9,reasoning_guided,5,"The futuristic vehicle is shown again, emphasizing its advanced technology and design",01:21,01:40,81,100
+TVSUM_9,reasoning_guided,6,"The man returns to the camera, continuing his discussion about the vehicle",01:41,02:00,101,120
+TVSUM_9,reasoning_guided,7,"The futuristic vehicle is displayed again, focusing on its innovative components and design elements",02:01,02:20,121,140
+TVSUM_9,reasoning_guided,8,"The man is seen inside the vehicle, demonstrating its interior and controls",02:21,02:40,141,160
+TVSUM_9,reasoning_guided,9,"A woman is shown driving the futuristic vehicle, showcasing its smooth operation and ease of use",02:41,03:00,161,180
+TVSUM_9,reasoning_guided,10,The video concludes with an advertisement for Intel Free Press Tech News,03:01,03:20,181,200
+TVSUM_10,reasoning_guided,1,Introduction of electric cars making the earth more green,00:00,00:20,0,20
+TVSUM_10,reasoning_guided,2,Interview with Yoo Dong-kun about charging systems for electric vehicles,00:21,00:40,21,40
+TVSUM_10,reasoning_guided,3,Demonstration of electric vehicle charging system,00:41,01:00,41,60
+TVSUM_10,reasoning_guided,4,Interview with Kim Tae-hoon about the EV Korea exhibition,01:01,01:20,61,80
+TVSUM_10,reasoning_guided,5,Overview of the EV Korea exhibition,01:21,01:40,81,100
+TVSUM_10,reasoning_guided,6,Attendees at the EV Korea exhibition,01:41,02:00,101,120
+TVSUM_10,reasoning_guided,7,Close-up of attendees interacting with technology,02:01,02:20,121,140
+TVSUM_10,reasoning_guided,8,Attendees discussing and taking notes,02:21,02:40,141,160
+TVSUM_10,reasoning_guided,9,Attendees using charging stations,02:41,03:00,161,180
+TVSUM_11,reasoning_guided,1,Woman entering a pet grooming salon,00:00,00:10,0,10
+TVSUM_11,reasoning_guided,2,Woman preparing a dog for grooming,00:11,00:20,11,20
+TVSUM_11,reasoning_guided,3,Woman grooming a golden retriever,00:21,00:40,21,40
+TVSUM_11,reasoning_guided,4,Woman grooming a small grey dog,00:41,01:00,41,60
+TVSUM_11,reasoning_guided,5,Woman talking about pet food options,01:01,01:20,61,80
+TVSUM_11,reasoning_guided,6,Woman showing different types of pet food,01:21,01:40,81,100
+TVSUM_11,reasoning_guided,7,Woman closing the dog's cage,01:41,01:50,101,110
+TVSUM_11,reasoning_guided,8,Woman exiting the pet grooming salon,01:51,02:00,111,120
+TVSUM_11,reasoning_guided,9,Woman entering the pet grooming salon again,02:01,02:10,121,130
+TVSUM_11,reasoning_guided,10,Woman talking about the salon's services,02:11,02:30,131,150
+TVSUM_11,reasoning_guided,11,Woman exiting the pet grooming salon again,02:31,02:40,151,160
+TVSUM_11,reasoning_guided,12,Woman entering the pet grooming salon for the third time,02:41,02:50,161,170
+TVSUM_11,reasoning_guided,13,Woman exiting the pet grooming salon for the fourth time,02:51,03:00,171,180
+TVSUM_12,reasoning_guided,1,A person is washing their hands in a sink,00:00,00:20,0,20
+TVSUM_12,reasoning_guided,2,The scene transitions to a woman talking in a kitchen,00:21,00:40,21,40
+TVSUM_12,reasoning_guided,3,The woman is shown holding a bottle of thickening agent,00:41,01:00,41,60
+TVSUM_12,reasoning_guided,4,The woman is seen applying the thickening agent to her hair,01:01,01:20,61,80
+TVSUM_12,reasoning_guided,5,The woman is shown in an elevator,01:21,01:40,81,100
+TVSUM_12,reasoning_guided,6,"The woman is outside, waving at the camera",01:41,01:50,101,110
+TVSUM_12,reasoning_guided,7,"The woman is back in the kitchen, talking to someone off-camera",01:51,02:00,111,120
+TVSUM_12,reasoning_guided,8,"The woman is shown in a bathroom, washing her hands again",02:01,02:20,121,140
+TVSUM_12,reasoning_guided,9,"The woman is shown in a living room, playing with a dog",02:21,02:40,141,160
+TVSUM_12,reasoning_guided,10,"The woman is shown in a bathroom, washing her hands again",02:41,03:20,161,200
+TVSUM_12,reasoning_guided,11,"The woman is shown in a living room, playing with a dog",03:21,03:40,201,220
+TVSUM_12,reasoning_guided,12,"The woman is shown in a bathroom, washing her hands again",03:41,04:00,221,240
+TVSUM_12,reasoning_guided,13,"The woman is shown in a living room, playing with a dog",04:01,04:20,241,260
+TVSUM_12,reasoning_guided,14,"The woman is shown in a bathroom, washing her hands again",04:21,04:40,261,280
+TVSUM_12,reasoning_guided,15,"The woman is shown in a living room, playing with a dog",04:41,05:00,281,300

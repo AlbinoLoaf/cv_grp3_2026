@@ -1,0 +1,11 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_9,reasoning_guided,1,A man in glasses and a black sweater is talking to the camera while standing next to a white car,00:00,00:20,0,20
+TVSUM_9,reasoning_guided,2,The scene transitions to a futuristic-looking vehicle driving on a city street,00:21,00:40,21,40
+TVSUM_9,reasoning_guided,3,"The interior of the vehicle is shown, highlighting its unique design and features",00:41,01:00,41,60
+TVSUM_9,reasoning_guided,4,"The man continues his conversation, possibly explaining the vehicle's features",01:01,01:20,61,80
+TVSUM_9,reasoning_guided,5,"The futuristic vehicle is shown again, emphasizing its advanced technology and design",01:21,01:40,81,100
+TVSUM_9,reasoning_guided,6,"The man returns to the camera, continuing his discussion about the vehicle",01:41,02:00,101,120
+TVSUM_9,reasoning_guided,7,"The futuristic vehicle is displayed again, focusing on its innovative components and design elements",02:01,02:20,121,140
+TVSUM_9,reasoning_guided,8,"The man is seen inside the vehicle, demonstrating its interior and controls",02:21,02:40,141,160
+TVSUM_9,reasoning_guided,9,"A woman is shown driving the futuristic vehicle, showcasing its smooth operation and ease of use",02:41,03:00,161,180
+TVSUM_9,reasoning_guided,10,The video concludes with an advertisement for Intel Free Press Tech News,03:01,03:20,181,200

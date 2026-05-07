@@ -1,0 +1,49 @@
+video_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_9,1,"Man sitting next to a car, talking",00:00,00:20,0,20
+TVSUM_9,2,Car driving on a road,00:20,00:42,20,42
+TVSUM_9,3,Close-up of car pedals,00:42,01:02,42,62
+TVSUM_9,4,Man sitting next to a car again,01:02,01:24,62,84
+TVSUM_9,5,Car driving on a road again,01:24,01:44,84,104
+TVSUM_9,6,Close-up of car pedals again,01:44,02:06,104,126
+TVSUM_9,7,Man sitting next to a car again,02:06,02:26,126,146
+TVSUM_9,8,Car driving on a road again,02:26,02:48,146,168
+TVSUM_9,9,Close-up of car components,02:48,03:08,168,188
+TVSUM_9,10,Woman driving a futuristic car,03:08,03:30,188,210
+TVSUM_9,11,Intel Free Press Tech News banner,03:30,03:52,210,232
+TVSUM_10,1,"Introduction of electric cars, their benefits, and the Korean Environment Corporation's charging system",00:00,00:24,0,24
+TVSUM_10,2,Interview with Yoo Dong-kun from Korea Environment Corporation about the charging system,00:25,00:47,25,47
+TVSUM_10,3,Demonstration of the charging process for electric cars,00:48,01:00,48,60
+TVSUM_10,4,Interview with Kim Tae-hoon from the exhibition team director about the business fair,01:01,01:12,61,72
+TVSUM_10,5,Overview of the electric vehicle industry,01:13,01:24,73,84
+TVSUM_10,6,Close-up of a graph showing strain data,01:25,01:36,85,96
+TVSUM_10,7,Exhibition attendees discussing and observing various exhibits,01:37,01:48,97,108
+TVSUM_10,8,Attendees interacting with charging stations and information boards,01:49,02:00,109,120
+TVSUM_10,9,Attendees taking notes during a presentation or discussion,02:01,02:12,121,132
+TVSUM_11,1,Woman entering a pet grooming salon,00:00,00:14,0,14
+TVSUM_11,2,Woman preparing a dog for grooming,00:14,00:28,14,28
+TVSUM_11,3,Woman grooming a golden retriever,00:28,00:56,28,56
+TVSUM_11,4,Woman grooming a small grey dog,00:56,01:10,56,70
+TVSUM_11,5,Woman talking about pet food options,01:10,01:24,70,84
+TVSUM_11,6,Woman showing different types of pet food,01:24,02:06,84,126
+TVSUM_11,7,Woman closing the dog's cage,02:06,02:36,126,156
+TVSUM_11,8,Woman exiting the pet grooming salon,02:36,02:40,156,160
+TVSUM_12,1,Person washing dog's fur,00:00,00:09,0,9
+TVSUM_12,2,Woman talking to camera,00:40,00:45,40,45
+TVSUM_12,3,Woman showing products,01:00,01:10,60,70
+TVSUM_12,4,Woman giving dog bath,01:20,02:00,80,120
+TVSUM_12,5,Woman talking to camera,02:00,02:05,120,125
+TVSUM_12,6,Woman giving dog bath,02:10,02:40,130,160
+TVSUM_12,7,Woman talking to camera,02:40,02:45,160,165
+TVSUM_12,8,Woman giving dog bath,02:50,03:20,170,200
+TVSUM_12,9,Woman talking to camera,03:20,03:25,200,205
+TVSUM_12,10,Woman giving dog bath,03:30,04:00,210,240
+TVSUM_12,11,Woman talking to camera,04:00,04:05,240,245
+TVSUM_12,12,Woman giving dog bath,04:10,04:40,250,280
+TVSUM_12,13,Woman talking to camera,04:40,04:45,280,285
+TVSUM_12,14,Woman giving dog bath,04:50,05:20,290,320
+TVSUM_12,15,Woman talking to camera,05:20,05:25,320,325
+TVSUM_12,16,Woman giving dog bath,05:30,06:00,330,360
+TVSUM_12,17,Woman talking to camera,06:00,06:05,360,365
+TVSUM_12,18,Woman giving dog bath,06:10,06:40,370,400
+TVSUM_12,19,Woman talking to camera,06:40,06:45,400,405
+TVSUM_12,20,Woman giving dog bath,06:50,07:30,410,450

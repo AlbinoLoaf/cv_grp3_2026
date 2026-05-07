@@ -1,0 +1,19 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_9,few_shot,1,A person sits next to a car,00:00,00:20,0,20
+TVSUM_9,few_shot,2,The person looks around,00:21,00:40,21,40
+TVSUM_9,few_shot,3,The car drives on the road,00:41,01:00,41,60
+TVSUM_9,few_shot,4,The car's interior is shown,01:01,01:20,61,80
+TVSUM_9,few_shot,5,The person looks at the camera,01:21,01:40,81,100
+TVSUM_9,few_shot,6,The car drives on the road again,01:41,02:00,101,120
+TVSUM_9,few_shot,7,The car's interior is shown again,02:01,02:20,121,140
+TVSUM_9,few_shot,8,The car drives on the road once more,02:21,02:40,141,160
+TVSUM_9,few_shot,9,A woman drives the car,02:41,03:00,161,180
+TVSUM_9,few_shot,10,The car drives on the road again,03:01,03:20,181,200
+TVSUM_9,few_shot,11,The car is shown with a diagram,03:21,03:40,201,220
+TVSUM_9,few_shot,12,The car is shown with another diagram,03:41,03:50,221,230
+TVSUM_9,few_shot,13,The car is shown with yet another diagram,03:51,04:00,231,240
+TVSUM_9,few_shot,14,The car is shown with a third diagram,04:01,04:20,241,260
+TVSUM_9,few_shot,15,The car is shown with a fourth diagram,04:21,04:40,261,280
+TVSUM_9,few_shot,16,The car is shown with a fifth diagram,04:41,04:60,281,300
+TVSUM_9,few_shot,17,The car is shown with a sixth diagram,04:61,04:80,301,320
+TVSUM_9,few_shot,18,The car is shown with a seventh diagram,04:81,05:00,321,300

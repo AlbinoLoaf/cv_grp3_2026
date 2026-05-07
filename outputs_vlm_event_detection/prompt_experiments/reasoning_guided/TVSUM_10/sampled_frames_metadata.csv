@@ -1,0 +1,13 @@
+timestamp,seconds,frame_path
+00:00,0,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_00-00.jpg
+00:12,12,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_00-12.jpg
+00:24,24,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_00-24.jpg
+00:36,36,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_00-36.jpg
+00:48,48,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_00-48.jpg
+01:00,60,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_01-00.jpg
+01:12,72,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_01-12.jpg
+01:24,84,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_01-24.jpg
+01:36,96,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_01-36.jpg
+01:48,108,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_01-48.jpg
+02:00,120,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_02-00.jpg
+02:12,132,outputs_vlm_event_detection\prompt_experiments\reasoning_guided\TVSUM_10\sampled_frames\frame_02-12.jpg

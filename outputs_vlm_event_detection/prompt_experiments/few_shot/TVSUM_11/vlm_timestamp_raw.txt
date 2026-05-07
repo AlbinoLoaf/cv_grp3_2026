@@ -1,0 +1,18 @@
+Salient event 1: A person opens a dog grooming salon, 00:00 - 00:10
+Salient event 2: The person interacts with a dog, 00:11 - 00:20
+Salient event 3: The person prepares the dog for grooming, 00:21 - 00:40
+Salient event 4: The person grooms the dog, 00:41 - 01:00
+Salient event 5: The person interacts with another dog, 01:01 - 01:20
+Salient event 6: The person prepares the second dog for grooming, 01:21 - 01:40
+Salient event 7: The person grooms the second dog, 01:41 - 02:00
+Salient event 8: The person interacts with a third dog, 02:01 - 02:20
+Salient event 9: The person prepares the third dog for grooming, 02:21 - 02:40
+Salient event 10: The person grooms the third dog, 02:41 - 03:00
+Salient event 11: The person interacts with a fourth dog, 03:01 - 03:20
+Salient event 12: The person prepares the fourth dog for grooming, 03:21 - 03:40
+Salient event 13: The person grooms the fourth dog, 03:41 - 04:00
+Salient event 14: The person interacts with a fifth dog, 04:01 - 04:20
+Salient event 15: The person prepares the fifth dog for grooming, 04:21 - 04:40
+Salient event 16: The person grooms the fifth dog, 04:41 - 05:00
+Salient event 17: The person interacts with a sixth dog, 05:01 - 05:20
+Salient event 18: The person prepares the sixth dog for grooming, 05:21 - 05:

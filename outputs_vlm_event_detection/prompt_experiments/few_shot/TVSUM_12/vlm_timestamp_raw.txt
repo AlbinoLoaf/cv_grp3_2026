@@ -1,0 +1,18 @@
+Salient event 1: A person washes their hands, 00:00 - 00:20
+Salient event 2: The person applies soap to their hands, 00:21 - 00:40
+Salient event 3: The person rinses their hands under running water, 00:41 - 01:00
+Salient event 4: The person dries their hands with a towel, 01:01 - 01:20
+Salient event 5: The person applies lotion to their hands, 01:21 - 01:40
+Salient event 6: The person applies hair conditioner to their hair, 01:41 - 02:00
+Salient event 7: The person applies shampoo to their hair, 02:01 - 02:20
+Salient event 8: The person applies conditioner to their hair again, 02:21 - 02:40
+Salient event 9: The person applies hair gel to their hair, 02:41 - 03:20
+Salient event 10: The person applies hair spray to their hair, 03:21 - 03:40
+Salient event 11: The person applies hair gel to their hair again, 03:41 - 04:00
+Salient event 12: The person applies hair spray to their hair again, 04:01 - 04:20
+Salient event 13: The person applies hair gel to their hair again, 04:21 - 04:40
+Salient event 14: The person applies hair spray to their hair again, 04:41 - 05:00
+Salient event 15: The person applies hair gel to their hair again, 05:01 - 05:20
+Salient event 16: The person applies hair spray to their hair again, 05:21 - 05:40
+Salient event 17: The person applies hair gel to their hair again, 05:41 - 06:00
+Salient event 18:
