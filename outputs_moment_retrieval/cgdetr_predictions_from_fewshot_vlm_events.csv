@@ -1,69 +1,69 @@
 model_name,prompt_name,video_name,vlm_event_id,base_query,query_used,best_chunk_id,pred_start_seconds,pred_end_seconds,pred_start,pred_end,confidence
-CG-DETR,few_shot,TVSUM_9,1,A person sits next to a car,someone is involved in: A person sits next to a car,1,162.7406,172.2924,02:43,02:52,0.9992
-CG-DETR,few_shot,TVSUM_9,2,The person looks around,The person looks around,1,162.75900000000001,170.85399999999998,02:43,02:51,0.9996
-CG-DETR,few_shot,TVSUM_9,3,The car drives on the road,a video of The car drives on the road,1,214.2356,228.8877,03:34,03:49,0.9958
-CG-DETR,few_shot,TVSUM_9,4,The car's interior is shown,a scene where The car's interior is shown,1,162.4561,176.7437,02:42,02:57,0.9989
-CG-DETR,few_shot,TVSUM_9,5,The person looks at the camera,a video of The person looks at the camera,1,162.7467,170.9913,02:43,02:51,0.9997
-CG-DETR,few_shot,TVSUM_9,6,The car drives on the road again,a video of The car drives on the road again,1,214.1796,228.9178,03:34,03:49,0.9956
-CG-DETR,few_shot,TVSUM_9,7,The car's interior is shown again,a scene where The car's interior is shown again,1,162.4349,176.6987,02:42,02:57,0.9991
-CG-DETR,few_shot,TVSUM_9,8,The car drives on the road once more,a video of The car drives on the road once more,1,214.1849,228.9549,03:34,03:49,0.9961
-CG-DETR,few_shot,TVSUM_9,9,A woman drives the car,someone is involved in: A woman drives the car,1,162.5306,177.1128,02:43,02:57,0.997
-CG-DETR,few_shot,TVSUM_9,10,The car drives on the road again,a video of The car drives on the road again,1,214.1796,228.9178,03:34,03:49,0.9956
-CG-DETR,few_shot,TVSUM_9,11,The car is shown with a diagram,the moment when The car is shown with a diagram,1,162.5998,176.9827,02:43,02:57,0.9986
-CG-DETR,few_shot,TVSUM_9,12,The car is shown with another diagram,the moment when The car is shown with another diagram,1,162.5662,176.9574,02:43,02:57,0.9986
-CG-DETR,few_shot,TVSUM_9,13,The car is shown with yet another diagram,the moment when The car is shown with yet another diagram,1,162.5403,176.9043,02:43,02:57,0.9988
-CG-DETR,few_shot,TVSUM_9,14,The car is shown with a third diagram,the moment when The car is shown with a third diagram,1,162.6282,177.0028,02:43,02:57,0.9985
-CG-DETR,few_shot,TVSUM_9,15,The car is shown with a fourth diagram,a video of The car is shown with a fourth diagram,1,162.70420000000001,177.0768,02:43,02:57,0.9979
-CG-DETR,few_shot,TVSUM_9,16,The car is shown with a fifth diagram,the moment when The car is shown with a fifth diagram,1,162.6702,177.0342,02:43,02:57,0.9982
-CG-DETR,few_shot,TVSUM_9,17,The car is shown with a sixth diagram,the moment when The car is shown with a sixth diagram,1,162.6265,177.0,02:43,02:57,0.9984
-CG-DETR,few_shot,TVSUM_9,18,The car is shown with a seventh diagram,the moment when The car is shown with a seventh diagram,1,162.6465,177.0201,02:43,02:57,0.9983
-CG-DETR,few_shot,TVSUM_10,1,An electric car is shown being charged,An electric car is shown being charged,0,7.0377,29.5836,00:07,00:30,0.9995
-CG-DETR,few_shot,TVSUM_10,2,A news anchor introduces an electric car segment,A news anchor introduces an electric car segment,0,2.9159,27.0408,00:03,00:27,0.9998
-CG-DETR,few_shot,TVSUM_10,3,A man discusses the charging system for electric vehicles,the moment when A man discusses the charging system for electric vehicles,0,6.336,29.0251,00:06,00:29,0.9992
-CG-DETR,few_shot,TVSUM_10,4,A graph showing data related to electric cars is displayed,A graph showing data related to electric cars is displayed,0,0.5673,25.7063,00:01,00:26,0.999
-CG-DETR,few_shot,TVSUM_10,5,A man speaks about the benefits of electric cars,someone is involved in: A man speaks about the benefits of electric cars,0,4.2419,29.1687,00:04,00:29,0.9961
-CG-DETR,few_shot,TVSUM_10,6,A man discusses the importance of electric car technology at an exhibition,a video of A man discusses the importance of electric car technology at an exhibition,0,1.209,27.7058,00:01,00:28,0.9973
-CG-DETR,few_shot,TVSUM_10,7,A bus is shown driving on a road,someone is involved in: A bus is shown driving on a road,0,8.261,29.9693,00:08,00:30,0.9965
-CG-DETR,few_shot,TVSUM_10,8,Attendees are shown taking notes during a meeting,a scene where Attendees are shown taking notes during a meeting,0,112.5802,127.3821,01:53,02:07,0.9991
-CG-DETR,few_shot,TVSUM_10,9,Attendees are shown interacting with a display at an exhibition,a scene where Attendees are shown interacting with a display at an exhibition,0,110.5403,132.718,01:51,02:13,0.9994
-CG-DETR,few_shot,TVSUM_10,10,A man speaks about the future of electric cars,someone is involved in: A man speaks about the future of electric cars,0,3.9513,29.0807,00:04,00:29,0.9968
-CG-DETR,few_shot,TVSUM_10,11,A woman demonstrates how to use a charging station,A woman demonstrates how to use a charging station,0,63.5197,75.9242,01:04,01:16,0.9963
-CG-DETR,few_shot,TVSUM_10,12,A man speaks about the benefits of electric cars,someone is involved in: A man speaks about the benefits of electric cars,0,4.2419,29.1687,00:04,00:29,0.9961
-CG-DETR,few_shot,TVSUM_10,13,A man speaks about the importance of electric car technology,someone is involved in: A man speaks about the importance of electric car technology,0,4.5489,29.0831,00:05,00:29,0.9969
-CG-DETR,few_shot,TVSUM_10,14,A woman demonstrates how to use a charging station,A woman demonstrates how to use a charging station,0,63.5197,75.9242,01:04,01:16,0.9963
-CG-DETR,few_shot,TVSUM_10,15,A man speaks about the benefits of electric cars,someone is involved in: A man speaks about the benefits of electric cars,0,4.2419,29.1687,00:04,00:29,0.9961
-CG-DETR,few_shot,TVSUM_10,16,A man speaks about the importance of electric car technology,someone is involved in: A man speaks about the importance of electric car technology,0,4.5489,29.0831,00:05,00:29,0.9969
-CG-DETR,few_shot,TVSUM_11,1,A person opens a dog grooming salon,a scene where A person opens a dog grooming salon,0,14.8407,106.613,00:15,01:47,0.9984
-CG-DETR,few_shot,TVSUM_11,2,The person interacts with a dog,a scene where The person interacts with a dog,0,16.4641,107.337,00:16,01:47,0.9962
-CG-DETR,few_shot,TVSUM_11,3,The person prepares the dog for grooming,a scene where The person prepares the dog for grooming,0,15.8479,107.2061,00:16,01:47,0.9978
-CG-DETR,few_shot,TVSUM_11,4,The person grooms the dog,a scene where The person grooms the dog,0,16.549,106.8217,00:17,01:47,0.9967
-CG-DETR,few_shot,TVSUM_11,5,The person interacts with another dog,a scene where The person interacts with another dog,0,16.1203,107.3197,00:16,01:47,0.9971
-CG-DETR,few_shot,TVSUM_11,6,The person prepares the second dog for grooming,a scene where The person prepares the second dog for grooming,0,15.0897,107.0775,00:15,01:47,0.9981
-CG-DETR,few_shot,TVSUM_11,7,The person grooms the second dog,a scene where The person grooms the second dog,0,16.0601,106.9082,00:16,01:47,0.9976
-CG-DETR,few_shot,TVSUM_11,8,The person interacts with a third dog,a scene where The person interacts with a third dog,0,16.2313,107.1993,00:16,01:47,0.9963
-CG-DETR,few_shot,TVSUM_11,9,The person prepares the third dog for grooming,a scene where The person prepares the third dog for grooming,0,14.9667,107.1071,00:15,01:47,0.998
-CG-DETR,few_shot,TVSUM_11,10,The person grooms the third dog,a scene where The person grooms the third dog,0,16.2218,106.8733,00:16,01:47,0.9973
-CG-DETR,few_shot,TVSUM_11,11,The person interacts with a fourth dog,a scene where The person interacts with a fourth dog,0,16.3762,107.1234,00:16,01:47,0.9959
-CG-DETR,few_shot,TVSUM_11,12,The person prepares the fourth dog for grooming,a scene where The person prepares the fourth dog for grooming,0,14.9528,106.9356,00:15,01:47,0.998
-CG-DETR,few_shot,TVSUM_11,13,The person grooms the fourth dog,a scene where The person grooms the fourth dog,0,16.2698,106.8342,00:16,01:47,0.9971
-CG-DETR,few_shot,TVSUM_11,14,The person interacts with a fifth dog,a scene where The person interacts with a fifth dog,0,16.418,107.3014,00:16,01:47,0.9952
-CG-DETR,few_shot,TVSUM_11,15,The person prepares the fifth dog for grooming,a scene where The person prepares the fifth dog for grooming,0,14.9912,107.1317,00:15,01:47,0.9978
-CG-DETR,few_shot,TVSUM_11,16,The person grooms the fifth dog,a scene where The person grooms the fifth dog,0,16.1432,106.9034,00:16,01:47,0.9969
-CG-DETR,few_shot,TVSUM_11,17,The person interacts with a sixth dog,a scene where The person interacts with a sixth dog,0,16.2712,107.3062,00:16,01:47,0.9965
-CG-DETR,few_shot,TVSUM_12,1,A person washes their hands,the moment when A person washes their hands,0,67.6948,89.0775,01:08,01:29,0.9996
-CG-DETR,few_shot,TVSUM_12,2,The person applies soap to their hands,The person applies soap to their hands,0,68.106,88.4415,01:08,01:28,0.9997
-CG-DETR,few_shot,TVSUM_12,3,The person rinses their hands under running water,a video of The person rinses their hands under running water,3,448.8983,449.9613,07:29,07:30,0.9993
-CG-DETR,few_shot,TVSUM_12,4,The person dries their hands with a towel,a scene where The person dries their hands with a towel,3,448.8982,449.961,07:29,07:30,0.9993
-CG-DETR,few_shot,TVSUM_12,5,The person applies lotion to their hands,The person applies lotion to their hands,0,68.092,88.5855,01:08,01:29,0.9997
-CG-DETR,few_shot,TVSUM_12,6,The person applies hair conditioner to their hair,a video of The person applies hair conditioner to their hair,0,7.3097,25.4519,00:07,00:25,0.9994
-CG-DETR,few_shot,TVSUM_12,7,The person applies shampoo to their hair,a video of The person applies shampoo to their hair,2,306.6809,319.5737,05:07,05:20,0.9993
-CG-DETR,few_shot,TVSUM_12,8,The person applies conditioner to their hair again,a scene where The person applies conditioner to their hair again,2,306.3463,319.4729,05:06,05:19,0.9994
-CG-DETR,few_shot,TVSUM_12,9,The person applies hair gel to their hair,The person applies hair gel to their hair,2,305.9847,319.5832,05:06,05:20,0.9992
-CG-DETR,few_shot,TVSUM_12,10,The person applies hair spray to their hair,a video of The person applies hair spray to their hair,0,6.678,25.6058,00:07,00:26,0.9995
-CG-DETR,few_shot,TVSUM_12,11,The person applies hair gel to their hair again,a video of The person applies hair gel to their hair again,0,3.841,24.2893,00:04,00:24,0.9992
-CG-DETR,few_shot,TVSUM_12,12,The person applies hair spray to their hair again,a video of The person applies hair spray to their hair again,0,7.2038,25.67,00:07,00:26,0.9995
-CG-DETR,few_shot,TVSUM_12,13,The person applies hair gel to their hair again,a video of The person applies hair gel to their hair again,0,3.841,24.2893,00:04,00:24,0.9992
-CG-DETR,few_shot,TVSUM_12,14,The person applies hair spray to their hair again,a video of The person applies hair spray to their hair again,0,7.2038,25.67,00:07,00:26,0.9995
-CG-DETR,few_shot,TVSUM_12,15,The person applies hair gel to their hair again,a video of The person applies hair gel to their hair again,0,3.841,24.2893,00:04,00:24,0.9992
-CG-DETR,few_shot,TVSUM_12,16,The person applies hair spray to their hair again,a video of The person applies hair spray to their hair again,0,7.2038,25.67,00:07,00:26,0.9995
-CG-DETR,few_shot,TVSUM_12,17,The person applies hair gel to their hair again,a video of The person applies hair gel to their hair again,0,3.841,24.2893,00:04,00:24,0.9992
+CG-DETR,few_shot,TVSUM_9,1,A person sits next to a car,A person sits next to a car,0,1.5403,20.9329,00:02,00:21,0.9989
+CG-DETR,few_shot,TVSUM_9,2,The person looks around,the moment when The person looks around,0,72.5142,89.8179,01:13,01:30,0.9996
+CG-DETR,few_shot,TVSUM_9,3,The car drives on the road,the moment when The car drives on the road,1,213.7529,228.6061,03:34,03:49,0.9882
+CG-DETR,few_shot,TVSUM_9,4,The car's interior is shown,a scene where The car's interior is shown,0,69.9871,90.2572,01:10,01:30,0.9947
+CG-DETR,few_shot,TVSUM_9,5,The person looks at the camera,someone is involved in: The person looks at the camera,0,71.9306,90.5704,01:12,01:31,0.9993
+CG-DETR,few_shot,TVSUM_9,6,The car drives on the road again,the moment when The car drives on the road again,1,213.8981,228.6196,03:34,03:49,0.9852
+CG-DETR,few_shot,TVSUM_9,7,The car's interior is shown again,a scene where The car's interior is shown again,0,70.0908,90.3882,01:10,01:30,0.9928
+CG-DETR,few_shot,TVSUM_9,8,The car drives on the road once more,the moment when The car drives on the road once more,1,213.92149999999998,228.7053,03:34,03:49,0.9881
+CG-DETR,few_shot,TVSUM_9,9,A woman drives the car,someone is involved in: A woman drives the car,0,69.8943,90.1522,01:10,01:30,0.9949
+CG-DETR,few_shot,TVSUM_9,10,The car drives on the road again,the moment when The car drives on the road again,1,213.8981,228.6196,03:34,03:49,0.9852
+CG-DETR,few_shot,TVSUM_9,11,The car is shown with a diagram,a scene where The car is shown with a diagram,0,69.208,90.1687,01:09,01:30,0.9921
+CG-DETR,few_shot,TVSUM_9,12,The car is shown with another diagram,a scene where The car is shown with another diagram,0,69.2558,90.0856,01:09,01:30,0.9923
+CG-DETR,few_shot,TVSUM_9,13,The car is shown with yet another diagram,a scene where The car is shown with yet another diagram,0,69.3032,90.216,01:09,01:30,0.9926
+CG-DETR,few_shot,TVSUM_9,14,The car is shown with a third diagram,a scene where The car is shown with a third diagram,0,69.206,90.1716,01:09,01:30,0.9923
+CG-DETR,few_shot,TVSUM_9,15,The car is shown with a fourth diagram,a scene where The car is shown with a fourth diagram,0,69.2007,90.0217,01:09,01:30,0.9914
+CG-DETR,few_shot,TVSUM_9,16,The car is shown with a fifth diagram,a scene where The car is shown with a fifth diagram,0,69.2158,90.163,01:09,01:30,0.992
+CG-DETR,few_shot,TVSUM_9,17,The car is shown with a sixth diagram,a scene where The car is shown with a sixth diagram,0,69.2616,90.1842,01:09,01:30,0.9917
+CG-DETR,few_shot,TVSUM_9,18,The car is shown with a seventh diagram,a scene where The car is shown with a seventh diagram,0,69.2484,90.2174,01:09,01:30,0.9927
+CG-DETR,few_shot,TVSUM_10,1,An electric car is shown being charged,a video of An electric car is shown being charged,0,6.4564,28.3717,00:06,00:28,0.9992
+CG-DETR,few_shot,TVSUM_10,2,A news anchor introduces an electric car segment,A news anchor introduces an electric car segment,0,3.8201,26.5046,00:04,00:27,0.9997
+CG-DETR,few_shot,TVSUM_10,3,A man discusses the charging system for electric vehicles,A man discusses the charging system for electric vehicles,0,6.1048,27.8804,00:06,00:28,0.9988
+CG-DETR,few_shot,TVSUM_10,4,A graph showing data related to electric cars is displayed,A graph showing data related to electric cars is displayed,0,0.9831,25.8277,00:01,00:26,0.9993
+CG-DETR,few_shot,TVSUM_10,5,A man speaks about the benefits of electric cars,A man speaks about the benefits of electric cars,0,7.2038,30.3794,00:07,00:30,0.9907
+CG-DETR,few_shot,TVSUM_10,6,A man discusses the importance of electric car technology at an exhibition,a video of A man discusses the importance of electric car technology at an exhibition,0,2.6446,27.4524,00:03,00:27,0.995
+CG-DETR,few_shot,TVSUM_10,7,A bus is shown driving on a road,A bus is shown driving on a road,1,122.8723,125.1893,02:03,02:05,0.9995
+CG-DETR,few_shot,TVSUM_10,8,Attendees are shown taking notes during a meeting,someone is involved in: Attendees are shown taking notes during a meeting,1,120.0,122.9711,02:00,02:03,0.9974
+CG-DETR,few_shot,TVSUM_10,9,Attendees are shown interacting with a display at an exhibition,Attendees are shown interacting with a display at an exhibition,1,130.8149,133.871,02:11,02:14,0.9993
+CG-DETR,few_shot,TVSUM_10,10,A man speaks about the future of electric cars,a video of A man speaks about the future of electric cars,1,125.12,130.0643,02:05,02:10,0.9918
+CG-DETR,few_shot,TVSUM_10,11,A woman demonstrates how to use a charging station,A woman demonstrates how to use a charging station,0,63.9611,75.953,01:04,01:16,0.9985
+CG-DETR,few_shot,TVSUM_10,12,A man speaks about the benefits of electric cars,A man speaks about the benefits of electric cars,0,7.2038,30.3794,00:07,00:30,0.9907
+CG-DETR,few_shot,TVSUM_10,13,A man speaks about the importance of electric car technology,a video of A man speaks about the importance of electric car technology,1,125.0164,130.5181,02:05,02:11,0.9866
+CG-DETR,few_shot,TVSUM_10,14,A woman demonstrates how to use a charging station,A woman demonstrates how to use a charging station,0,63.9611,75.953,01:04,01:16,0.9985
+CG-DETR,few_shot,TVSUM_10,15,A man speaks about the benefits of electric cars,A man speaks about the benefits of electric cars,0,7.2038,30.3794,00:07,00:30,0.9907
+CG-DETR,few_shot,TVSUM_10,16,A man speaks about the importance of electric car technology,a video of A man speaks about the importance of electric car technology,1,125.0164,130.5181,02:05,02:11,0.9866
+CG-DETR,few_shot,TVSUM_11,1,A person opens a dog grooming salon,a video of A person opens a dog grooming salon,1,149.0624,155.96370000000002,02:29,02:36,0.9942
+CG-DETR,few_shot,TVSUM_11,2,The person interacts with a dog,a video of The person interacts with a dog,0,24.6739,93.2503,00:25,01:33,0.9909
+CG-DETR,few_shot,TVSUM_11,3,The person prepares the dog for grooming,someone is involved in: The person prepares the dog for grooming,0,23.8548,92.7202,00:24,01:33,0.9907
+CG-DETR,few_shot,TVSUM_11,4,The person grooms the dog,a video of The person grooms the dog,0,23.9407,93.5132,00:24,01:34,0.9873
+CG-DETR,few_shot,TVSUM_11,5,The person interacts with another dog,someone is involved in: The person interacts with another dog,0,24.6647,93.5919,00:25,01:34,0.9898
+CG-DETR,few_shot,TVSUM_11,6,The person prepares the second dog for grooming,a scene where The person prepares the second dog for grooming,0,14.0946,97.6478,00:14,01:38,0.9905
+CG-DETR,few_shot,TVSUM_11,7,The person grooms the second dog,the moment when The person grooms the second dog,0,23.3214,93.8231,00:23,01:34,0.984
+CG-DETR,few_shot,TVSUM_11,8,The person interacts with a third dog,the moment when The person interacts with a third dog,0,24.9007,93.5928,00:25,01:34,0.9919
+CG-DETR,few_shot,TVSUM_11,9,The person prepares the third dog for grooming,a scene where The person prepares the third dog for grooming,0,13.9066,97.6648,00:14,01:38,0.9899
+CG-DETR,few_shot,TVSUM_11,10,The person grooms the third dog,the moment when The person grooms the third dog,0,23.5838,93.8275,00:24,01:34,0.9834
+CG-DETR,few_shot,TVSUM_11,11,The person interacts with a fourth dog,The person interacts with a fourth dog,0,24.7586,93.7141,00:25,01:34,0.9913
+CG-DETR,few_shot,TVSUM_11,12,The person prepares the fourth dog for grooming,a scene where The person prepares the fourth dog for grooming,0,13.8129,97.6257,00:14,01:38,0.9895
+CG-DETR,few_shot,TVSUM_11,13,The person grooms the fourth dog,the moment when The person grooms the fourth dog,0,23.9424,94.0558,00:24,01:34,0.9846
+CG-DETR,few_shot,TVSUM_11,14,The person interacts with a fifth dog,The person interacts with a fifth dog,0,24.8227,93.7853,00:25,01:34,0.9903
+CG-DETR,few_shot,TVSUM_11,15,The person prepares the fifth dog for grooming,a scene where The person prepares the fifth dog for grooming,0,13.7738,97.4706,00:14,01:37,0.9871
+CG-DETR,few_shot,TVSUM_11,16,The person grooms the fifth dog,a video of The person grooms the fifth dog,1,149.2881,156.0,02:29,02:36,0.9811
+CG-DETR,few_shot,TVSUM_11,17,The person interacts with a sixth dog,the moment when The person interacts with a sixth dog,0,24.7948,93.7677,00:25,01:34,0.9902
+CG-DETR,few_shot,TVSUM_12,1,A person washes their hands,the moment when A person washes their hands,0,68.4203,89.2833,01:08,01:29,0.9997
+CG-DETR,few_shot,TVSUM_12,2,The person applies soap to their hands,The person applies soap to their hands,0,68.6294,88.9875,01:09,01:29,0.9998
+CG-DETR,few_shot,TVSUM_12,3,The person rinses their hands under running water,a video of The person rinses their hands under running water,3,393.1701,404.68489999999997,06:33,06:45,0.9996
+CG-DETR,few_shot,TVSUM_12,4,The person dries their hands with a towel,a scene where The person dries their hands with a towel,3,392.7123,407.121,06:33,06:47,0.9997
+CG-DETR,few_shot,TVSUM_12,5,The person applies lotion to their hands,The person applies lotion to their hands,0,68.543,89.0286,01:09,01:29,0.9998
+CG-DETR,few_shot,TVSUM_12,6,The person applies hair conditioner to their hair,a video of The person applies hair conditioner to their hair,0,7.4959,24.4807,00:07,00:24,0.9984
+CG-DETR,few_shot,TVSUM_12,7,The person applies shampoo to their hair,a video of The person applies shampoo to their hair,0,7.2091,24.4723,00:07,00:24,0.9971
+CG-DETR,few_shot,TVSUM_12,8,The person applies conditioner to their hair again,a video of The person applies conditioner to their hair again,0,7.5648,24.8141,00:08,00:25,0.9985
+CG-DETR,few_shot,TVSUM_12,9,The person applies hair gel to their hair,a scene where The person applies hair gel to their hair,0,5.9735,24.0095,00:06,00:24,0.9982
+CG-DETR,few_shot,TVSUM_12,10,The person applies hair spray to their hair,a scene where The person applies hair spray to their hair,0,8.3325,25.0369,00:08,00:25,0.9987
+CG-DETR,few_shot,TVSUM_12,11,The person applies hair gel to their hair again,a scene where The person applies hair gel to their hair again,0,6.1588,23.961,00:06,00:24,0.9986
+CG-DETR,few_shot,TVSUM_12,12,The person applies hair spray to their hair again,a scene where The person applies hair spray to their hair again,0,8.1836,24.9071,00:08,00:25,0.999
+CG-DETR,few_shot,TVSUM_12,13,The person applies hair gel to their hair again,a scene where The person applies hair gel to their hair again,0,6.1588,23.961,00:06,00:24,0.9986
+CG-DETR,few_shot,TVSUM_12,14,The person applies hair spray to their hair again,a scene where The person applies hair spray to their hair again,0,8.1836,24.9071,00:08,00:25,0.999
+CG-DETR,few_shot,TVSUM_12,15,The person applies hair gel to their hair again,a scene where The person applies hair gel to their hair again,0,6.1588,23.961,00:06,00:24,0.9986
+CG-DETR,few_shot,TVSUM_12,16,The person applies hair spray to their hair again,a scene where The person applies hair spray to their hair again,0,8.1836,24.9071,00:08,00:25,0.999
+CG-DETR,few_shot,TVSUM_12,17,The person applies hair gel to their hair again,a scene where The person applies hair gel to their hair again,0,6.1588,23.961,00:06,00:24,0.9986
