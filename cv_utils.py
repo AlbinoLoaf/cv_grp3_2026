@@ -22,3 +22,17 @@ import os
 # Finally, our plotting library
 import seaborn as sns
 import matplotlib.pyplot as plt
+
+
+
+def seconds_to_mmss(seconds):
+    """Convert seconds to MM:SS format."""
+    seconds = int(round(seconds))
+    minutes = seconds // 60
+    secs = seconds % 60
+    return f"{minutes:02d}:{secs:02d}"
+
+def mmss_to_seconds(time_str):
+    """Convert MM:SS format to seconds."""
+    minutes, seconds = time_str.strip().split(":")
+    return int(minutes) * 60 + int(seconds)
