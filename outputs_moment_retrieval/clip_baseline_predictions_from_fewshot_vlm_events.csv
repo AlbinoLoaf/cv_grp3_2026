@@ -1,0 +1,69 @@
+model_name,prompt_name,video_name,vlm_event_id,base_query,query_used,pred_start_seconds,pred_end_seconds,pred_start,pred_end,confidence
+CLIP-baseline,few_shot,TVSUM_9,1,A person sits next to a car,a video of A person sits next to a car,105.0,111.0,01:45,01:51,0.30829742550849915
+CLIP-baseline,few_shot,TVSUM_9,2,The person looks around,a video of The person looks around,49.0,55.0,00:49,00:55,0.2848934233188629
+CLIP-baseline,few_shot,TVSUM_9,3,The car drives on the road,a video of The car drives on the road,49.0,55.0,00:49,00:55,0.30107611417770386
+CLIP-baseline,few_shot,TVSUM_9,4,The car's interior is shown,a video of The car's interior is shown,110.0,116.0,01:50,01:56,0.3504255712032318
+CLIP-baseline,few_shot,TVSUM_9,5,The person looks at the camera,a video of The person looks at the camera,219.0,225.0,03:39,03:45,0.28183528780937195
+CLIP-baseline,few_shot,TVSUM_9,6,The car drives on the road again,a video of The car drives on the road again,105.0,111.0,01:45,01:51,0.29599881172180176
+CLIP-baseline,few_shot,TVSUM_9,7,The car's interior is shown again,a video of The car's interior is shown again,43.0,49.0,00:43,00:49,0.3339743912220001
+CLIP-baseline,few_shot,TVSUM_9,8,The car drives on the road once more,a video of The car drives on the road once more,49.0,55.0,00:49,00:55,0.30025023221969604
+CLIP-baseline,few_shot,TVSUM_9,9,A woman drives the car,a video of A woman drives the car,206.0,212.0,03:26,03:32,0.31874361634254456
+CLIP-baseline,few_shot,TVSUM_9,10,The car drives on the road again,a video of The car drives on the road again,105.0,111.0,01:45,01:51,0.29599881172180176
+CLIP-baseline,few_shot,TVSUM_9,11,The car is shown with a diagram,a video of The car is shown with a diagram,119.0,125.0,01:59,02:05,0.35270199179649353
+CLIP-baseline,few_shot,TVSUM_9,12,The car is shown with another diagram,a video of The car is shown with another diagram,119.0,125.0,01:59,02:05,0.35205909609794617
+CLIP-baseline,few_shot,TVSUM_9,13,The car is shown with yet another diagram,a video of The car is shown with yet another diagram,119.0,125.0,01:59,02:05,0.3519439697265625
+CLIP-baseline,few_shot,TVSUM_9,14,The car is shown with a third diagram,a video of The car is shown with a third diagram,119.0,125.0,01:59,02:05,0.3476015329360962
+CLIP-baseline,few_shot,TVSUM_9,15,The car is shown with a fourth diagram,a video of The car is shown with a fourth diagram,119.0,125.0,01:59,02:05,0.35454854369163513
+CLIP-baseline,few_shot,TVSUM_9,16,The car is shown with a fifth diagram,a video of The car is shown with a fifth diagram,119.0,125.0,01:59,02:05,0.3464909493923187
+CLIP-baseline,few_shot,TVSUM_9,17,The car is shown with a sixth diagram,a video of The car is shown with a sixth diagram,118.0,124.0,01:58,02:04,0.34966644644737244
+CLIP-baseline,few_shot,TVSUM_9,18,The car is shown with a seventh diagram,a video of The car is shown with a seventh diagram,119.0,125.0,01:59,02:05,0.3449515700340271
+CLIP-baseline,few_shot,TVSUM_10,1,An electric car is shown being charged,a video of An electric car is shown being charged,37.0,43.0,00:37,00:43,0.3484465479850769
+CLIP-baseline,few_shot,TVSUM_10,2,A news anchor introduces an electric car segment,a video of A news anchor introduces an electric car segment,16.0,22.0,00:16,00:22,0.39296969771385193
+CLIP-baseline,few_shot,TVSUM_10,3,A man discusses the charging system for electric vehicles,a video of A man discusses the charging system for electric vehicles,42.0,48.0,00:42,00:48,0.35277366638183594
+CLIP-baseline,few_shot,TVSUM_10,4,A graph showing data related to electric cars is displayed,a video of A graph showing data related to electric cars is displayed,11.0,17.0,00:11,00:17,0.3485478460788727
+CLIP-baseline,few_shot,TVSUM_10,5,A man speaks about the benefits of electric cars,the moment when A man speaks about the benefits of electric cars,85.0,91.0,01:25,01:31,0.357432097196579
+CLIP-baseline,few_shot,TVSUM_10,6,A man discusses the importance of electric car technology at an exhibition,A man discusses the importance of electric car technology at an exhibition,85.0,91.0,01:25,01:31,0.3597334921360016
+CLIP-baseline,few_shot,TVSUM_10,7,A bus is shown driving on a road,a video of A bus is shown driving on a road,106.0,112.0,01:46,01:52,0.3425740897655487
+CLIP-baseline,few_shot,TVSUM_10,8,Attendees are shown taking notes during a meeting,a video of Attendees are shown taking notes during a meeting,118.0,124.0,01:58,02:04,0.3258114755153656
+CLIP-baseline,few_shot,TVSUM_10,9,Attendees are shown interacting with a display at an exhibition,a video of Attendees are shown interacting with a display at an exhibition,130.0,133.0,02:10,02:13,0.2994195818901062
+CLIP-baseline,few_shot,TVSUM_10,10,A man speaks about the future of electric cars,the moment when A man speaks about the future of electric cars,85.0,91.0,01:25,01:31,0.34759530425071716
+CLIP-baseline,few_shot,TVSUM_10,11,A woman demonstrates how to use a charging station,the moment when A woman demonstrates how to use a charging station,129.0,133.0,02:09,02:13,0.31927838921546936
+CLIP-baseline,few_shot,TVSUM_10,12,A man speaks about the benefits of electric cars,the moment when A man speaks about the benefits of electric cars,85.0,91.0,01:25,01:31,0.357432097196579
+CLIP-baseline,few_shot,TVSUM_10,13,A man speaks about the importance of electric car technology,A man speaks about the importance of electric car technology,85.0,91.0,01:25,01:31,0.3522319495677948
+CLIP-baseline,few_shot,TVSUM_10,14,A woman demonstrates how to use a charging station,the moment when A woman demonstrates how to use a charging station,129.0,133.0,02:09,02:13,0.31927838921546936
+CLIP-baseline,few_shot,TVSUM_10,15,A man speaks about the benefits of electric cars,the moment when A man speaks about the benefits of electric cars,85.0,91.0,01:25,01:31,0.357432097196579
+CLIP-baseline,few_shot,TVSUM_10,16,A man speaks about the importance of electric car technology,A man speaks about the importance of electric car technology,85.0,91.0,01:25,01:31,0.3522319495677948
+CLIP-baseline,few_shot,TVSUM_11,1,A person opens a dog grooming salon,a video of A person opens a dog grooming salon,2.0,8.0,00:02,00:08,0.35395482182502747
+CLIP-baseline,few_shot,TVSUM_11,2,The person interacts with a dog,a video of The person interacts with a dog,64.0,70.0,01:04,01:10,0.31345510482788086
+CLIP-baseline,few_shot,TVSUM_11,3,The person prepares the dog for grooming,a video of The person prepares the dog for grooming,84.0,90.0,01:24,01:30,0.34972506761550903
+CLIP-baseline,few_shot,TVSUM_11,4,The person grooms the dog,a video of The person grooms the dog,91.0,97.0,01:31,01:37,0.3240639567375183
+CLIP-baseline,few_shot,TVSUM_11,5,The person interacts with another dog,a video of The person interacts with another dog,64.0,70.0,01:04,01:10,0.31615111231803894
+CLIP-baseline,few_shot,TVSUM_11,6,The person prepares the second dog for grooming,a video of The person prepares the second dog for grooming,95.0,101.0,01:35,01:41,0.3487245440483093
+CLIP-baseline,few_shot,TVSUM_11,7,The person grooms the second dog,a video of The person grooms the second dog,91.0,97.0,01:31,01:37,0.3231217563152313
+CLIP-baseline,few_shot,TVSUM_11,8,The person interacts with a third dog,a video of The person interacts with a third dog,64.0,70.0,01:04,01:10,0.3172551393508911
+CLIP-baseline,few_shot,TVSUM_11,9,The person prepares the third dog for grooming,a video of The person prepares the third dog for grooming,55.0,61.0,00:55,01:01,0.34670570492744446
+CLIP-baseline,few_shot,TVSUM_11,10,The person grooms the third dog,a video of The person grooms the third dog,91.0,97.0,01:31,01:37,0.3212539255619049
+CLIP-baseline,few_shot,TVSUM_11,11,The person interacts with a fourth dog,a video of The person interacts with a fourth dog,64.0,70.0,01:04,01:10,0.31712785363197327
+CLIP-baseline,few_shot,TVSUM_11,12,The person prepares the fourth dog for grooming,a video of The person prepares the fourth dog for grooming,55.0,61.0,00:55,01:01,0.3460109531879425
+CLIP-baseline,few_shot,TVSUM_11,13,The person grooms the fourth dog,a video of The person grooms the fourth dog,91.0,97.0,01:31,01:37,0.32255879044532776
+CLIP-baseline,few_shot,TVSUM_11,14,The person interacts with a fifth dog,a video of The person interacts with a fifth dog,64.0,70.0,01:04,01:10,0.31963416934013367
+CLIP-baseline,few_shot,TVSUM_11,15,The person prepares the fifth dog for grooming,a video of The person prepares the fifth dog for grooming,55.0,61.0,00:55,01:01,0.344124436378479
+CLIP-baseline,few_shot,TVSUM_11,16,The person grooms the fifth dog,a video of The person grooms the fifth dog,91.0,97.0,01:31,01:37,0.31724005937576294
+CLIP-baseline,few_shot,TVSUM_11,17,The person interacts with a sixth dog,a video of The person interacts with a sixth dog,64.0,70.0,01:04,01:10,0.31598180532455444
+CLIP-baseline,few_shot,TVSUM_12,1,A person washes their hands,a video of A person washes their hands,107.0,113.0,01:47,01:53,0.33784955739974976
+CLIP-baseline,few_shot,TVSUM_12,2,The person applies soap to their hands,a video of The person applies soap to their hands,107.0,113.0,01:47,01:53,0.34108278155326843
+CLIP-baseline,few_shot,TVSUM_12,3,The person rinses their hands under running water,a video of The person rinses their hands under running water,107.0,113.0,01:47,01:53,0.33924001455307007
+CLIP-baseline,few_shot,TVSUM_12,4,The person dries their hands with a towel,a video of The person dries their hands with a towel,321.0,327.0,05:21,05:27,0.33248788118362427
+CLIP-baseline,few_shot,TVSUM_12,5,The person applies lotion to their hands,a video of The person applies lotion to their hands,81.0,87.0,01:21,01:27,0.3360166847705841
+CLIP-baseline,few_shot,TVSUM_12,6,The person applies hair conditioner to their hair,a video of The person applies hair conditioner to their hair,141.0,147.0,02:21,02:27,0.3248368799686432
+CLIP-baseline,few_shot,TVSUM_12,7,The person applies shampoo to their hair,a video of The person applies shampoo to their hair,285.0,291.0,04:45,04:51,0.3235170245170593
+CLIP-baseline,few_shot,TVSUM_12,8,The person applies conditioner to their hair again,a video of The person applies conditioner to their hair again,158.0,164.0,02:38,02:44,0.33020588755607605
+CLIP-baseline,few_shot,TVSUM_12,9,The person applies hair gel to their hair,a video of The person applies hair gel to their hair,342.0,348.0,05:42,05:48,0.30180051922798157
+CLIP-baseline,few_shot,TVSUM_12,10,The person applies hair spray to their hair,a video of The person applies hair spray to their hair,342.0,348.0,05:42,05:48,0.3153093457221985
+CLIP-baseline,few_shot,TVSUM_12,11,The person applies hair gel to their hair again,a video of The person applies hair gel to their hair again,342.0,348.0,05:42,05:48,0.3039378523826599
+CLIP-baseline,few_shot,TVSUM_12,12,The person applies hair spray to their hair again,a video of The person applies hair spray to their hair again,342.0,348.0,05:42,05:48,0.31670889258384705
+CLIP-baseline,few_shot,TVSUM_12,13,The person applies hair gel to their hair again,a video of The person applies hair gel to their hair again,342.0,348.0,05:42,05:48,0.3039378523826599
+CLIP-baseline,few_shot,TVSUM_12,14,The person applies hair spray to their hair again,a video of The person applies hair spray to their hair again,342.0,348.0,05:42,05:48,0.31670889258384705
+CLIP-baseline,few_shot,TVSUM_12,15,The person applies hair gel to their hair again,a video of The person applies hair gel to their hair again,342.0,348.0,05:42,05:48,0.3039378523826599
+CLIP-baseline,few_shot,TVSUM_12,16,The person applies hair spray to their hair again,a video of The person applies hair spray to their hair again,342.0,348.0,05:42,05:48,0.31670889258384705
+CLIP-baseline,few_shot,TVSUM_12,17,The person applies hair gel to their hair again,a video of The person applies hair gel to their hair again,342.0,348.0,05:42,05:48,0.3039378523826599

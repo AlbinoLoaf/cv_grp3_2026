@@ -1,0 +1,3 @@
+model_name,failed_predictions,mean_failed_iou,mean_failed_semantic_similarity,mean_failed_confidence
+CG-DETR,66,0.0018252599513534525,0.4578362423362154,0.9981
+CLIP-baseline,64,0.020242471988795516,0.46077304845675826,0.3310081921517849
