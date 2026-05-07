@@ -1,0 +1,9 @@
+Event Description, Time-stamps, Subjectivity rating
+1.	The exterior of a pet grooming shop is shown, 00:00 - 00:03, 2
+2.	A dog is placed on a grooming table inside the shop, 00:06 - 00:10, 2
+3.	The dog stands on the grooming table while a groomer prepares to work on it, 00:30 - 00:42, 2
+4.	A groomer handles the dog and begins the grooming process, 00:45 - 01:06, 2
+5.	The dog’s face and body are shown close up during grooming, 01:09 - 01:27, 1
+6.	Several dogs are shown being groomed inside the shop, 01:28 - 01:39, 2
+7.	Pet food and products are shown on store shelves, 01:54 - 02:05, 1
+8.	The video returns to the outside of the pet grooming shop, 02:30 - 02:36, 1
