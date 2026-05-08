@@ -1,4 +1,5 @@
 from pathlib import Path
+from moviepy.editor import VideoFileClip, concatenate_videoclips
 
 def seconds_to_mmss(seconds):
     """Convert seconds to MM:SS format."""
@@ -44,6 +45,50 @@ def load_vid_pth(pth):
     video_path = Path(pth)
     if not video_path.exists():
         raise FileNotFoundError(f"Video not found: {video_path}")
+    return video_path
 
 def normalise_dash(line: str)->str:
     return line.replace("–", "-").replace("—", "-")
+
+
+
+def stitch_video_segments(video_path, timestamps, output_path="summarized_video.mp4"):
+    """
+    Extracts specific time segments from a video and stitches them together seamlessly.
+    
+    Parameters:
+    - video_path : str
+        The path to the original video.
+    - timestamps : List[tuples]
+        A list containing (start, stop) times in seconds.
+    - output_path (str or Path): Where to save the final stitched video.
+    """
+    print(f"Loading video from: {video_path}")
+    
+    try:
+        video_path=load_vid_pth(video_path)
+        print(f"path found {video_path}")
+        video = VideoFileClip(str(video_path))
+        clips = []
+        for start, stop in timestamps:
+            clip = video.subclip(start, stop)
+            clips.append(clip)
+    
+        if not clips:
+            raise ValueError("fNo clips found in {clips}")
+
+        final_video = concatenate_videoclips(clips)
+        final_video.write_videofile(
+            str(output_path), 
+            codec="libx264", 
+            audio_codec="aac",
+            logger=None
+        )        
+        video.close()
+        for clip in clips:
+            clip.close()
+
+        print(f"Video successfully generated, saved to {output_path}")
+        
+    except Exception as e:
+        print(f"An error occurred while processing the video: {e}")
