@@ -1,12 +1,12 @@
-still of store front with a sign above, 0:00-0:04,1
-dog being handle by two women, 0:05-0:10,2
-grate and its features being shown by woman, 0:10-0:22,2
-Dog on grooming table as the situation is explained 0:27-0:50,2
-dog on grooming tale raised up with foot pump 0:50-1:01,1
-Woman talking to camera as dog is being petted, 1:02-1:27,2
-Dogs ears are cleaned with soaking tissue, 1:27-1:29,2
-many dogs being groomed with a blower, 1:29-1:39,2
-woman talking at camera, 1:39-1:52,0
-Pet food on shelves,1:52-2:07,1
-woman talking at camera, 2:07-2:25,0
-still of store front 2:25-2:36,1 
+News start animation on EV's, 0:00-0:05,2
+news reporter delivering news a, 0:05-0:25,1
+Kia Ev shown off by two hosts, 0:25-30,2
+woman interview a man about it, 0:30-0:32,1
+EV charging stand shown. 0:32-47,2
+man interview about the new EV charging port, 0:47-1:05,0
+display screen showing magnetic graphs, 1:05-1:15,1,1
+fast short clips showing people arond the conference, 1:17-1:28,-2
+Engineer interviewed with text on screen 1:28-1:42,0
+Prototype EV bus shown, 1:43-1:46,1
+mini buses driving around a testing area, 1:48-1:50,2
+Smart display shown vihicle charging 2:02-2:13,1a

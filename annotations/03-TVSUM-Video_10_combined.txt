@@ -1,0 +1,15 @@
+Marius,Ionas,Angelos,combined_salience,description
+1, Na, Na, (2), A woman presentation the news 
+1, 1, 1, (1; 1; 1), Reporter introduce subject
+1, 1, 1, (0;1;1), People talking around EV
+1, Na, Na, (2), A woman is interviewing a man
+1, 1, 1, (2; 2; 2), EV charger getting plugged into the car
+1, 1, 1, (0; 0; 2), A man is being interviewed about the electric car
+1, Na, 1, (1; 1), EV charging demonstrated
+1, 1, 1, (0; -2; 1), Man being interview about EV
+1, Na, 1, (1; 1), Electronic components and monitoring equipment are shown as part of the charging setup
+1, 1, 1, (0; -2; 1), Exibithion environment shown
+1, 1, 1, (2; 0; 1), Man talking with cars in backgorund
+1, Na, 1, (0; 1), A man is being interviewed 
+1, Na, 1, (1;2), Electric buses being shown
+1, Na, Na, (1), Smart display shown vehicule charging

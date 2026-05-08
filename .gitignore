@@ -3,7 +3,8 @@
 
 # our data
 data/
-
+videos/
+outputs*
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
