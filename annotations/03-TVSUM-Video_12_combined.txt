@@ -1,0 +1,17 @@
+Marius,Ionas,Angelos,combined_salience,description
+1, Na, 1, (1;2), A small white dog is shown close up
+1, Na, Na, (-1), title card showing a girl
+1, 1, 1, (-1; 2; 1), A woman walking around her kitchen while talking
+1, Na, 1, (2;2), Dog beauty product being displayed
+1, Na, 1, (2; 1), Water running in the sink
+1, 1, 1, (2; 2; 2) A white dog playing around on a kitchen countertop
+1, Na, 1, (-1; -1), A woman is walking in a parking
+1, Na, Na, (0), A woman is talking while taking a escalator
+1, Na, 1, (-1; 0), Two woman walking outsidein a paved street in the sun
+1, 1, Na, (2; 2), A dog is shown on the kitchen countertop, with clippers 
+1, Na, Na, (2), A woman talking about how clipping went
+Na, Na, 1, (2), Dog lies on towel while being groomed
+Na,1, Na, (2), Hair cutting materials being shown with a pile of hairs
+1, Na, Na, (2; 1), A woman on the floor playing with the dog
+1, 1, Na, (2; 1), A pair of hair clippers being shown on its charging stand
+1, Na, 1, (1; 2), The groomed dog is shown lying on the floor
