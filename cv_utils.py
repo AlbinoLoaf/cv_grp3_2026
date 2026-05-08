@@ -1,5 +1,5 @@
 from pathlib import Path
-from moviepy.editor import VideoFileClip, concatenate_videoclips
+from moviepy.editors import VideoFileClip, concatenate_videoclips
 
 def seconds_to_mmss(seconds):
     """Convert seconds to MM:SS format."""
@@ -71,7 +71,11 @@ def stitch_video_segments(video_path, timestamps, output_path="summarized_video.
         video = VideoFileClip(str(video_path))
         clips = []
         for start, stop in timestamps:
-            clip = video.subclip(start, stop)
+            if hasattr(video, "subclip"):
+                clip = video.subclip(start, stop)
+            else:
+                clip = video.subclipped(start, stop)
+
             clips.append(clip)
     
         if not clips:
