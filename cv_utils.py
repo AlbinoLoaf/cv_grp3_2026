@@ -1,3 +1,5 @@
+from pathlib import Path
+
 def seconds_to_mmss(seconds):
     """Convert seconds to MM:SS format."""
     seconds = int(round(seconds))
@@ -29,3 +31,19 @@ def clean_timestamp(time_str):
     time_str = time_str.replace("MM:", "")
     time_str = time_str.replace("SS", "")
     return time_str
+
+def output_dir(pth: str)-> str:
+    try:
+        dir = Path(pth)
+        dir.mkdir(parents=True, exist_ok=True)
+    except IOError as e:
+        raise IOError(f"path {pth} for ")
+    return dir
+
+def load_vid_pth(pth):
+    video_path = Path(pth)
+    if not video_path.exists():
+        raise FileNotFoundError(f"Video not found: {video_path}")
+
+def normalise_dash(line: str)->str:
+    return line.replace("–", "-").replace("—", "-")
