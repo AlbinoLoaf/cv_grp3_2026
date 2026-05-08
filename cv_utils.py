@@ -52,7 +52,7 @@ def normalise_dash(line: str)->str:
 
 
 
-def stitch_video_segments(video_path, timestamps, output_path="summarized_video.mp4"):
+def stitch_video_segments(video_path, timestamps, output_path):
     """
     Extracts specific time segments from a video and stitches them together seamlessly.
     
@@ -64,10 +64,9 @@ def stitch_video_segments(video_path, timestamps, output_path="summarized_video.
     - output_path (str or Path): Where to save the final stitched video.
     """
     print(f"Loading video from: {video_path}")
-    
     try:
+        
         video_path=load_vid_pth(video_path)
-        print(f"path found {video_path}")
         video = VideoFileClip(str(video_path))
         clips = []
         for start, stop in timestamps:
@@ -80,6 +79,13 @@ def stitch_video_segments(video_path, timestamps, output_path="summarized_video.
     
         if not clips:
             raise ValueError("fNo clips found in {clips}")
+
+        out_path = Path(output_path)
+        out_dir = out_path.parent
+        
+        if not out_dir.exists() and str(out_dir) != ".":
+            print(f"Creating output directory: {out_dir}")
+            out_dir.mkdir(parents=True, exist_ok=True)
 
         final_video = concatenate_videoclips(clips)
         final_video.write_videofile(
