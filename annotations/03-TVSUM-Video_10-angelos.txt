@@ -1,11 +1,9 @@
 Event Description, Time-stamps, Subjectivity rating
-1.	A woman speaks on camera while an electric car is shown, 00:06-00:25
-2.	People inspect an electric car with its front section open at an exhibition, 00:27 - 00:32, 1
-3.	A charging plug is connected to the electric vehicle, 00:32 - 00:34, 2
-4.	The vehicle’s charging screen displays battery and charging information, 00:35 - 00:36, 2
-5.	A man demonstrates the electric vehicle charging equipment, 00:48 - 01:03, 2
-6.	A representative is shown speaking at an electric vehicle exhibition booth, 00:48 - 01:03, 2
-7.	Electronic components and monitoring equipment are shown as part of the charging setup, 01:05 - 01:16, 1
-8.	 People walk around an exhibition displaying electric vehicles and related technology, 01:18 - 01:27, 1 
-9.	A representative is shown speaking at an electric vehicle exhibition booth, 01:30 - 01:43, 1
-10.	Electric buses are shown 01:44 - 01:52, 2
+A woman speaks on camera while an electric car is shown, 00:05-00:25
+People inspect an electric car with its front section open at an exhibition, 00:25 - 00:30, 1
+A charging plug is connected to the electric vehicle, 00:32 - 00:34, 2
+A representative is shown speaking at an electric vehicle exhibition booth, 00:46 - 01:03, 2
+Electronic components and monitoring equipment are shown as part of the charging setup, 01:05 - 01:15, 1
+People walk around an exhibition displaying electric vehicles and related technology, 01:18 - 01:27, 1 
+A representative is shown speaking at an electric vehicle exhibition booth, 01:28 - 01:43, 1
+Electric buses are shown, 01:44 - 01:52, 2

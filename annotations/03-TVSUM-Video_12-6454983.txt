@@ -1,15 +1,11 @@
-dog being showm 0:00-0:02,1
-title card showing just a girl atl, 0:02-0:03,-1
-woman explaning what is about to happen as she walks around in kitchen. 0:03-1:08,2
-dog shampoo being displayed of several different kinds, 1:09-1:30
-sink being turned on, 1:47-1:50,2
-dog on kitchen top trying to get out of getting a bath, 1:50-2:55,2
-woman walking around parking structure, 2:56-3:22,-1
-woman writing in a glass elevater metting another woman, 3:22-3:30,0
-The two woman walk the paved street in the bright sun, 3:30-4:24,-1
-Dog on kitchen top clipper is displayed, 4:24-4:36,2
-Inpection of the dogs clenliness, 4:37-4:46,1
-woman explains what is happening and how cutting its hair went, 4:50-5:50,2
-woman on floor playing with the dog as it gets more excited, 5:54-6,29,1
-woman in kitchen showing the clipper is being charged,6:30-6:42,1
-dog on floor sniffing the camera, 7:05-7:30,1
+vent, Time Stamp, Subjectivity
+Dog being show, 0:00 - 0:03, 1
+Woman explaning what is about to happen as she walks around in kitchen. 0:07 - 1:08, 2
+Dog shampoo being displayed of several different kinds, 1:10 - 1:25, 1
+Sink being turned on, 1:46 - 1:49, 2
+Dog near sink playfully trying not to get a bath, 2:29 - 2:54, 2
+Woman walking around parking structure, 3:00 - 3:19, -1
+The two woman walk the paved street in the bright sun, 3:35 - 4:20, -1
+Dog on kitchen top clipper is displayed, 4:31 - 4:34, 2
+Woman in kitchen showing the clipper is being charged, 6:34 - 6:40, 2
+Dog on floor sniffing the camera, 7:08 - 7:30, 1

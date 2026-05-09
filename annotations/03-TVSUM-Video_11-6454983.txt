@@ -1,12 +1,12 @@
-still of store front with a sign above, 0:00-0:04,1
-dog being handle by two women, 0:05-0:10,2
-grate and its features being shown by woman, 0:10-0:22,2
-Dog on grooming table as the situation is explained 0:27-0:50,2
-dog on grooming tale raised up with foot pump 0:50-1:01,1
-Woman talking to camera as dog is being petted, 1:02-1:27,2
-Dogs ears are cleaned with soaking tissue, 1:27-1:29,2
-many dogs being groomed with a blower, 1:29-1:39,2
-woman talking at camera, 1:39-1:52,0
-Pet food on shelves,1:52-2:07,1
-woman talking at camera, 2:07-2:25,0
-still of store front 2:25-2:36,1 
+Event, Time Stamp, Subjectivity
+Still of store front with a sign above, 00:00 - 00:04, 1
+Dog being handle by two talking women, 00:05 - 00:10, 2
+Crate and its features being shown by woman, 00:11 - 00:26, 2
+Dog on grooming table as the situation is explained, 00:30 - 00:45, 2
+Dog on grooming table raised up with foot pump, 00:45 - 01:06, 1
+Woman talking to camera as dog is being petted, 01:09 - 01:27, 2
+Many dogs being groomed with a blower, 01:29 - 01:39, 2
+Woman talking at camera, 01:39 - 01:52, 0
+Pet food on shelves, 01:52 - 02:07, 1
+Woman talking at camera, 02:07 - 02:25, 0
+Still of store front, 02:30 - 02:36, 1

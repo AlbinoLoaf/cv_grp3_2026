@@ -1,9 +1,12 @@
 Event, Time Stamp, Subjectivity
-A woman talking while peting a dog, 00:05 - 00:09, 1
-A woman showing the inside of a dof cage, 00:11 - 00:26, 1
-A woman talking while peting a dog who is standing on a table, 00:27 - 01:26, 1
-A dog getting dried, 01:30 - 01:32, 2
-A woman trimming a dogs paws, 01:33 - 01:34, 2
-A dog getting brushed, 01:37 - 01:38, 2
-A woman talking in front of dog cages, 01:39 - 01:50, 0
+Store fron of petstore, 0:00 - 0:04, 1
+A woman talking while peting a dog, 00:05 - 00:10, 1
+A woman showing the inside of a dog cage, 00:11 - 00:26, 1
+Dog on grooming table while groomer prepares to work, 00:30-0:45, 2
+Woman prepares to groom dog, 00:45 - 01:06
+Woman speaking as she is petting the dog, 01:09 - 01:27, 1
+A dog getting dried and groomed, 01:29 - 01:39, 2
+A woman talking in front of dog cages, 01:39 - 01:52, 0
+Store inventory being shown, 01:52 - 02:07, 1
 A woman talking in front of dog cages, 02:07 - 02:27, 0
+Store front shown again, 02:30 - 02:36, 1

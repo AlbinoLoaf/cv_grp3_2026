@@ -1,17 +1,14 @@
-Marius,Ionas,Angelos,combined_salience,description
-1, 1, Na,   (2, 1, NA), Man gets into car
-1, 1, 1,    (2, 1, 2), Mans speaking next to car
-1, 1, 1,    (2, 1, 1), Man gets out of car
+Marius, Ionas, Angelos, combined_subjectivity, description
+1, 1, Na,   (2, 1, 1), Man gets into car, 00:00 - 00:06
+1, 1, 1,    (2, 1, 2), Mans speaking next to car,  0:12 - 0:19
+1, 1, 1,    (2, 1, 1), Man gets out of car, 00:27-00:32
 1, 1, Na,   (-1, 1, Na), Man speaking next to car
 1, Na, 1,   (2, Na, 2), The cars controls and functionality is shown
 1, Na, 1,   (2, Na, 2), A collision Simulation with a car i shown
-1, NA, NA,  (-1, NA, NA), Man spaking at the camera
 0, NA, 1,   (1, NA, 2), Wheel mechanism and intersnals are shown
 1, na ,na,  (1, Na, Na) pedal control is shown
-Na, 1, na   (Na,, 2, Na), Man talking next to car
 0, NA, 1,   (1, NA, 2), Dashboard with car information is shown.
 1, Na, 1,   (1, Na, 2), Car driving on pavement next to other cars.
-Na, 1, na   (Na, 2, Na), Man talking next to car
 1, 1, na   (1, 0, Na), Man stearing wheel
 1, 1, Na,   (1, NA, 1),  Woman gets out of the car
 1, 1, Na,   (1, NA, 1), New man gets into the car and drives off

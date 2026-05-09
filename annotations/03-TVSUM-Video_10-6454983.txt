@@ -1,12 +1,9 @@
-News start animation on EV's, 0:00-0:05,2
-news reporter delivering news a, 0:05-0:25,1
-Kia Ev shown off by two hosts, 0:25-30,2
-woman interview a man about it, 0:30-0:32,1
-EV charging stand shown. 0:32-47,2
-man interview about the new EV charging port, 0:47-1:05,0
-display screen showing magnetic graphs, 1:05-1:15,1,1
-fast short clips showing people arond the conference, 1:17-1:28,-2
-Engineer interviewed with text on screen 1:28-1:42,0
-Prototype EV bus shown, 1:43-1:46,1
-mini buses driving around a testing area, 1:48-1:50,2
-Smart display shown vihicle charging 2:02-2:13,1a
+Event, Time Stamp, Subjectivity
+News reporter delivering news, 0:05 - 0:25, 1
+Kia Ev shown off by two hosts, 0:25 - 00:30, 2
+EV charging stand shown, 00:32 - 0:34, 2
+Man interview about the new EV charging port, 00:46 - 01:03, 0
+Display screen showing magnetic graphs, 1:05 - 1:15, 1
+Fast short clips showing people arond the conference, 1:18-1:27, -2
+Engineer interviewed with text on screen, 1:28 - 1:43, 0
+Prototype EV bus shown, 1:44 - 1:52, 1

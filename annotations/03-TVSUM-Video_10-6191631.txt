@@ -1,7 +1,9 @@
 Event, Time Stamp, Subjectivity
 Woman talking on a set, 00:05 - 00:25, 1
-People looking at a car, 00:26 - 00:28, 0
-Cable being plugged into a car, 00:32 - 00:33, 2
+People looking at a car, 00:26 - 00:30, 0
+Cable being plugged into a car, 00:32 - 00:34, 2
 Man talking, 00:46 - 01:03, 0
-Man driving a small electric car, 01:20 - 01:22, 0
+Function of electric car shown, 1:05 - 1:15, 1
+People walking around electric cars, 01:18 - 01:27, -1
 Man talking with cars in the background, 01:28 - 01:42, 2
+Electric buses being shown, 1:44 - 1:52, 1
