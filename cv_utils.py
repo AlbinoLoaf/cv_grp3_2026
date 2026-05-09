@@ -1,5 +1,5 @@
 from pathlib import Path
-from moviepy.editors import VideoFileClip, concatenate_videoclips
+from moviepy import VideoFileClip, concatenate_videoclips
 
 def seconds_to_mmss(seconds):
     """Convert seconds to MM:SS format."""
