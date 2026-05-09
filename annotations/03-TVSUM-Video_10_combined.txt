@@ -3,7 +3,7 @@ Marius,Ionas,Angelos,combined_salience,description
 1, 1, 1, (0;1;1), People talking around EV, 00:26 - 00:30
 1, 1, 1, (2; 2; 2), EV charger getting plugged into the car, 00:32 - 00:34
 1, 1, 1, (0; 0; 2), A man is being interviewed about the electric car, 00:46 - 01:03
-1, Na, 1, (1; 1), EV charging demonstrated, 1:05 - 1:15, 1
+1, 1, 1, (1; 1), EV charging demonstrated, 1:05 - 1:15, 1
 1, 1, 1, (0; -2; 1), Exibithion environment shown,  1:18-1:27,   
 1, 1, 1, (2; 0; 1), Man talking with cars in backgorund, 1:28 - 1:42,
-1, Na, 1, (1; 1; 2), Electric buses being shown, 1:44 - 1:52,
+1, 1, 1, (1; 1; 2), Electric buses being shown, 1:44 - 1:52,

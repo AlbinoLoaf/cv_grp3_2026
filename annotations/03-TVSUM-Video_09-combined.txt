@@ -1,14 +1,12 @@
 Marius, Ionas, Angelos, combined_subjectivity, description
 1, 1, Na,   (2, 1, 1), Man gets into car, 00:00 - 00:06
 1, 1, 1,    (2, 1, 2), Mans speaking next to car,  0:12 - 0:19
-1, 1, 1,    (2, 1, 1), Man gets out of car, 00:27-00:32
-1, 1, Na,   (-1, 1, Na), Man speaking next to car
-1, Na, 1,   (2, Na, 2), The cars controls and functionality is shown
-1, Na, 1,   (2, Na, 2), A collision Simulation with a car i shown
-0, NA, 1,   (1, NA, 2), Wheel mechanism and intersnals are shown
-1, na ,na,  (1, Na, Na) pedal control is shown
-0, NA, 1,   (1, NA, 2), Dashboard with car information is shown.
-1, Na, 1,   (1, Na, 2), Car driving on pavement next to other cars.
-1, 1, na   (1, 0, Na), Man stearing wheel
-1, 1, Na,   (1, NA, 1),  Woman gets out of the car
-1, 1, Na,   (1, NA, 1), New man gets into the car and drives off
+1, 1, 1,    (2, 1, 1), Man gets out of car, 00:27-00:33
+1, Na, 1,   (2, 2, 2), The cars controls and functionality is shown, 0:43-0:57
+1, Na, 1,   (2, 1, 2), A collision Simulation with a car i shown, 00:58-1:03,
+0, NA, 1,   (1, 1, 2), Wheel mechanism and intersnals are shown, 01:07 - 01:26
+0, NA, 1,   (1, 1, 1), Dashboard with car information is shown, 01:59 - 02:03
+1, Na, 1,   (1, Na, 2), Car driving on pavement next to other cars, 02:50 - 02:56
+1, 1, na   (1, 0, 0), Man stearing wheel, 03:07 - 03:11
+1, 1, Na,   (1, 1, 1),  Woman gets out of the car, 03:28 - 03:31
+1, 1, Na,   (1, 1, 1), New man gets into the car and drives off, 03:34 - 03:48,
