@@ -1,0 +1,11 @@
+Event Description, Time-stamps, Subjectivity rating
+A small white dog is shown close up , 00:00 - 00:03, 2
+A woman is shown walking and talking, 00:07 - 01:08, 1
+Several grooming products are shown, 01:10 - 01:25, 2
+Water runs in the sink, 01:46 - 01:49, 1
+The dog is placed on a towel near the sink before grooming begins 02:29 - 02:54, 2
+The woman walks through a parking garage, 03:00 - 03:19, -1
+The woman walks outside on a city street, 03:35 - 04:20, 0
+Someone showing an electric razor next to a dog, 04:31 - 04:34, 2
+The dog lies on a towel while being groomed, 06:34 - 06:40, 2
+The groomed dog is shown lying on the floor, 07:08 - 07:30, 2

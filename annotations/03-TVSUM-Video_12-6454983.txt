@@ -1,6 +1,6 @@
-vent, Time Stamp, Subjectivity
+Event, Time Stamp, Subjectivity
 Dog being show, 0:00 - 0:03, 1
-Woman explaning what is about to happen as she walks around in kitchen. 0:07 - 1:08, 2
+Woman explaning what is about to happen as she walks around in kitchen, 0:07 - 1:08, 2
 Dog shampoo being displayed of several different kinds, 1:10 - 1:25, 1
 Sink being turned on, 1:46 - 1:49, 2
 Dog near sink playfully trying not to get a bath, 2:29 - 2:54, 2
