@@ -1,5 +1,6 @@
 from pathlib import Path
-#from moviepy.editors import VideoFileClip, concatenate_videoclips
+from moviepy import VideoFileClip, concatenate_videoclips
+
 
 def seconds_to_mmss(seconds):
     """Convert seconds to MM:SS format."""
@@ -51,7 +52,6 @@ def normalise_dash(line: str)->str:
     return line.replace("–", "-").replace("—", "-")
 
 
-
 def stitch_video_segments(video_path, timestamps, output_path):
     """
     Extracts specific time segments from a video and stitches them together seamlessly.
@@ -78,7 +78,7 @@ def stitch_video_segments(video_path, timestamps, output_path):
             clips.append(clip)
     
         if not clips:
-            raise ValueError("fNo clips found in {clips}")
+            raise ValueError(f"No clips found in {clips}")
 
         out_path = Path(output_path)
         out_dir = out_path.parent

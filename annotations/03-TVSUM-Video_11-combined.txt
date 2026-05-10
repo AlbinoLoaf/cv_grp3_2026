@@ -1,9 +1,9 @@
-Marius,Ionas,Angelos,combined_Subjectivity,description
+Marius,Ionas,Angelos,combined_Subjectivity,description, tinmestamp
 1, 1, 1, (1; 1; 2), Store fron of petstore, 00:00 - 00:04
 1, 1, 1, (1; 1; 2), Dog being grommed during explanation, 00:05 - 00:10
 1, 1, 1, (2; 1; 1), A woman showing the inside of a dog cage, 00:11 - 00:26
 1, 1, 1, (2; 2; 2), Dog on grooming table while groomer prepares to work, 00:30 - 00:45
-1, 1, 1, (1, 1, 2), Woman prepares to groom dog, 00:45 - 01:06
+1, 1, 1, (1; 1; 2), Woman prepares to groom dog, 00:45 - 01:06
 1, 1, 1, (2; 1; 2), Woman talking to camera as dog is being petted, 01:09 - 01:27
 1, 1, 1, (2; 2; 2), dog being groomed with a blower, 01:29 - 01:39
 1, 1, 1, (0; 0; 0), Woman talking at camera, 01:39 - 01:52
