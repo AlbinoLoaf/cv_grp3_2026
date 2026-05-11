@@ -1,0 +1,18 @@
+Salient event 1: Exterior view of PetJoy, 00:00 - 00:08
+Salient event 2: Grooming session with a golden retriever, 00:09 - 00:16
+Salient event 3: Grooming session with a small dog, 00:17 - 00:24
+Salient event 4: Grooming session with a small dog, 00:25 - 00:32
+Salient event 5: Grooming session with a golden retriever, 00:33 - 00:40
+Salient event 6: Grooming session with a golden retriever, 00:41 - 00:56
+Salient event 7: Grooming session with a small dog, 00:57 - 01:04
+Salient event 8: Grooming session with a small dog, 01:05 - 01:12
+Salient event 9: Grooming session with a small dog, 01:13 - 01:22
+Salient event 10: Grooming session with a small dog, 01:23 - 01:30
+Salient event 11: Grooming session with a small dog, 01:31 - 01:38
+Salient event 12: Grooming session with a small dog, 01:39 - 01:46
+Salient event 13: Grooming session with a small dog, 01:47 - 01:54
+Salient event 14: Grooming session with a small dog, 01:55 - 02:02
+Salient event 15: Grooming session with a small dog, 02:03 - 02:10
+Salient event 16: Grooming session with a small dog, 02:11 - 02:18
+Salient event 17: Grooming session with a small dog, 02:19 - 02:26
+Salient event 18: Grooming session

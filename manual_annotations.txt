@@ -1,46 +1,49 @@
 Event, Time Stamp, Subjectivity
 
 - Video 9
-Man gets into enclosed two-wheeled vehicle, 00:00 - 00:06, 2
-Man speaking to camera, 00:14 - 00:20, 1
-Man gets out of enclosed two-wheeled vehicle, 00:26 - 00:32, 2
-Man speaking to camera, 00:33 - 00:42, -1
-Functionality of the vehicle is explained, 00:43 - 00:57, 2
-Vehicle simulation shown, 00:58 - 01:02, 2
-Man speaking to camera, 01:02 - 01:06, -1
-Simulation of the inner workings of the two-wheeled vehicle is shown, 01:09 - 01:25, 2
-Pedal controls shown, 01:25 - 01:30, 1
-Smart display shows vehicle data, 01:59 - 02:03, 1
-Simulation shows how the engine works, 02:03 - 02:10, 2
-Battery layout and controls showcased, 02:41 - 02:50, 2
-Vehicle drives around bus depot, 02:50 - 02:56, 1
-Steering mechanism demonstrated by man, 03:03 - 03:14, 1
-Woman exits the vehicle in sunny weather, 03:30 - 03:33, 1
-New man enters the vehicle and drives off, 03:33 - 03:48, 1
+Man gets into car, 00:00 - 00:06, 1
+Mans speaking next to car,  0:12 - 0:19, 2
+Man gets out of car, 00:27-00:33, 1
+The car controls and functionality is shown, 0:43-0:57, 2
+A collision Simulation with a car is shown, 00:58-1:03, 2
+Wheel mechanism and internals are shown, 01:07 - 01:26, 1
+Dashboard with car information is shown, 01:59 - 02:03, 1
+Car driving on pavement next to other cars, 02:50 - 02:56, 2
+Man steering wheel, 03:07 - 03:11, 0
+Woman gets out of the car, 03:28 - 03:31, 1
+New man gets into the car and drives off, 03:34 - 03:48, 1
 
 - Video 10
-Woman talking on a set, 00:05 - 00:25, 1
-People looking at a car, 00:26 - 00:28, 0
-Cable being plugged into a car, 00:32 - 00:33, 2
-Man talking, 00:46 - 01:03, 0
-Man driving a small electric car, 01:20 - 01:22, 0
-Man talking with cars in the background, 01:28 - 01:42, 2
+Reporter introduce subject, 00:05-00:25, 1
+Woman continues explaining the electric car segment, 00:16 - 00:25, 1
+People talking around electric vechicle, 00:26 - 00:30, 1
+A man is being interviewed about the electric car, 00:46 - 01:03
+Electrical Vechicle charging demonstrated, 1:05 - 1:15, 1
+Exhibition environment shown,  1:18-1:27, 0
+Man talking with cars in background, 1:28 - 1:42, 2
+Electric buses being shown, 1:44 - 1:52, 1
 
 - Video 11
-A woman talking while petting a dog, 00:05 - 00:09, 1
+Store front of petstore, 00:00 - 00:04, 1
+Dog being groomed during explanation, 00:05 - 00:10, 1
 A woman showing the inside of a dog cage, 00:11 - 00:26, 1
-A woman talking while petting a dog who is standing on a table, 00:27 - 01:26, 1
-A dog getting dried, 01:30 - 01:32, 2
-A woman trimming a dog's paws, 01:33 - 01:34, 2
-A dog getting brushed, 01:37 - 01:38, 2
-A woman talking in front of dog cages, 01:39 - 01:50, 0
-A woman talking in front of dog cages, 02:07 - 02:27, 0
+Dog on grooming table while groomer prepares to work, 00:30 - 00:45, 2
+Woman prepares to groom dog, 00:45 - 01:06, 1
+Woman talking to camera as dog is being petted, 01:09 - 01:27, 1
+Dog being groomed with a blower, 01:29 - 01:39, 2
+Woman talking at camera, 01:39 - 01:52, 0
+Pet food and products are shown on store shelves, 01:52 - 02:07, 1
+Woman talking at camera, 02:07 - 01:25, 1
+The video returns to the outside of the pet grooming shop, 02:30 - 02:36, 1
 
 - Video 12
-A woman filming herself walking and talking around her house, 01:08 - 01:15, -1
-A dog playing around a kitchen countertop, 01:50 - 02:05, 0
-A dog getting pet on a kitchen countertop, 02:29 - 02:56, 1
-A dog getting pet on a kitchen countertop with scissors and an electric razor next to him, 04:25 - 04:30, 2
-An electric razor being shown next to a dog, 04:31 - 04:34, 2
-Hair cutting materials being shown with a pile of hairs, 05:41 - 05:47, 2
-A pair of hair clippers being shown, 06:34 - 06:40, 2
+A small white dog is shown close up, 0:00 - 0:03, 1
+A woman walking around her kitchen while talking, 0:07 - 1:08, 1
+Dog beauty product being displayed, 1:10 - 1:25, 1
+Water running in the sink, 1:46 - 1:49, 2
+A white dog playing around on a kitchen countertop, 2:29 - 2:54, 2
+A woman is walking in a parking garage, 3:00 - 3:19, -1
+Two woman walking outside in a paved street in the sun, 3:35-4:20, 0
+A dog is shown on the kitchen countertop with clippers, 4:31 - 4:34, 2
+A pair of hair clippers being shown on its charging stand, 6:34 - 6:40, 1
+The groomed dog is shown lying on the floor, 7:08 - 7:30, 1

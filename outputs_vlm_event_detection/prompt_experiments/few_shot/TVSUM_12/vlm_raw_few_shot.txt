@@ -1,0 +1,18 @@
+Salient event 1: A woman washes her dog, 00:00 - 00:20
+Salient event 2: The woman talks to the camera while washing the dog, 00:21 - 00:40
+Salient event 3: The woman applies shampoo to the dog's fur, 00:41 - 01:00
+Salient event 4: The woman rinses the dog's fur, 01:01 - 01:20
+Salient event 5: The woman dries the dog with a towel, 01:21 - 01:40
+Salient event 6: The woman brushes the dog's fur, 01:41 - 02:00
+Salient event 7: The woman puts the dog in a car, 02:01 - 02:20
+Salient event 8: The woman walks the dog outside, 02:21 - 02:40
+Salient event 9: The woman talks to the camera while walking the dog, 02:41 - 03:00
+Salient event 10: The woman returns home and pets the dog, 03:01 - 03:20
+Salient event 11: The woman brushes the dog's fur again, 03:21 - 03:40
+Salient event 12: The woman talks to the camera while brushing the dog, 03:41 - 04:00
+Salient event 13: The woman puts the dog in a car, 04:01 - 04:20
+Salient event 14: The woman walks the dog outside again, 04:21 - 04:40
+Salient event 15: The woman talks to the camera while walking the dog, 04:41 - 05:00
+Salient event 16: The woman returns home and pets the dog one last time, 05:01 - 05:20
+Salient event 17: The woman talks to the camera while petting the dog, 05:21 - 05:40
+Sal

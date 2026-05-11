@@ -1,12 +1,19 @@
-event_id,event_description,start,end,start_seconds,end_seconds
-1,"Man sitting next to a car, talking",00:00,00:20,0,20
-2,Car driving on a road,00:20,00:42,20,42
-3,Close-up of car pedals,00:42,01:02,42,62
-4,Man sitting next to a car again,01:02,01:24,62,84
-5,Car driving on a road again,01:24,01:44,84,104
-6,Close-up of car pedals again,01:44,02:06,104,126
-7,Man sitting next to a car again,02:06,02:26,126,146
-8,Car driving on a road again,02:26,02:48,146,168
-9,Close-up of car components,02:48,03:08,168,188
-10,Woman driving a futuristic car,03:08,03:30,188,210
-11,Intel Free Press Tech News banner,03:30,03:52,210,232
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_9,event_timestamp,1,Introduction of the vehicle,00:00,00:12,0,12
+TVSUM_9,event_timestamp,2,Detailed view of the vehicle's front,00:12,00:24,12,24
+TVSUM_9,event_timestamp,3,Man speaking about the vehicle,00:24,00:36,24,36
+TVSUM_9,event_timestamp,4,Interior view of the vehicle,00:36,00:48,36,48
+TVSUM_9,event_timestamp,5,Exterior view of the vehicle on a road,00:48,01:00,48,60
+TVSUM_9,event_timestamp,6,Close-up of the vehicle's engine,01:00,01:12,60,72
+TVSUM_9,event_timestamp,7,Pedal operation demonstration,01:12,01:24,72,84
+TVSUM_9,event_timestamp,8,Man speaking about the vehicle again,01:24,01:36,84,96
+TVSUM_9,event_timestamp,9,Exterior view of the vehicle driving,01:36,01:48,96,108
+TVSUM_9,event_timestamp,10,Display showing battery status,01:48,01:50,108,110
+TVSUM_9,event_timestamp,11,Vehicle driving on a road,01:50,02:02,110,122
+TVSUM_9,event_timestamp,12,Close-up of the vehicle's front,02:02,02:14,122,134
+TVSUM_9,event_timestamp,13,Man speaking about the vehicle again,02:14,02:26,134,146
+TVSUM_9,event_timestamp,14,Exterior view of the vehicle driving,02:26,02:38,146,158
+TVSUM_9,event_timestamp,15,Man speaking about the vehicle again,02:38,02:50,158,170
+TVSUM_9,event_timestamp,16,Exterior view of the vehicle driving,02:50,02:52,170,172
+TVSUM_9,event_timestamp,17,Exterior view of the vehicle driving,02:52,03:02,172,182
+TVSUM_9,event_timestamp,18,Intel Free Press logo,03:02,03:04,182,184

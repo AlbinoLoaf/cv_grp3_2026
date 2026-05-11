@@ -1,0 +1,5 @@
+video_name,a_relevance_score_mean_confidence,b_coverage_ratio_selected_vs_manual,c_total_summary_duration_seconds,c_average_clip_duration_seconds,d_coherence_chronological_order,selected_segments,manual_events
+TVSUM_9,0.9994166666666667,0.5454545454545454,72.55369999999996,12.092283333333327,True,6,11
+TVSUM_10,0.9993833333333333,0.8571428571428571,62.326300000000025,10.387716666666671,True,6,7
+TVSUM_11,0.99905,0.5454545454545454,178.51319999999998,29.7522,True,6,11
+TVSUM_12,0.9996999999999999,0.6,54.6177,9.10295,True,6,10

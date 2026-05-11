@@ -1,0 +1,9 @@
+Salient event 1: News anchor introduces the segment on electric cars, MM:00:06 - MM:00:12
+Salient event 2: News anchor continues discussing electric cars, MM:00:12 - MM:00:20
+Salient event 3: A man demonstrates plugging an electric car into a charging station, MM:00:40 - MM:00:48
+Salient event 4: A man discusses the establishment of an electric vehicle charging system, MM:00:48 - MM:01:02
+Salient event 5: A man explains the benefits of electric vehicles for carbon emissions reduction, MM:01:02 - MM:01:08
+Salient event 6: A man demonstrates a small electric vehicle, MM:01:30 - MM:01:36
+Salient event 7: A man speaks about the EV Korea exhibition, MM:01:36 - MM:01:44
+Salient event 8: A man discusses the energy park line bus, MM:01:50 - MM:01:58
+Salient event 9: A man speaks about the charging systems at the exhibition, MM:02:04 - MM:02:12

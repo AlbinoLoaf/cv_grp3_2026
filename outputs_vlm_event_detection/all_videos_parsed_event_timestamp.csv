@@ -1,49 +1,63 @@
-video_name,event_id,event_description,start,end,start_seconds,end_seconds
-TVSUM_9,1,"Man sitting next to a car, talking",00:00,00:20,0,20
-TVSUM_9,2,Car driving on a road,00:20,00:42,20,42
-TVSUM_9,3,Close-up of car pedals,00:42,01:02,42,62
-TVSUM_9,4,Man sitting next to a car again,01:02,01:24,62,84
-TVSUM_9,5,Car driving on a road again,01:24,01:44,84,104
-TVSUM_9,6,Close-up of car pedals again,01:44,02:06,104,126
-TVSUM_9,7,Man sitting next to a car again,02:06,02:26,126,146
-TVSUM_9,8,Car driving on a road again,02:26,02:48,146,168
-TVSUM_9,9,Close-up of car components,02:48,03:08,168,188
-TVSUM_9,10,Woman driving a futuristic car,03:08,03:30,188,210
-TVSUM_9,11,Intel Free Press Tech News banner,03:30,03:52,210,232
-TVSUM_10,1,"Introduction of electric cars, their benefits, and the Korean Environment Corporation's charging system",00:00,00:24,0,24
-TVSUM_10,2,Interview with Yoo Dong-kun from Korea Environment Corporation about the charging system,00:25,00:47,25,47
-TVSUM_10,3,Demonstration of the charging process for electric cars,00:48,01:00,48,60
-TVSUM_10,4,Interview with Kim Tae-hoon from the exhibition team director about the business fair,01:01,01:12,61,72
-TVSUM_10,5,Overview of the electric vehicle industry,01:13,01:24,73,84
-TVSUM_10,6,Close-up of a graph showing strain data,01:25,01:36,85,96
-TVSUM_10,7,Exhibition attendees discussing and observing various exhibits,01:37,01:48,97,108
-TVSUM_10,8,Attendees interacting with charging stations and information boards,01:49,02:00,109,120
-TVSUM_10,9,Attendees taking notes during a presentation or discussion,02:01,02:12,121,132
-TVSUM_11,1,Woman entering a pet grooming salon,00:00,00:14,0,14
-TVSUM_11,2,Woman preparing a dog for grooming,00:14,00:28,14,28
-TVSUM_11,3,Woman grooming a golden retriever,00:28,00:56,28,56
-TVSUM_11,4,Woman grooming a small grey dog,00:56,01:10,56,70
-TVSUM_11,5,Woman talking about pet food options,01:10,01:24,70,84
-TVSUM_11,6,Woman showing different types of pet food,01:24,02:06,84,126
-TVSUM_11,7,Woman closing the dog's cage,02:06,02:36,126,156
-TVSUM_11,8,Woman exiting the pet grooming salon,02:36,02:40,156,160
-TVSUM_12,1,Person washing dog's fur,00:00,00:09,0,9
-TVSUM_12,2,Woman talking to camera,00:40,00:45,40,45
-TVSUM_12,3,Woman showing products,01:00,01:10,60,70
-TVSUM_12,4,Woman giving dog bath,01:20,02:00,80,120
-TVSUM_12,5,Woman talking to camera,02:00,02:05,120,125
-TVSUM_12,6,Woman giving dog bath,02:10,02:40,130,160
-TVSUM_12,7,Woman talking to camera,02:40,02:45,160,165
-TVSUM_12,8,Woman giving dog bath,02:50,03:20,170,200
-TVSUM_12,9,Woman talking to camera,03:20,03:25,200,205
-TVSUM_12,10,Woman giving dog bath,03:30,04:00,210,240
-TVSUM_12,11,Woman talking to camera,04:00,04:05,240,245
-TVSUM_12,12,Woman giving dog bath,04:10,04:40,250,280
-TVSUM_12,13,Woman talking to camera,04:40,04:45,280,285
-TVSUM_12,14,Woman giving dog bath,04:50,05:20,290,320
-TVSUM_12,15,Woman talking to camera,05:20,05:25,320,325
-TVSUM_12,16,Woman giving dog bath,05:30,06:00,330,360
-TVSUM_12,17,Woman talking to camera,06:00,06:05,360,365
-TVSUM_12,18,Woman giving dog bath,06:10,06:40,370,400
-TVSUM_12,19,Woman talking to camera,06:40,06:45,400,405
-TVSUM_12,20,Woman giving dog bath,06:50,07:30,410,450
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_9,event_timestamp,1,Introduction of the vehicle,00:00,00:12,0,12
+TVSUM_9,event_timestamp,2,Detailed view of the vehicle's front,00:12,00:24,12,24
+TVSUM_9,event_timestamp,3,Man speaking about the vehicle,00:24,00:36,24,36
+TVSUM_9,event_timestamp,4,Interior view of the vehicle,00:36,00:48,36,48
+TVSUM_9,event_timestamp,5,Exterior view of the vehicle on a road,00:48,01:00,48,60
+TVSUM_9,event_timestamp,6,Close-up of the vehicle's engine,01:00,01:12,60,72
+TVSUM_9,event_timestamp,7,Pedal operation demonstration,01:12,01:24,72,84
+TVSUM_9,event_timestamp,8,Man speaking about the vehicle again,01:24,01:36,84,96
+TVSUM_9,event_timestamp,9,Exterior view of the vehicle driving,01:36,01:48,96,108
+TVSUM_9,event_timestamp,10,Display showing battery status,01:48,01:50,108,110
+TVSUM_9,event_timestamp,11,Vehicle driving on a road,01:50,02:02,110,122
+TVSUM_9,event_timestamp,12,Close-up of the vehicle's front,02:02,02:14,122,134
+TVSUM_9,event_timestamp,13,Man speaking about the vehicle again,02:14,02:26,134,146
+TVSUM_9,event_timestamp,14,Exterior view of the vehicle driving,02:26,02:38,146,158
+TVSUM_9,event_timestamp,15,Man speaking about the vehicle again,02:38,02:50,158,170
+TVSUM_9,event_timestamp,16,Exterior view of the vehicle driving,02:50,02:52,170,172
+TVSUM_9,event_timestamp,17,Exterior view of the vehicle driving,02:52,03:02,172,182
+TVSUM_9,event_timestamp,18,Intel Free Press logo,03:02,03:04,182,184
+TVSUM_10,event_timestamp,1,News anchor introduces the segment on electric cars,00:06,00:12,6,12
+TVSUM_10,event_timestamp,2,News anchor continues discussing electric cars,00:12,00:20,12,20
+TVSUM_10,event_timestamp,3,A man demonstrates plugging an electric car into a charging station,00:40,00:48,40,48
+TVSUM_10,event_timestamp,4,A man discusses the establishment of an electric vehicle charging system,00:48,01:02,48,62
+TVSUM_10,event_timestamp,5,A man explains the benefits of electric vehicles for carbon emissions reduction,01:02,01:08,62,68
+TVSUM_10,event_timestamp,6,A man demonstrates a small electric vehicle,01:30,01:36,90,96
+TVSUM_10,event_timestamp,7,A man speaks about the EV Korea exhibition,01:36,01:44,96,104
+TVSUM_10,event_timestamp,8,A man discusses the energy park line bus,01:50,01:58,110,118
+TVSUM_10,event_timestamp,9,A man speaks about the charging systems at the exhibition,02:04,02:12,124,132
+TVSUM_11,event_timestamp,1,Exterior view of PetJoy,00:00,00:08,0,8
+TVSUM_11,event_timestamp,2,Grooming session with a golden retriever,00:09,00:16,9,16
+TVSUM_11,event_timestamp,3,Grooming session with a small dog,00:17,00:24,17,24
+TVSUM_11,event_timestamp,4,Grooming session with a small dog,00:25,00:32,25,32
+TVSUM_11,event_timestamp,5,Grooming session with a golden retriever,00:33,00:40,33,40
+TVSUM_11,event_timestamp,6,Grooming session with a golden retriever,00:41,00:56,41,56
+TVSUM_11,event_timestamp,7,Grooming session with a small dog,00:57,01:04,57,64
+TVSUM_11,event_timestamp,8,Grooming session with a small dog,01:05,01:12,65,72
+TVSUM_11,event_timestamp,9,Grooming session with a small dog,01:13,01:22,73,82
+TVSUM_11,event_timestamp,10,Grooming session with a small dog,01:23,01:30,83,90
+TVSUM_11,event_timestamp,11,Grooming session with a small dog,01:31,01:38,91,98
+TVSUM_11,event_timestamp,12,Grooming session with a small dog,01:39,01:46,99,106
+TVSUM_11,event_timestamp,13,Grooming session with a small dog,01:47,01:54,107,114
+TVSUM_11,event_timestamp,14,Grooming session with a small dog,01:55,02:02,115,122
+TVSUM_11,event_timestamp,15,Grooming session with a small dog,02:03,02:10,123,130
+TVSUM_11,event_timestamp,16,Grooming session with a small dog,02:11,02:18,131,138
+TVSUM_11,event_timestamp,17,Grooming session with a small dog,02:19,02:26,139,146
+TVSUM_12,event_timestamp,1,Woman washing her hands,00:00,00:05,0,5
+TVSUM_12,event_timestamp,2,Woman talking to the camera,00:05,00:10,5,10
+TVSUM_12,event_timestamp,3,Woman brushing her hair,00:10,00:15,10,15
+TVSUM_12,event_timestamp,4,Woman applying shampoo to the dog,00:15,00:20,15,20
+TVSUM_12,event_timestamp,5,Woman rinsing the dog,00:20,00:25,20,25
+TVSUM_12,event_timestamp,6,Woman drying the dog,00:25,00:30,25,30
+TVSUM_12,event_timestamp,7,Woman talking to the camera,00:30,00:35,30,35
+TVSUM_12,event_timestamp,8,Woman walking outside,00:35,00:40,35,40
+TVSUM_12,event_timestamp,9,Woman entering a building,00:40,00:45,40,45
+TVSUM_12,event_timestamp,10,Woman talking to the camera,00:45,00:50,45,50
+TVSUM_12,event_timestamp,11,Woman brushing her hair,00:50,00:55,50,55
+TVSUM_12,event_timestamp,12,Woman talking to the camera,00:55,01:00,55,60
+TVSUM_12,event_timestamp,13,Woman brushing her hair,01:00,01:05,60,65
+TVSUM_12,event_timestamp,14,Woman talking to the camera,01:05,01:10,65,70
+TVSUM_12,event_timestamp,15,Woman brushing her hair,01:10,01:15,70,75
+TVSUM_12,event_timestamp,16,Woman talking to the camera,01:15,01:20,75,80
+TVSUM_12,event_timestamp,17,Woman brushing her hair,01:20,01:25,80,85
+TVSUM_12,event_timestamp,18,Woman talking to the camera,01:25,01:30,85,90

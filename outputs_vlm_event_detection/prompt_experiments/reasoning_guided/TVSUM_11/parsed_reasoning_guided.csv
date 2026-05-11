@@ -1,0 +1,13 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_11,reasoning_guided,1,Exterior view of PetJoy Grooming salon,00:00,00:08,0,8
+TVSUM_11,reasoning_guided,2,Grooming session with a golden retriever,00:09,00:20,9,20
+TVSUM_11,reasoning_guided,3,Grooming session with a small dog,00:21,00:40,21,40
+TVSUM_11,reasoning_guided,4,Grooming session with a small dog,00:41,01:00,41,60
+TVSUM_11,reasoning_guided,5,Grooming session with a small dog,01:01,01:20,61,80
+TVSUM_11,reasoning_guided,6,Grooming session with a small dog,01:21,01:40,81,100
+TVSUM_11,reasoning_guided,7,Grooming session with a small dog,01:41,01:50,101,110
+TVSUM_11,reasoning_guided,8,Grooming session with a small dog,01:51,02:10,111,130
+TVSUM_11,reasoning_guided,9,Grooming session with a small dog,02:11,02:30,131,150
+TVSUM_11,reasoning_guided,10,Grooming session with a small dog,02:31,02:50,151,170
+TVSUM_11,reasoning_guided,11,Interior view of PetJoy Grooming salon,02:51,03:00,171,180
+TVSUM_11,reasoning_guided,12,Interior view of PetJoy Grooming salon,03:01,03:20,181,200

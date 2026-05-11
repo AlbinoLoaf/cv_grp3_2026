@@ -1,24 +1,21 @@
 video_name,manual_event_id,manual_event,manual_start,manual_end,subjectivity,best_vlm_event_id,best_vlm_event,similarity,matched
-TVSUM_10,6,Man talking with cars in the background,01:28,01:42,2,5,Overview of the electric vehicle industry,0.2239515334367752,False
-TVSUM_10,3,Cable being plugged into a car,00:32,00:33,2,3,Demonstration of the charging process for electric cars,0.3691920042037964,False
-TVSUM_10,1,Woman talking on a set,00:05,00:25,1,9,Attendees taking notes during a presentation or discussion,0.2948721945285797,False
-TVSUM_10,4,Man talking,00:46,01:03,0,9,Attendees taking notes during a presentation or discussion,0.2620387077331543,False
-TVSUM_10,2,People looking at a car,00:26,00:28,0,3,Demonstration of the charging process for electric cars,0.2735746204853058,False
-TVSUM_11,4,A dog getting dried,01:30,01:32,2,2,Woman preparing a dog for grooming,0.34148547053337097,False
-TVSUM_12,7,A pair of hair clippers being shown,06:34,06:40,2,3,Woman showing products,0.285827100276947,False
-TVSUM_12,6,Hair cutting materials being shown with a pile of hairs,05:41,05:47,2,1,Person washing dog's fur,0.2906941771507263,False
-TVSUM_12,5,An electric razor being shown next to a dog,04:31,04:34,2,1,Person washing dog's fur,0.4004823863506317,False
-TVSUM_12,4,A dog getting pet on a kitchen countertop with scissors and an electric razor next to him,04:25,04:30,2,1,Person washing dog's fur,0.4266287088394165,False
-TVSUM_12,2,A dog playing around a kitchen countertop,01:50,02:05,0,4,Woman giving dog bath,0.3460956811904907,False
-TVSUM_9,12,Battery layout and controls showcased,02:41,02:50,2,9,Close-up of car components,0.20015467703342438,False
-TVSUM_9,11,Simulation shows how the engine works,02:03,02:10,2,2,Car driving on a road,0.23424246907234192,False
-TVSUM_9,8,Simulation of the inner workings of the two-wheeled vehicle is shown,01:09,01:25,2,9,Close-up of car components,0.2673514783382416,False
-TVSUM_9,6,Vehicle simulation shown,00:58,01:02,2,2,Car driving on a road,0.39961302280426025,False
-TVSUM_9,1,Man gets into enclosed two-wheeled vehicle,00:00,00:06,2,4,Man sitting next to a car again,0.409412145614624,False
-TVSUM_9,3,Man gets out of enclosed two-wheeled vehicle,00:26,00:32,2,4,Man sitting next to a car again,0.41462570428848267,False
-TVSUM_9,5,Functionality of the vehicle is explained,00:43,00:57,2,9,Close-up of car components,0.43706291913986206,False
-TVSUM_9,14,Steering mechanism demonstrated by man,03:03,03:14,1,2,Car driving on a road,0.25047922134399414,False
-TVSUM_9,10,Smart display shows vehicle data,01:59,02:03,1,4,Man sitting next to a car again,0.2771875858306885,False
-TVSUM_9,15,Woman exits the vehicle in sunny weather,03:30,03:33,1,10,Woman driving a futuristic car,0.41255703568458557,False
-TVSUM_9,16,New man enters the vehicle and drives off,03:33,03:48,1,4,Man sitting next to a car again,0.42954540252685547,False
-TVSUM_9,13,Vehicle drives around bus depot,02:50,02:56,1,2,Car driving on a road,0.4484238028526306,False
+TVSUM_10,6,Man talking with cars in background,1:28,1:42,2,2,News anchor continues discussing electric cars,0.3750234544277191,False
+TVSUM_10,1,Reporter introduce subject,00:05,00:25,1,2,News anchor continues discussing electric cars,0.29730382561683655,False
+TVSUM_10,3,People talking around electric vechicle,00:26,00:30,1,9,A man speaks about the charging systems at the exhibition,0.40498843789100647,False
+TVSUM_10,5,Exhibition environment shown,1:18,1:27,0,9,A man speaks about the charging systems at the exhibition,0.42420560121536255,False
+TVSUM_11,10,Woman talking at camera,02:07,01:25,1,1,Exterior view of PetJoy,-0.02504788152873516,False
+TVSUM_11,3,A woman showing the inside of a dog cage,00:11,00:26,1,1,Exterior view of PetJoy,0.26390862464904785,False
+TVSUM_11,9,Pet food and products are shown on store shelves,01:52,02:07,1,1,Exterior view of PetJoy,0.3087029457092285,False
+TVSUM_11,6,Woman talking to camera as dog is being petted,01:09,01:27,1,3,Grooming session with a small dog,0.3122091293334961,False
+TVSUM_11,1,Store front of petstore,00:00,00:04,1,1,Exterior view of PetJoy,0.4022611677646637,False
+TVSUM_11,8,Woman talking at camera,01:39,01:52,0,1,Exterior view of PetJoy,-0.02504788152873516,False
+TVSUM_12,4,Water running in the sink,1:46,1:49,2,1,Woman washing her hands,0.23726825416088104,False
+TVSUM_12,5,A white dog playing around on a kitchen countertop,2:29,2:54,2,5,Woman rinsing the dog,0.3503148555755615,False
+TVSUM_12,8,A dog is shown on the kitchen countertop with clippers,4:31,4:34,2,5,Woman rinsing the dog,0.399609237909317,False
+TVSUM_12,9,A pair of hair clippers being shown on its charging stand,6:34,6:40,1,3,Woman brushing her hair,0.2631206214427948,False
+TVSUM_12,1,A small white dog is shown close up,0:00,0:03,1,6,Woman drying the dog,0.2956708073616028,False
+TVSUM_12,10,The groomed dog is shown lying on the floor,7:08,7:30,1,6,Woman drying the dog,0.3296222686767578,False
+TVSUM_9,5,A collision Simulation with a car is shown,00:58,1:03,2,1,Introduction of the vehicle,0.4359000623226166,False
+TVSUM_9,10,Woman gets out of the car,03:28,03:31,1,11,Vehicle driving on a road,0.340420126914978,False
+TVSUM_9,6,Wheel mechanism and internals are shown,01:07,01:26,1,1,Introduction of the vehicle,0.4188419282436371,False
+TVSUM_9,9,Man steering wheel,03:07,03:11,0,3,Man speaking about the vehicle,0.42203736305236816,False

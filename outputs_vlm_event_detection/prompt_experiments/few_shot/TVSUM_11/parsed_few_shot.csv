@@ -1,0 +1,18 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_11,few_shot,1,A dog is being groomed by a woman,00:00,00:20,0,20
+TVSUM_11,few_shot,2,The dog is placed in a cage,00:21,00:40,21,40
+TVSUM_11,few_shot,3,The dog is groomed again by the woman,00:41,01:00,41,60
+TVSUM_11,few_shot,4,The dog is placed back in the cage,01:01,01:20,61,80
+TVSUM_11,few_shot,5,The dog is groomed again by the woman,01:21,01:40,81,100
+TVSUM_11,few_shot,6,The dog is placed back in the cage,01:41,01:50,101,110
+TVSUM_11,few_shot,7,The dog is groomed again by the woman,01:51,02:10,111,130
+TVSUM_11,few_shot,8,The dog is placed back in the cage,02:11,02:20,131,140
+TVSUM_11,few_shot,9,The dog is groomed again by the woman,02:21,02:40,141,160
+TVSUM_11,few_shot,10,The dog is placed back in the cage,02:41,02:50,161,170
+TVSUM_11,few_shot,11,The dog is groomed again by the woman,02:51,03:10,171,190
+TVSUM_11,few_shot,12,The dog is placed back in the cage,03:11,03:20,191,200
+TVSUM_11,few_shot,13,The dog is groomed again by the woman,03:21,03:40,201,220
+TVSUM_11,few_shot,14,The dog is placed back in the cage,03:41,03:50,221,230
+TVSUM_11,few_shot,15,The dog is groomed again by the woman,03:51,04:10,231,250
+TVSUM_11,few_shot,16,The dog is placed back in the cage,04:11,04:20,251,260
+TVSUM_11,few_shot,17,The dog is groomed again by the woman,04:21,04:40,261,280

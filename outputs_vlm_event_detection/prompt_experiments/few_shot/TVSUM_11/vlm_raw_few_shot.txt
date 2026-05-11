@@ -1,0 +1,18 @@
+Salient event 1: A dog is being groomed by a woman, 00:00 - 00:20
+Salient event 2: The dog is placed in a cage, 00:21 - 00:40
+Salient event 3: The dog is groomed again by the woman, 00:41 - 01:00
+Salient event 4: The dog is placed back in the cage, 01:01 - 01:20
+Salient event 5: The dog is groomed again by the woman, 01:21 - 01:40
+Salient event 6: The dog is placed back in the cage, 01:41 - 01:50
+Salient event 7: The dog is groomed again by the woman, 01:51 - 02:10
+Salient event 8: The dog is placed back in the cage, 02:11 - 02:20
+Salient event 9: The dog is groomed again by the woman, 02:21 - 02:40
+Salient event 10: The dog is placed back in the cage, 02:41 - 02:50
+Salient event 11: The dog is groomed again by the woman, 02:51 - 03:10
+Salient event 12: The dog is placed back in the cage, 03:11 - 03:20
+Salient event 13: The dog is groomed again by the woman, 03:21 - 03:40
+Salient event 14: The dog is placed back in the cage, 03:41 - 03:50
+Salient event 15: The dog is groomed again by the woman, 03:51 - 04:10
+Salient event 16: The dog is placed back in the cage, 04:11 - 04:20
+Salient event 17: The dog is groomed again by the woman, 04:21 - 04:40
+Salient event

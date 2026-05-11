@@ -1,0 +1,9 @@
+Salient event 1: A news anchor introduces a segment about electric cars making the earth more green.
+Salient event 2: The anchor discusses the establishment of an electric vehicle charging system by the Korea Environment Corporation.
+Salient event 3: An interview with Yoo Dong-kun, a representative from the Korea Environment Corporation, is conducted.
+Salient event 4: The video showcases various electric vehicles on display at an exhibition.
+Salient event 5: A demonstration of a small electric car is shown, highlighting its features and design.
+Salient event 6: An interview with Kim Tae-hoon, the Exhibition Team Director, is conducted.
+Salient event 7: The video highlights the EV & Smart Car exhibition, emphasizing its focus on electric vehicles and related industries.
+Salient event 8: A demonstration of an electric bus is shown, showcasing its features and functionality.
+Salient event 9: The video concludes with a discussion on the importance of electric vehicles in reducing carbon emissions and improving air quality.

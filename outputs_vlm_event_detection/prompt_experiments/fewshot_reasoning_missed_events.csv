@@ -1,37 +1,44 @@
 video_name,manual_event_id,manual_event,manual_start,manual_end,subjectivity,best_vlm_event_id,best_vlm_event,similarity,matched,prompt_name
-TVSUM_10,1,Woman talking on a set,00:05,00:25,1,11,A woman demonstrates how to use a charging station,0.29877015948295593,False,few_shot
-TVSUM_10,4,Man talking,00:46,01:03,0,10,A man speaks about the future of electric cars,0.4159521758556366,False,few_shot
-TVSUM_10,2,People looking at a car,00:26,00:28,0,1,An electric car is shown being charged,0.44679123163223267,False,few_shot
-TVSUM_11,4,A dog getting dried,01:30,01:32,2,2,The person interacts with a dog,0.39624518156051636,False,few_shot
-TVSUM_12,4,A dog getting pet on a kitchen countertop with scissors and an electric razor next to him,04:25,04:30,2,6,The person applies hair conditioner to their hair,0.18963193893432617,False,few_shot
-TVSUM_12,5,An electric razor being shown next to a dog,04:31,04:34,2,9,The person applies hair gel to their hair,0.32629936933517456,False,few_shot
-TVSUM_12,3,A dog getting pet on a kitchen countertop,02:29,02:56,1,6,The person applies hair conditioner to their hair,0.12814173102378845,False,few_shot
-TVSUM_12,2,A dog playing around a kitchen countertop,01:50,02:05,0,1,A person washes their hands,0.0962783694267273,False,few_shot
-TVSUM_12,1,A woman filming herself walking and talking around her house,01:08,01:15,-1,10,The person applies hair spray to their hair,0.13182131946086884,False,few_shot
-TVSUM_9,12,Battery layout and controls showcased,02:41,02:50,2,17,The car is shown with a sixth diagram,0.24551963806152344,False,few_shot
-TVSUM_9,3,Man gets out of enclosed two-wheeled vehicle,00:26,00:32,2,11,The car is shown with a diagram,0.32080477476119995,False,few_shot
-TVSUM_9,1,Man gets into enclosed two-wheeled vehicle,00:00,00:06,2,4,The car's interior is shown,0.326225221157074,False,few_shot
-TVSUM_9,8,Simulation of the inner workings of the two-wheeled vehicle is shown,01:09,01:25,2,11,The car is shown with a diagram,0.40139976143836975,False,few_shot
-TVSUM_9,9,Pedal controls shown,01:25,01:30,1,13,The car is shown with yet another diagram,0.2837372422218323,False,few_shot
-TVSUM_9,14,Steering mechanism demonstrated by man,03:03,03:14,1,11,The car is shown with a diagram,0.3748577833175659,False,few_shot
-TVSUM_9,16,New man enters the vehicle and drives off,03:33,03:48,1,6,The car drives on the road again,0.42029905319213867,False,few_shot
-TVSUM_9,10,Smart display shows vehicle data,01:59,02:03,1,12,The car is shown with another diagram,0.4219868779182434,False,few_shot
-TVSUM_9,15,Woman exits the vehicle in sunny weather,03:30,03:33,1,9,A woman drives the car,0.4389905333518982,False,few_shot
-TVSUM_10,6,Man talking with cars in the background,01:28,01:42,2,7,Close-up of attendees interacting with technology,0.2676834464073181,False,reasoning_guided
-TVSUM_10,3,Cable being plugged into a car,00:32,00:33,2,3,Demonstration of electric vehicle charging system,0.35439610481262207,False,reasoning_guided
-TVSUM_10,1,Woman talking on a set,00:05,00:25,1,8,Attendees discussing and taking notes,0.311868280172348,False,reasoning_guided
-TVSUM_10,2,People looking at a car,00:26,00:28,0,3,Demonstration of electric vehicle charging system,0.2585916221141815,False,reasoning_guided
-TVSUM_10,4,Man talking,00:46,01:03,0,8,Attendees discussing and taking notes,0.2683326303958893,False,reasoning_guided
-TVSUM_11,4,A dog getting dried,01:30,01:32,2,2,Woman preparing a dog for grooming,0.3414854407310486,False,reasoning_guided
-TVSUM_12,5,An electric razor being shown next to a dog,04:31,04:34,2,9,"The woman is shown in a living room, playing with a dog",0.26429611444473267,False,reasoning_guided
-TVSUM_12,7,A pair of hair clippers being shown,06:34,06:40,2,4,The woman is seen applying the thickening agent to her hair,0.3333759009838104,False,reasoning_guided
-TVSUM_12,4,A dog getting pet on a kitchen countertop with scissors and an electric razor next to him,04:25,04:30,2,9,"The woman is shown in a living room, playing with a dog",0.3357398509979248,False,reasoning_guided
-TVSUM_12,6,Hair cutting materials being shown with a pile of hairs,05:41,05:47,2,4,The woman is seen applying the thickening agent to her hair,0.4068524241447449,False,reasoning_guided
-TVSUM_12,3,A dog getting pet on a kitchen countertop,02:29,02:56,1,9,"The woman is shown in a living room, playing with a dog",0.4421740174293518,False,reasoning_guided
-TVSUM_9,11,Simulation shows how the engine works,02:03,02:10,2,5,"The futuristic vehicle is shown again, emphasizing its advanced technology and design",0.30300402641296387,False,reasoning_guided
-TVSUM_9,8,Simulation of the inner workings of the two-wheeled vehicle is shown,01:09,01:25,2,5,"The futuristic vehicle is shown again, emphasizing its advanced technology and design",0.3177536725997925,False,reasoning_guided
-TVSUM_9,12,Battery layout and controls showcased,02:41,02:50,2,7,"The futuristic vehicle is displayed again, focusing on its innovative components and design elements",0.31942740082740784,False,reasoning_guided
-TVSUM_9,9,Pedal controls shown,01:25,01:30,1,8,"The man is seen inside the vehicle, demonstrating its interior and controls",0.2947211265563965,False,reasoning_guided
-TVSUM_9,13,Vehicle drives around bus depot,02:50,02:56,1,2,The scene transitions to a futuristic-looking vehicle driving on a city street,0.3594503402709961,False,reasoning_guided
-TVSUM_9,15,Woman exits the vehicle in sunny weather,03:30,03:33,1,9,"A woman is shown driving the futuristic vehicle, showcasing its smooth operation and ease of use",0.36427104473114014,False,reasoning_guided
-TVSUM_9,14,Steering mechanism demonstrated by man,03:03,03:14,1,8,"The man is seen inside the vehicle, demonstrating its interior and controls",0.4416046440601349,False,reasoning_guided
+TVSUM_10,1,Reporter introduce subject,00:05,00:25,1,2,A news anchor introduces the topic of electric cars,0.3039918839931488,False,few_shot
+TVSUM_11,10,Woman talking at camera,02:07,01:25,1,1,A dog is being groomed by a woman,0.18366719782352448,False,few_shot
+TVSUM_11,1,Store front of petstore,00:00,00:04,1,4,The dog is placed back in the cage,0.3594997525215149,False,few_shot
+TVSUM_11,9,Pet food and products are shown on store shelves,01:52,02:07,1,2,The dog is placed in a cage,0.37489718198776245,False,few_shot
+TVSUM_11,8,Woman talking at camera,01:39,01:52,0,1,A dog is being groomed by a woman,0.18366719782352448,False,few_shot
+TVSUM_12,4,Water running in the sink,1:46,1:49,2,1,A woman washes her dog,0.17728139460086823,False,few_shot
+TVSUM_12,5,A white dog playing around on a kitchen countertop,2:29,2:54,2,16,The woman returns home and pets the dog one last time,0.3345271348953247,False,few_shot
+TVSUM_12,8,A dog is shown on the kitchen countertop with clippers,4:31,4:34,2,6,The woman brushes the dog's fur,0.3692295253276825,False,few_shot
+TVSUM_12,9,A pair of hair clippers being shown on its charging stand,6:34,6:40,1,3,The woman applies shampoo to the dog's fur,0.1550472527742386,False,few_shot
+TVSUM_12,1,A small white dog is shown close up,0:00,0:03,1,16,The woman returns home and pets the dog one last time,0.2954845130443573,False,few_shot
+TVSUM_12,10,The groomed dog is shown lying on the floor,7:08,7:30,1,6,The woman brushes the dog's fur,0.365829735994339,False,few_shot
+TVSUM_12,2,A woman walking around her kitchen while talking,0:07,1:08,1,9,The woman talks to the camera while walking the dog,0.4237652122974396,False,few_shot
+TVSUM_12,7,Two woman walking outside in a paved street in the sun,3:35,4:20,0,8,The woman walks the dog outside,0.44563332200050354,False,few_shot
+TVSUM_9,5,A collision Simulation with a car is shown,00:58,1:03,2,3,The vehicle demonstrates its driving capabilities,0.3983685374259949,False,few_shot
+TVSUM_9,2,Mans speaking next to car,0:12,0:19,2,1,A person introduces a futuristic vehicle,0.4441971778869629,False,few_shot
+TVSUM_9,10,Woman gets out of the car,03:28,03:31,1,7,The vehicle is driven again on a city street,0.31925976276397705,False,few_shot
+TVSUM_9,3,Man gets out of car,00:27,00:33,1,7,The vehicle is driven again on a city street,0.337930291891098,False,few_shot
+TVSUM_9,6,Wheel mechanism and internals are shown,01:07,01:26,1,2,The vehicle's exterior and interior are showcased,0.3837425112724304,False,few_shot
+TVSUM_9,11,New man gets into the car and drives off,03:34,03:48,1,1,A person introduces a futuristic vehicle,0.40151911973953247,False,few_shot
+TVSUM_9,1,Man gets into car,00:00,00:06,1,1,A person introduces a futuristic vehicle,0.40635210275650024,False,few_shot
+TVSUM_9,9,Man steering wheel,03:07,03:11,0,3,The vehicle demonstrates its driving capabilities,0.3234655261039734,False,few_shot
+TVSUM_10,6,Man talking with cars in background,1:28,1:42,2,5,Interview with man about electric vehicle technology,0.38083750009536743,False,reasoning_guided
+TVSUM_10,1,Reporter introduce subject,00:05,00:25,1,3,Interview with Kim Tae-hoon about EV & Smart Car exhibition,0.21938994526863098,False,reasoning_guided
+TVSUM_10,3,People talking around electric vechicle,00:26,00:30,1,5,Interview with man about electric vehicle technology,0.39352285861968994,False,reasoning_guided
+TVSUM_10,5,Exhibition environment shown,1:18,1:27,0,3,Interview with Kim Tae-hoon about EV & Smart Car exhibition,0.3623404800891876,False,reasoning_guided
+TVSUM_11,10,Woman talking at camera,02:07,01:25,1,3,Grooming session with a small dog,-0.029716109856963158,False,reasoning_guided
+TVSUM_11,3,A woman showing the inside of a dog cage,00:11,00:26,1,2,Grooming session with a golden retriever,0.2260926067829132,False,reasoning_guided
+TVSUM_11,6,Woman talking to camera as dog is being petted,01:09,01:27,1,3,Grooming session with a small dog,0.3122091293334961,False,reasoning_guided
+TVSUM_11,9,Pet food and products are shown on store shelves,01:52,02:07,1,1,Exterior view of PetJoy Grooming salon,0.3610278367996216,False,reasoning_guided
+TVSUM_11,1,Store front of petstore,00:00,00:04,1,1,Exterior view of PetJoy Grooming salon,0.42704787850379944,False,reasoning_guided
+TVSUM_11,8,Woman talking at camera,01:39,01:52,0,3,Grooming session with a small dog,-0.029716109856963158,False,reasoning_guided
+TVSUM_12,4,Water running in the sink,1:46,1:49,2,1,Woman washing her hands,0.23726825416088104,False,reasoning_guided
+TVSUM_12,5,A white dog playing around on a kitchen countertop,2:29,2:54,2,5,Woman rinsing her dog,0.3510417938232422,False,reasoning_guided
+TVSUM_12,8,A dog is shown on the kitchen countertop with clippers,4:31,4:34,2,5,Woman rinsing her dog,0.39756011962890625,False,reasoning_guided
+TVSUM_12,9,A pair of hair clippers being shown on its charging stand,6:34,6:40,1,3,Woman brushing her hair,0.2631206214427948,False,reasoning_guided
+TVSUM_12,1,A small white dog is shown close up,0:00,0:03,1,6,Woman drying her dog,0.30127641558647156,False,reasoning_guided
+TVSUM_12,10,The groomed dog is shown lying on the floor,7:08,7:30,1,6,Woman drying her dog,0.31150054931640625,False,reasoning_guided
+TVSUM_12,7,Two woman walking outside in a paved street in the sun,3:35,4:20,0,7,Woman walking her dog,0.33009910583496094,False,reasoning_guided
+TVSUM_9,5,A collision Simulation with a car is shown,00:58,1:03,2,3,"The vehicle is demonstrated driving on a city street, showcasing its maneuverability and speed",0.41457921266555786,False,reasoning_guided
+TVSUM_9,10,Woman gets out of the car,03:28,03:31,1,5,"The vehicle is shown driving again, emphasizing its eco-friendly nature",0.27658510208129883,False,reasoning_guided
+TVSUM_9,6,Wheel mechanism and internals are shown,01:07,01:26,1,2,"The vehicle's interior is shown, highlighting its unique design and features",0.36665380001068115,False,reasoning_guided
+TVSUM_9,3,Man gets out of car,00:27,00:33,1,6,The man continues to speak about the vehicle's features and benefits,0.41974112391471863,False,reasoning_guided
+TVSUM_9,9,Man steering wheel,03:07,03:11,0,1,A man introduces a futuristic vehicle,0.40783265233039856,False,reasoning_guided

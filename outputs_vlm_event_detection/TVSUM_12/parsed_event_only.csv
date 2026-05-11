@@ -1,4 +1,4 @@
-event_id,event_description
-1,A person is washing a small white dog in a sink.
-2,The person applies a thickening agent to the dog's fur.
-3,The person dries the dog with a towel after applying the thickening agent.
+video_name,prompt_name,event_id,event_description
+TVSUM_12,event_only,1,A person is washing a small white dog in a sink.
+TVSUM_12,event_only,2,The person applies shampoo to the dog's fur and rinses it out.
+TVSUM_12,event_only,3,The person dries the dog with a towel after washing it.

@@ -1,0 +1,25 @@
+video_name,model_name,retrieval_query,summary_start,summary_end,summary_start_seconds,summary_end_seconds,duration,confidence,summary_video_path
+TVSUM_9,CG-DETR,Display showing battery status,01:18,01:25,78.4402,85.1241,6.683899999999994,0.9995,outputs_video_summary\TVSUM_9_CG-DETR_summary.mp4
+TVSUM_9,CG-DETR,Exterior view of the vehicle on a road,03:33,03:49,212.7738,229.1076,16.333799999999997,0.9995,outputs_video_summary\TVSUM_9_CG-DETR_summary.mp4
+TVSUM_9,CG-DETR,Exterior view of the vehicle driving,03:34,03:49,214.1757,229.1522,14.976499999999987,0.9993,outputs_video_summary\TVSUM_9_CG-DETR_summary.mp4
+TVSUM_9,CG-DETR,Exterior view of the vehicle driving,03:34,03:49,214.1757,229.1522,14.976499999999987,0.9993,outputs_video_summary\TVSUM_9_CG-DETR_summary.mp4
+TVSUM_9,CG-DETR,Vehicle driving on a road,03:35,03:49,214.6852,229.0956,14.410399999999981,0.9993,outputs_video_summary\TVSUM_9_CG-DETR_summary.mp4
+TVSUM_9,CG-DETR,Intel Free Press logo,03:49,03:54,228.7831,233.9557,5.172600000000017,0.9996,outputs_video_summary\TVSUM_9_CG-DETR_summary.mp4
+TVSUM_10,CG-DETR,A man discusses the energy park line bus,00:36,00:47,36.1633,46.8677,10.7044,0.9995,outputs_video_summary\TVSUM_10_CG-DETR_summary.mp4
+TVSUM_10,CG-DETR,A man speaks about the EV Korea exhibition,00:46,01:00,46.2766,59.5154,13.238799999999998,0.9995,outputs_video_summary\TVSUM_10_CG-DETR_summary.mp4
+TVSUM_10,CG-DETR,A man discusses the establishment of an electric vehicle charging system,01:05,01:15,64.9767,74.6485,9.671800000000005,0.9995,outputs_video_summary\TVSUM_10_CG-DETR_summary.mp4
+TVSUM_10,CG-DETR,A man explains the benefits of electric vehicles for carbon emissions reduction,01:05,01:15,65.2688,74.9706,9.701800000000006,0.9994,outputs_video_summary\TVSUM_10_CG-DETR_summary.mp4
+TVSUM_10,CG-DETR,News anchor continues discussing electric cars,01:28,01:45,88.1164,104.7947,16.678300000000007,0.999,outputs_video_summary\TVSUM_10_CG-DETR_summary.mp4
+TVSUM_10,CG-DETR,A man demonstrates plugging an electric car into a charging station,02:03,02:05,122.8504,125.1816,2.3312000000000097,0.9994,outputs_video_summary\TVSUM_10_CG-DETR_summary.mp4
+TVSUM_11,CG-DETR,Grooming session with a small dog,01:01,01:30,60.583,90.2076,29.6246,0.9988,outputs_video_summary\TVSUM_11_CG-DETR_summary.mp4
+TVSUM_11,CG-DETR,Grooming session with a small dog,01:01,01:30,60.583,90.2076,29.6246,0.9988,outputs_video_summary\TVSUM_11_CG-DETR_summary.mp4
+TVSUM_11,CG-DETR,Grooming session with a small dog,01:01,01:30,60.583,90.2076,29.6246,0.9988,outputs_video_summary\TVSUM_11_CG-DETR_summary.mp4
+TVSUM_11,CG-DETR,Grooming session with a golden retriever,01:01,01:31,60.6611,90.5409,29.879799999999996,0.9993,outputs_video_summary\TVSUM_11_CG-DETR_summary.mp4
+TVSUM_11,CG-DETR,Grooming session with a golden retriever,01:01,01:31,60.6611,90.5409,29.879799999999996,0.9993,outputs_video_summary\TVSUM_11_CG-DETR_summary.mp4
+TVSUM_11,CG-DETR,Grooming session with a golden retriever,01:01,01:31,60.6611,90.5409,29.879799999999996,0.9993,outputs_video_summary\TVSUM_11_CG-DETR_summary.mp4
+TVSUM_12,CG-DETR,Woman entering a building,00:00,00:10,0.4187,10.4079,9.9892,0.9997,outputs_video_summary\TVSUM_12_CG-DETR_summary.mp4
+TVSUM_12,CG-DETR,Woman brushing her hair,00:14,00:23,14.0154,22.9411,8.925699999999999,0.9997,outputs_video_summary\TVSUM_12_CG-DETR_summary.mp4
+TVSUM_12,CG-DETR,Woman brushing her hair,00:14,00:23,14.0154,22.9411,8.925699999999999,0.9997,outputs_video_summary\TVSUM_12_CG-DETR_summary.mp4
+TVSUM_12,CG-DETR,Woman brushing her hair,00:14,00:23,14.0154,22.9411,8.925699999999999,0.9997,outputs_video_summary\TVSUM_12_CG-DETR_summary.mp4
+TVSUM_12,CG-DETR,Woman brushing her hair,00:14,00:23,14.0154,22.9411,8.925699999999999,0.9997,outputs_video_summary\TVSUM_12_CG-DETR_summary.mp4
+TVSUM_12,CG-DETR,Woman brushing her hair,00:14,00:23,14.0154,22.9411,8.925699999999999,0.9997,outputs_video_summary\TVSUM_12_CG-DETR_summary.mp4

@@ -1,0 +1,8 @@
+Salient event 1: A man introduces a futuristic vehicle, 00:00 - 00:20
+Salient event 2: The vehicle's interior is shown, highlighting its unique design and features, 00:21 - 00:40
+Salient event 3: The vehicle is demonstrated driving on a city street, showcasing its maneuverability and speed, 00:41 - 01:00
+Salient event 4: The vehicle's battery status is displayed, indicating its power level and range, 01:01 - 01:20
+Salient event 5: The vehicle is shown driving again, emphasizing its eco-friendly nature, 01:21 - 01:40
+Salient event 6: The man continues to speak about the vehicle's features and benefits, 01:41 - 02:00
+Salient event 7: The vehicle is shown driving once more, demonstrating its practical use in urban environments, 02:01 - 02:20
+Salient event 8: The video concludes with a promotional graphic for Intel Free Press Tech News, 02:21 - 02:40
