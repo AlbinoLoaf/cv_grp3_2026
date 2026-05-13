@@ -1,0 +1,11 @@
+Marius,Ionas,Angelos,combined_salience,description
+1, 1, 1, (1; 1; 2), A small white dog is shown close up, 0:00 - 0:03
+1, 1, 1, (-1; 2; 1), A woman walking around her kitchen while talking, 0:07 - 1:08
+1, 1, 1, (1; 1; 1), Dog beauty product being displayed, 1:10 - 1:25
+1, 1, 1, (2; 1; 1), Water running in the sink, 1:46 - 1:49
+1, 1, 1, (2; 2; 2) A white dog playing around on a kitchen countertop, 2:29 - 2:54
+1, 1, 1, (-1; -1; -1), A woman is walking in a parking garage, 3:00 - 3:19
+1, 1, 1, (-1; 0; 0), Two woman walking outsidein a paved street in the sun, 3:35-4:20
+1, 1, 1, (2; 2; 1), A dog is shown on the kitchen countertop, with clippers, 4:31 - 4:34
+1, 1, 1, (2; 1; 1), A pair of hair clippers being shown on its charging stand, 6:34 - 6:40
+1, 1, 1, (1; 1; 2), The groomed dog is shown lying on the floor, 7:08 - 7:30
