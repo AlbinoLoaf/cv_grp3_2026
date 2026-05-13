@@ -1,0 +1,63 @@
+model_name,prompt_name,video_name,vlm_event_id,base_query,query_used,best_chunk_id,pred_start_seconds,pred_end_seconds,pred_start,pred_end,confidence
+Moment-DETR,zero_shot,TVSUM_9,1,Introduction of the vehicle,the moment when Introduction of the vehicle,3,213.1857,226.8199,03:33,03:47,0.9998
+Moment-DETR,zero_shot,TVSUM_9,2,Detailed view of the vehicle's front,Detailed view of the vehicle's front,1,69.669,91.81190000000001,01:10,01:32,0.9993
+Moment-DETR,zero_shot,TVSUM_9,3,Man speaking about the vehicle,Man speaking about the vehicle,2,148.1702,162.95069999999998,02:28,02:43,0.9998
+Moment-DETR,zero_shot,TVSUM_9,4,Interior view of the vehicle,the moment when Interior view of the vehicle,0,1.7321,21.5164,00:02,00:22,0.9996
+Moment-DETR,zero_shot,TVSUM_9,5,Exterior view of the vehicle on a road,the moment when Exterior view of the vehicle on a road,0,5.7669,24.6257,00:06,00:25,0.9998
+Moment-DETR,zero_shot,TVSUM_9,6,Close-up of the vehicle's engine,the moment when Close-up of the vehicle's engine,1,69.73,87.8029,01:10,01:28,0.9997
+Moment-DETR,zero_shot,TVSUM_9,7,Pedal operation demonstration,a scene where Pedal operation demonstration,2,120.4806,147.52,02:00,02:28,0.9997
+Moment-DETR,zero_shot,TVSUM_9,8,Man speaking about the vehicle again,the moment when Man speaking about the vehicle again,1,87.494,104.3698,01:27,01:44,0.9997
+Moment-DETR,zero_shot,TVSUM_9,9,Exterior view of the vehicle driving,someone is involved in: Exterior view of the vehicle driving,3,215.1925,230.575,03:35,03:51,0.9998
+Moment-DETR,zero_shot,TVSUM_9,10,Display showing battery status,a video of Display showing battery status,1,68.4905,86.3567,01:08,01:26,0.9992
+Moment-DETR,zero_shot,TVSUM_9,11,Vehicle driving on a road,a scene where Vehicle driving on a road,3,211.8518,228.1857,03:32,03:48,0.9998
+Moment-DETR,zero_shot,TVSUM_9,12,Close-up of the vehicle's front,someone is involved in: Close-up of the vehicle's front,1,68.3976,85.4289,01:08,01:25,0.9997
+Moment-DETR,zero_shot,TVSUM_9,13,Man speaking about the vehicle again,a scene where Man speaking about the vehicle again,2,145.5501,164.1418,02:26,02:44,0.9999
+Moment-DETR,zero_shot,TVSUM_9,14,Exterior view of the vehicle driving,someone is involved in: Exterior view of the vehicle driving,3,215.0236,230.8813,03:35,03:51,0.9997
+Moment-DETR,zero_shot,TVSUM_9,15,Man speaking about the vehicle again,someone is involved in: Man speaking about the vehicle again,2,147.8354,161.9779,02:28,02:42,0.9998
+Moment-DETR,zero_shot,TVSUM_9,16,Exterior view of the vehicle driving,a scene where Exterior view of the vehicle driving,3,213.64350000000002,228.2266,03:34,03:48,0.9999
+Moment-DETR,zero_shot,TVSUM_9,17,Exterior view of the vehicle driving,the moment when Exterior view of the vehicle driving,0,1.0153,25.88,00:01,00:26,0.9994
+Moment-DETR,zero_shot,TVSUM_9,18,Intel Free Press logo,Intel Free Press logo,0,10.159,23.1594,00:10,00:23,0.9989
+Moment-DETR,zero_shot,TVSUM_10,1,News anchor introduces the segment on electric cars,News anchor introduces the segment on electric cars,1,90.1138,105.0529,01:30,01:45,0.9999
+Moment-DETR,zero_shot,TVSUM_10,2,News anchor continues discussing electric cars,the moment when News anchor continues discussing electric cars,1,87.2345,105.99170000000001,01:27,01:46,0.9999
+Moment-DETR,zero_shot,TVSUM_10,3,A man demonstrates plugging an electric car into a charging station,A man demonstrates plugging an electric car into a charging station,2,125.8747,129.732,02:06,02:10,0.9999
+Moment-DETR,zero_shot,TVSUM_10,4,A man discusses the establishment of an electric vehicle charging system,A man discusses the establishment of an electric vehicle charging system,1,85.606,107.6608,01:26,01:48,0.9999
+Moment-DETR,zero_shot,TVSUM_10,5,A man explains the benefits of electric vehicles for carbon emissions reduction,A man explains the benefits of electric vehicles for carbon emissions reduction,1,84.6858,107.8061,01:25,01:48,0.9999
+Moment-DETR,zero_shot,TVSUM_10,6,A man demonstrates a small electric vehicle,a scene where A man demonstrates a small electric vehicle,1,80.3552,105.9636,01:20,01:46,0.9998
+Moment-DETR,zero_shot,TVSUM_10,7,A man speaks about the EV Korea exhibition,the moment when A man speaks about the EV Korea exhibition,1,83.0489,105.89,01:23,01:46,0.9999
+Moment-DETR,zero_shot,TVSUM_10,8,A man discusses the energy park line bus,A man discusses the energy park line bus,1,84.8534,105.075,01:25,01:45,0.9999
+Moment-DETR,zero_shot,TVSUM_10,9,A man speaks about the charging systems at the exhibition,a scene where A man speaks about the charging systems at the exhibition,1,88.4778,104.7628,01:28,01:45,0.9999
+Moment-DETR,zero_shot,TVSUM_11,1,Exterior view of PetJoy,someone is involved in: Exterior view of PetJoy,2,142.6879,155.5418,02:23,02:36,0.9977
+Moment-DETR,zero_shot,TVSUM_11,2,Grooming session with a golden retriever,the moment when Grooming session with a golden retriever,1,65.042,87.4854,01:05,01:27,0.9994
+Moment-DETR,zero_shot,TVSUM_11,3,Grooming session with a small dog,a scene where Grooming session with a small dog,1,65.1899,87.15559999999999,01:05,01:27,0.9974
+Moment-DETR,zero_shot,TVSUM_11,4,Grooming session with a small dog,a scene where Grooming session with a small dog,1,63.5876,87.7378,01:04,01:28,0.9991
+Moment-DETR,zero_shot,TVSUM_11,5,Grooming session with a golden retriever,the moment when Grooming session with a golden retriever,2,137.9031,147.0251,02:18,02:27,0.9991
+Moment-DETR,zero_shot,TVSUM_11,6,Grooming session with a golden retriever,Grooming session with a golden retriever,1,68.1678,87.4151,01:08,01:27,0.9988
+Moment-DETR,zero_shot,TVSUM_11,7,Grooming session with a small dog,the moment when Grooming session with a small dog,1,66.4846,81.4782,01:06,01:21,0.9982
+Moment-DETR,zero_shot,TVSUM_11,8,Grooming session with a small dog,a scene where Grooming session with a small dog,0,22.494,36.9006,00:22,00:37,0.9982
+Moment-DETR,zero_shot,TVSUM_11,9,Grooming session with a small dog,a scene where Grooming session with a small dog,2,141.0434,153.63580000000002,02:21,02:34,0.9997
+Moment-DETR,zero_shot,TVSUM_11,10,Grooming session with a small dog,Grooming session with a small dog,2,130.2467,140.6364,02:10,02:21,0.9974
+Moment-DETR,zero_shot,TVSUM_11,11,Grooming session with a small dog,a scene where Grooming session with a small dog,0,35.4249,59.8185,00:35,01:00,0.9987
+Moment-DETR,zero_shot,TVSUM_11,12,Grooming session with a small dog,a scene where Grooming session with a small dog,1,62.1688,81.24170000000001,01:02,01:21,0.9984
+Moment-DETR,zero_shot,TVSUM_11,13,Grooming session with a small dog,a scene where Grooming session with a small dog,1,61.5831,86.7183,01:02,01:27,0.9989
+Moment-DETR,zero_shot,TVSUM_11,14,Grooming session with a small dog,the moment when Grooming session with a small dog,1,66.8021,84.9243,01:07,01:25,0.9989
+Moment-DETR,zero_shot,TVSUM_11,15,Grooming session with a small dog,Grooming session with a small dog,1,60.6111,82.3069,01:01,01:22,0.999
+Moment-DETR,zero_shot,TVSUM_11,16,Grooming session with a small dog,someone is involved in: Grooming session with a small dog,0,31.0623,55.721,00:31,00:56,0.9992
+Moment-DETR,zero_shot,TVSUM_11,17,Grooming session with a small dog,a scene where Grooming session with a small dog,1,60.803,87.0236,01:01,01:27,0.9993
+Moment-DETR,zero_shot,TVSUM_12,1,Woman washing her hands,someone is involved in: Woman washing her hands,4,267.8064,296.4061,04:28,04:56,0.9997
+Moment-DETR,zero_shot,TVSUM_12,2,Woman talking to the camera,Woman talking to the camera,7,420.0458,425.14,07:00,07:05,0.9998
+Moment-DETR,zero_shot,TVSUM_12,3,Woman brushing her hair,the moment when Woman brushing her hair,4,274.83820000000003,290.1758,04:35,04:50,0.9996
+Moment-DETR,zero_shot,TVSUM_12,4,Woman applying shampoo to the dog,a scene where Woman applying shampoo to the dog,2,151.3554,175.1054,02:31,02:55,0.9999
+Moment-DETR,zero_shot,TVSUM_12,5,Woman rinsing the dog,a video of Woman rinsing the dog,1,105.8892,120.12610000000001,01:46,02:00,0.9999
+Moment-DETR,zero_shot,TVSUM_12,6,Woman drying the dog,a video of Woman drying the dog,1,105.6523,120.1753,01:46,02:00,0.9998
+Moment-DETR,zero_shot,TVSUM_12,7,Woman talking to the camera,Woman talking to the camera,4,241.6256,262.7052,04:02,04:23,0.9997
+Moment-DETR,zero_shot,TVSUM_12,8,Woman walking outside,the moment when Woman walking outside,6,388.8043,403.13779999999997,06:29,06:43,0.9992
+Moment-DETR,zero_shot,TVSUM_12,9,Woman entering a building,a video of Woman entering a building,1,105.9584,120.0403,01:46,02:00,0.9997
+Moment-DETR,zero_shot,TVSUM_12,10,Woman talking to the camera,Woman talking to the camera,5,308.6913,319.3252,05:09,05:19,0.9993
+Moment-DETR,zero_shot,TVSUM_12,11,Woman brushing her hair,a video of Woman brushing her hair,6,361.2049,386.6639,06:01,06:27,0.9997
+Moment-DETR,zero_shot,TVSUM_12,12,Woman talking to the camera,Woman talking to the camera,4,242.80180000000001,260.8912,04:03,04:21,0.9993
+Moment-DETR,zero_shot,TVSUM_12,13,Woman brushing her hair,Woman brushing her hair,3,233.9502,240.0223,03:54,04:00,0.999
+Moment-DETR,zero_shot,TVSUM_12,14,Woman talking to the camera,Woman talking to the camera,4,240.4182,262.5962,04:00,04:23,0.9993
+Moment-DETR,zero_shot,TVSUM_12,15,Woman brushing her hair,a scene where Woman brushing her hair,1,105.5053,120.1023,01:46,02:00,0.9997
+Moment-DETR,zero_shot,TVSUM_12,16,Woman talking to the camera,Woman talking to the camera,6,401.5344,419.8443,06:42,07:00,0.9998
+Moment-DETR,zero_shot,TVSUM_12,17,Woman brushing her hair,Woman brushing her hair,4,266.9567,287.7724,04:27,04:48,0.999
+Moment-DETR,zero_shot,TVSUM_12,18,Woman talking to the camera,Woman talking to the camera,1,60.0137,67.9042,01:00,01:08,0.9988

@@ -1,0 +1,13 @@
+Salient event 1: A person introduces a futuristic vehicle, 00:00 - 00:10
+Salient event 2: The vehicle's exterior and interior are showcased, 00:11 - 00:30
+Salient event 3: The vehicle demonstrates its driving capabilities, 00:31 - 00:50
+Salient event 4: The vehicle's battery status is displayed, 00:51 - 01:10
+Salient event 5: The vehicle is driven on a city street, 01:11 - 01:30
+Salient event 6: The vehicle's features are highlighted, 01:31 - 01:50
+Salient event 7: The vehicle is driven again on a city street, 01:51 - 02:10
+Salient event 8: The vehicle's battery status is displayed once more, 02:11 - 02:30
+Salient event 9: The vehicle is driven on a city street again, 02:31 - 02:50
+Salient event 10: The vehicle is driven on a city street one last time, 02:51 - 03:10
+Salient event 11: The vehicle is shown driving on a city street, 03:11 - 03:30
+Salient event 12: The vehicle is shown driving on a city street, 03:31 - 03:50
+Salient event 13: The vehicle is shown driving on a city street, 03:51 - 04:00

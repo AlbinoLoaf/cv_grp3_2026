@@ -1,18 +1,21 @@
-video_name,event_id,event_description
-TVSUM_9,1,"A man wearing glasses is sitting next to a white car, talking."
-TVSUM_9,2,The scene changes to a futuristic-looking vehicle driving on a city street.
-TVSUM_9,3,"The interior of the vehicle is shown, highlighting its unique design and features."
-TVSUM_9,4,The man is then seen driving the vehicle through a cityscape.
-TVSUM_9,5,The video concludes with a news segment featuring a person holding a newspaper.
-TVSUM_10,1,A news anchor introduces a segment about electric cars making the Earth more green.
-TVSUM_10,2,The anchor discusses the establishment of a charging system for up to 500 electric vehicles by the Korea Environment Corporation.
-TVSUM_10,3,"An interview with Yoo Dong-kun, a representative from the Korea Environment Corporation, is conducted."
-TVSUM_10,4,The video shows a graph displaying data related to electric vehicle technology.
-TVSUM_10,5,A business fair aimed at facilitating exchanges between professionals in the electric vehicle industry is highlighted.
-TVSUM_10,6,Attendees at the fair are shown interacting with various exhibits and discussing the latest advancements in electric vehicle technology.
-TVSUM_11,1,A woman is grooming a dog inside a pet grooming salon.
-TVSUM_11,2,"The woman is seen interacting with the dog, possibly giving it a bath or brushing its fur."
-TVSUM_11,3,"The video then shows a display of pet food products, including bags of dog food and treats."
-TVSUM_12,1,A person is washing a small white dog in a sink.
-TVSUM_12,2,The person applies a thickening agent to the dog's fur.
-TVSUM_12,3,The person dries the dog with a towel after applying the thickening agent.
+video_name,prompt_name,event_id,event_description
+TVSUM_9,event_only,1,"A man is standing next to a white car, talking."
+TVSUM_9,event_only,2,"The car's hood is open, revealing its internal components."
+TVSUM_9,event_only,3,"The car is driving on a city street, passing by other vehicles."
+TVSUM_9,event_only,4,"The car is shown from different angles, highlighting its design and features."
+TVSUM_9,event_only,5,"The car is parked again, with the man continuing his conversation."
+TVSUM_10,event_only,1,A news anchor introduces a segment about electric cars making the earth more green.
+TVSUM_10,event_only,2,The anchor discusses the establishment of an electric vehicle charging system by the Korea Environment Corporation.
+TVSUM_10,event_only,3,"An interview with Yoo Dong-kun, a representative from the Korea Environment Corporation, is conducted."
+TVSUM_10,event_only,4,The video showcases various electric vehicles on display at an exhibition.
+TVSUM_10,event_only,5,"A demonstration of a small electric car is shown, highlighting its features and design."
+TVSUM_10,event_only,6,"An interview with Kim Tae-hoon, the Exhibition Team Director, is conducted."
+TVSUM_10,event_only,7,"The video highlights the EV & Smart Car exhibition, emphasizing its focus on electric vehicles and related industries."
+TVSUM_10,event_only,8,"A demonstration of an electric bus is shown, showcasing its features and functionality."
+TVSUM_10,event_only,9,The video concludes with a discussion on the importance of electric vehicles in reducing carbon emissions and improving air quality.
+TVSUM_11,event_only,1,A woman is grooming a golden retriever on a table.
+TVSUM_11,event_only,2,The woman is talking to the camera while grooming the dog.
+TVSUM_11,event_only,3,The woman is using a brush to groom the dog's fur.
+TVSUM_12,event_only,1,A person is washing a small white dog in a sink.
+TVSUM_12,event_only,2,The person applies shampoo to the dog's fur and rinses it out.
+TVSUM_12,event_only,3,The person dries the dog with a towel after washing it.

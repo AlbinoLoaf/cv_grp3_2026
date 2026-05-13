@@ -1,0 +1,19 @@
+Salient event 1: Woman washing her hands, MM:00:00 - MM:00:05
+Salient event 2: Woman talking to the camera, MM:00:05 - MM:00:10
+Salient event 3: Woman brushing her hair, MM:00:10 - MM:00:15
+Salient event 4: Woman applying shampoo to the dog, MM:00:15 - MM:00:20
+Salient event 5: Woman rinsing the dog, MM:00:20 - MM:00:25
+Salient event 6: Woman drying the dog, MM:00:25 - MM:00:30
+Salient event 7: Woman talking to the camera, MM:00:30 - MM:00:35
+Salient event 8: Woman walking outside, MM:00:35 - MM:00:40
+Salient event 9: Woman entering a building, MM:00:40 - MM:00:45
+Salient event 10: Woman talking to the camera, MM:00:45 - MM:00:50
+Salient event 11: Woman brushing her hair, MM:00:50 - MM:00:55
+Salient event 12: Woman talking to the camera, MM:00:55 - MM:01:00
+Salient event 13: Woman brushing her hair, MM:01:00 - MM:01:05
+Salient event 14: Woman talking to the camera, MM:01:05 - MM:01:10
+Salient event 15: Woman brushing her hair, MM:01:10 - MM:01:15
+Salient event 16: Woman talking to the camera, MM:01:15 - MM:01:20
+Salient event 17: Woman brushing her hair, MM:01:20 - MM:01:25
+Salient event 18: Woman talking to the camera, MM:01:25 - MM:01:30
+Salient event 19: Woman

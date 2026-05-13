@@ -1,4 +1,4 @@
 prompt_name,total_manual_events,total_matched_events,total_missed_events,overall_match_rate
-few_shot,37,19,18,0.5135135135135135
-reasoning_guided,37,19,18,0.5135135135135135
-zero_shot,37,14,23,0.3783783783783784
+zero_shot,39,19,20,0.48717948717948717
+few_shot,39,18,21,0.46153846153846156
+reasoning_guided,39,17,22,0.4358974358974359

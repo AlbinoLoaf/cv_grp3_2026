@@ -1,21 +1,19 @@
-event_id,event_description,start,end,start_seconds,end_seconds
-1,Person washing dog's fur,00:00,00:09,0,9
-2,Woman talking to camera,00:40,00:45,40,45
-3,Woman showing products,01:00,01:10,60,70
-4,Woman giving dog bath,01:20,02:00,80,120
-5,Woman talking to camera,02:00,02:05,120,125
-6,Woman giving dog bath,02:10,02:40,130,160
-7,Woman talking to camera,02:40,02:45,160,165
-8,Woman giving dog bath,02:50,03:20,170,200
-9,Woman talking to camera,03:20,03:25,200,205
-10,Woman giving dog bath,03:30,04:00,210,240
-11,Woman talking to camera,04:00,04:05,240,245
-12,Woman giving dog bath,04:10,04:40,250,280
-13,Woman talking to camera,04:40,04:45,280,285
-14,Woman giving dog bath,04:50,05:20,290,320
-15,Woman talking to camera,05:20,05:25,320,325
-16,Woman giving dog bath,05:30,06:00,330,360
-17,Woman talking to camera,06:00,06:05,360,365
-18,Woman giving dog bath,06:10,06:40,370,400
-19,Woman talking to camera,06:40,06:45,400,405
-20,Woman giving dog bath,06:50,07:30,410,450
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_12,event_timestamp,1,Woman washing her hands,00:00,00:05,0,5
+TVSUM_12,event_timestamp,2,Woman talking to the camera,00:05,00:10,5,10
+TVSUM_12,event_timestamp,3,Woman brushing her hair,00:10,00:15,10,15
+TVSUM_12,event_timestamp,4,Woman applying shampoo to the dog,00:15,00:20,15,20
+TVSUM_12,event_timestamp,5,Woman rinsing the dog,00:20,00:25,20,25
+TVSUM_12,event_timestamp,6,Woman drying the dog,00:25,00:30,25,30
+TVSUM_12,event_timestamp,7,Woman talking to the camera,00:30,00:35,30,35
+TVSUM_12,event_timestamp,8,Woman walking outside,00:35,00:40,35,40
+TVSUM_12,event_timestamp,9,Woman entering a building,00:40,00:45,40,45
+TVSUM_12,event_timestamp,10,Woman talking to the camera,00:45,00:50,45,50
+TVSUM_12,event_timestamp,11,Woman brushing her hair,00:50,00:55,50,55
+TVSUM_12,event_timestamp,12,Woman talking to the camera,00:55,01:00,55,60
+TVSUM_12,event_timestamp,13,Woman brushing her hair,01:00,01:05,60,65
+TVSUM_12,event_timestamp,14,Woman talking to the camera,01:05,01:10,65,70
+TVSUM_12,event_timestamp,15,Woman brushing her hair,01:10,01:15,70,75
+TVSUM_12,event_timestamp,16,Woman talking to the camera,01:15,01:20,75,80
+TVSUM_12,event_timestamp,17,Woman brushing her hair,01:20,01:25,80,85
+TVSUM_12,event_timestamp,18,Woman talking to the camera,01:25,01:30,85,90

@@ -1,38 +1,40 @@
 video_name,manual_event_id,manual_event,manual_start,manual_end,subjectivity,best_vlm_event_id,best_vlm_event,similarity,matched,prompt_name
-TVSUM_9,1,Man gets into enclosed two-wheeled vehicle,00:00,00:06,2,4,Man sitting next to a car again,0.409412145614624,False,zero_shot
-TVSUM_9,2,Man speaking to camera,00:14,00:20,1,1,"Man sitting next to a car, talking",0.48179635405540466,True,zero_shot
-TVSUM_9,3,Man gets out of enclosed two-wheeled vehicle,00:26,00:32,2,4,Man sitting next to a car again,0.41462570428848267,False,zero_shot
-TVSUM_9,4,Man speaking to camera,00:33,00:42,-1,1,"Man sitting next to a car, talking",0.48179635405540466,True,zero_shot
-TVSUM_9,5,Functionality of the vehicle is explained,00:43,00:57,2,9,Close-up of car components,0.43706291913986206,False,zero_shot
-TVSUM_9,6,Vehicle simulation shown,00:58,01:02,2,2,Car driving on a road,0.39961302280426025,False,zero_shot
-TVSUM_9,7,Man speaking to camera,01:02,01:06,-1,1,"Man sitting next to a car, talking",0.48179635405540466,True,zero_shot
-TVSUM_9,8,Simulation of the inner workings of the two-wheeled vehicle is shown,01:09,01:25,2,9,Close-up of car components,0.2673514783382416,False,zero_shot
-TVSUM_9,9,Pedal controls shown,01:25,01:30,1,6,Close-up of car pedals again,0.5538575649261475,True,zero_shot
-TVSUM_9,10,Smart display shows vehicle data,01:59,02:03,1,4,Man sitting next to a car again,0.2771875858306885,False,zero_shot
-TVSUM_9,11,Simulation shows how the engine works,02:03,02:10,2,2,Car driving on a road,0.23424246907234192,False,zero_shot
-TVSUM_9,12,Battery layout and controls showcased,02:41,02:50,2,9,Close-up of car components,0.20015467703342438,False,zero_shot
-TVSUM_9,13,Vehicle drives around bus depot,02:50,02:56,1,2,Car driving on a road,0.4484238028526306,False,zero_shot
-TVSUM_9,14,Steering mechanism demonstrated by man,03:03,03:14,1,2,Car driving on a road,0.25047922134399414,False,zero_shot
-TVSUM_9,15,Woman exits the vehicle in sunny weather,03:30,03:33,1,10,Woman driving a futuristic car,0.41255703568458557,False,zero_shot
-TVSUM_9,16,New man enters the vehicle and drives off,03:33,03:48,1,4,Man sitting next to a car again,0.42954540252685547,False,zero_shot
-TVSUM_10,1,Woman talking on a set,00:05,00:25,1,9,Attendees taking notes during a presentation or discussion,0.2948721945285797,False,zero_shot
-TVSUM_10,2,People looking at a car,00:26,00:28,0,3,Demonstration of the charging process for electric cars,0.2735746204853058,False,zero_shot
-TVSUM_10,3,Cable being plugged into a car,00:32,00:33,2,3,Demonstration of the charging process for electric cars,0.3691920042037964,False,zero_shot
-TVSUM_10,4,Man talking,00:46,01:03,0,9,Attendees taking notes during a presentation or discussion,0.2620387077331543,False,zero_shot
-TVSUM_10,5,Man driving a small electric car,01:20,01:22,0,5,Overview of the electric vehicle industry,0.4535749554634094,True,zero_shot
-TVSUM_10,6,Man talking with cars in the background,01:28,01:42,2,5,Overview of the electric vehicle industry,0.2239515334367752,False,zero_shot
-TVSUM_11,1,A woman talking while petting a dog,00:05,00:09,1,5,Woman talking about pet food options,0.6635494828224182,True,zero_shot
-TVSUM_11,2,A woman showing the inside of a dog cage,00:11,00:26,1,7,Woman closing the dog's cage,0.6771830916404724,True,zero_shot
-TVSUM_11,3,A woman talking while petting a dog who is standing on a table,00:27,01:26,1,5,Woman talking about pet food options,0.627592921257019,True,zero_shot
-TVSUM_11,4,A dog getting dried,01:30,01:32,2,2,Woman preparing a dog for grooming,0.34148547053337097,False,zero_shot
-TVSUM_11,5,A woman trimming a dog's paws,01:33,01:34,2,2,Woman preparing a dog for grooming,0.7061129212379456,True,zero_shot
-TVSUM_11,6,A dog getting brushed,01:37,01:38,2,2,Woman preparing a dog for grooming,0.5115211009979248,True,zero_shot
-TVSUM_11,7,A woman talking in front of dog cages,01:39,01:50,0,5,Woman talking about pet food options,0.6465267539024353,True,zero_shot
-TVSUM_11,8,A woman talking in front of dog cages,02:07,02:27,0,5,Woman talking about pet food options,0.6465267539024353,True,zero_shot
-TVSUM_12,1,A woman filming herself walking and talking around her house,01:08,01:15,-1,2,Woman talking to camera,0.6350910663604736,True,zero_shot
-TVSUM_12,2,A dog playing around a kitchen countertop,01:50,02:05,0,4,Woman giving dog bath,0.3460956811904907,False,zero_shot
-TVSUM_12,3,A dog getting pet on a kitchen countertop,02:29,02:56,1,4,Woman giving dog bath,0.4638511836528778,True,zero_shot
-TVSUM_12,4,A dog getting pet on a kitchen countertop with scissors and an electric razor next to him,04:25,04:30,2,1,Person washing dog's fur,0.4266287088394165,False,zero_shot
-TVSUM_12,5,An electric razor being shown next to a dog,04:31,04:34,2,1,Person washing dog's fur,0.4004823863506317,False,zero_shot
-TVSUM_12,6,Hair cutting materials being shown with a pile of hairs,05:41,05:47,2,1,Person washing dog's fur,0.2906941771507263,False,zero_shot
-TVSUM_12,7,A pair of hair clippers being shown,06:34,06:40,2,3,Woman showing products,0.285827100276947,False,zero_shot
+TVSUM_9,1,Man gets into car,00:00,00:06,1,3,Man speaking about the vehicle,0.5093899965286255,True,zero_shot
+TVSUM_9,2,Mans speaking next to car,0:12,0:19,2,3,Man speaking about the vehicle,0.8421626687049866,True,zero_shot
+TVSUM_9,3,Man gets out of car,00:27,00:33,1,3,Man speaking about the vehicle,0.48779791593551636,True,zero_shot
+TVSUM_9,4,The car controls and functionality is shown,0:43,0:57,2,1,Introduction of the vehicle,0.5705276131629944,True,zero_shot
+TVSUM_9,5,A collision Simulation with a car is shown,00:58,1:03,2,1,Introduction of the vehicle,0.4359000623226166,False,zero_shot
+TVSUM_9,6,Wheel mechanism and internals are shown,01:07,01:26,1,1,Introduction of the vehicle,0.4188419282436371,False,zero_shot
+TVSUM_9,7,Dashboard with car information is shown,01:59,02:03,1,2,Detailed view of the vehicle's front,0.47232091426849365,True,zero_shot
+TVSUM_9,8,Car driving on pavement next to other cars,02:50,02:56,2,11,Vehicle driving on a road,0.7272672653198242,True,zero_shot
+TVSUM_9,9,Man steering wheel,03:07,03:11,0,3,Man speaking about the vehicle,0.42203736305236816,False,zero_shot
+TVSUM_9,10,Woman gets out of the car,03:28,03:31,1,11,Vehicle driving on a road,0.340420126914978,False,zero_shot
+TVSUM_9,11,New man gets into the car and drives off,03:34,03:48,1,8,Man speaking about the vehicle again,0.4505336284637451,True,zero_shot
+TVSUM_10,1,Reporter introduce subject,00:05,00:25,1,2,News anchor continues discussing electric cars,0.29730382561683655,False,zero_shot
+TVSUM_10,2,Woman continues explaining the electric car segment,00:16,00:25,1,1,News anchor introduces the segment on electric cars,0.6179320216178894,True,zero_shot
+TVSUM_10,3,People talking around electric vechicle,00:26,00:30,1,9,A man speaks about the charging systems at the exhibition,0.40498843789100647,False,zero_shot
+TVSUM_10,4,Electrical Vechicle charging demonstrated,1:05,1:15,1,4,A man discusses the establishment of an electric vehicle charging system,0.5486550331115723,True,zero_shot
+TVSUM_10,5,Exhibition environment shown,1:18,1:27,0,9,A man speaks about the charging systems at the exhibition,0.42420560121536255,False,zero_shot
+TVSUM_10,6,Man talking with cars in background,1:28,1:42,2,2,News anchor continues discussing electric cars,0.3750234544277191,False,zero_shot
+TVSUM_10,7,Electric buses being shown,1:44,1:52,1,8,A man discusses the energy park line bus,0.527539849281311,True,zero_shot
+TVSUM_11,1,Store front of petstore,00:00,00:04,1,1,Exterior view of PetJoy,0.4022611677646637,False,zero_shot
+TVSUM_11,2,Dog being groomed during explanation,00:05,00:10,1,17,Grooming session with a small dog,0.7517978549003601,True,zero_shot
+TVSUM_11,3,A woman showing the inside of a dog cage,00:11,00:26,1,1,Exterior view of PetJoy,0.26390862464904785,False,zero_shot
+TVSUM_11,4,Dog on grooming table while groomer prepares to work,00:30,00:45,2,3,Grooming session with a small dog,0.6547037363052368,True,zero_shot
+TVSUM_11,5,Woman prepares to groom dog,00:45,01:06,1,17,Grooming session with a small dog,0.6060198545455933,True,zero_shot
+TVSUM_11,6,Woman talking to camera as dog is being petted,01:09,01:27,1,3,Grooming session with a small dog,0.3122091293334961,False,zero_shot
+TVSUM_11,7,Dog being groomed with a blower,01:29,01:39,2,3,Grooming session with a small dog,0.6001780033111572,True,zero_shot
+TVSUM_11,8,Woman talking at camera,01:39,01:52,0,1,Exterior view of PetJoy,-0.02504788152873516,False,zero_shot
+TVSUM_11,9,Pet food and products are shown on store shelves,01:52,02:07,1,1,Exterior view of PetJoy,0.3087029457092285,False,zero_shot
+TVSUM_11,10,Woman talking at camera,02:07,01:25,1,1,Exterior view of PetJoy,-0.02504788152873516,False,zero_shot
+TVSUM_11,11,The video returns to the outside of the pet grooming shop,02:30,02:36,1,17,Grooming session with a small dog,0.4696621894836426,True,zero_shot
+TVSUM_12,1,A small white dog is shown close up,0:00,0:03,1,6,Woman drying the dog,0.2956708073616028,False,zero_shot
+TVSUM_12,2,A woman walking around her kitchen while talking,0:07,1:08,1,8,Woman walking outside,0.5046132802963257,True,zero_shot
+TVSUM_12,3,Dog beauty product being displayed,1:10,1:25,1,4,Woman applying shampoo to the dog,0.4695178270339966,True,zero_shot
+TVSUM_12,4,Water running in the sink,1:46,1:49,2,1,Woman washing her hands,0.23726825416088104,False,zero_shot
+TVSUM_12,5,A white dog playing around on a kitchen countertop,2:29,2:54,2,5,Woman rinsing the dog,0.3503148555755615,False,zero_shot
+TVSUM_12,6,A woman is walking in a parking garage,3:00,3:19,-1,8,Woman walking outside,0.611079216003418,True,zero_shot
+TVSUM_12,7,Two woman walking outside in a paved street in the sun,3:35,4:20,0,8,Woman walking outside,0.6077647805213928,True,zero_shot
+TVSUM_12,8,A dog is shown on the kitchen countertop with clippers,4:31,4:34,2,5,Woman rinsing the dog,0.399609237909317,False,zero_shot
+TVSUM_12,9,A pair of hair clippers being shown on its charging stand,6:34,6:40,1,3,Woman brushing her hair,0.2631206214427948,False,zero_shot
+TVSUM_12,10,The groomed dog is shown lying on the floor,7:08,7:30,1,6,Woman drying the dog,0.3296222686767578,False,zero_shot

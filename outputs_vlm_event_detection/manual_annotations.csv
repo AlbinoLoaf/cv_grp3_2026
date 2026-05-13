@@ -1,38 +1,40 @@
 video_name,event_id,event_description,start,end,start_seconds,end_seconds,subjectivity
-TVSUM_9,1,Man gets into enclosed two-wheeled vehicle,00:00,00:06,0,6,2
-TVSUM_9,2,Man speaking to camera,00:14,00:20,14,20,1
-TVSUM_9,3,Man gets out of enclosed two-wheeled vehicle,00:26,00:32,26,32,2
-TVSUM_9,4,Man speaking to camera,00:33,00:42,33,42,-1
-TVSUM_9,5,Functionality of the vehicle is explained,00:43,00:57,43,57,2
-TVSUM_9,6,Vehicle simulation shown,00:58,01:02,58,62,2
-TVSUM_9,7,Man speaking to camera,01:02,01:06,62,66,-1
-TVSUM_9,8,Simulation of the inner workings of the two-wheeled vehicle is shown,01:09,01:25,69,85,2
-TVSUM_9,9,Pedal controls shown,01:25,01:30,85,90,1
-TVSUM_9,10,Smart display shows vehicle data,01:59,02:03,119,123,1
-TVSUM_9,11,Simulation shows how the engine works,02:03,02:10,123,130,2
-TVSUM_9,12,Battery layout and controls showcased,02:41,02:50,161,170,2
-TVSUM_9,13,Vehicle drives around bus depot,02:50,02:56,170,176,1
-TVSUM_9,14,Steering mechanism demonstrated by man,03:03,03:14,183,194,1
-TVSUM_9,15,Woman exits the vehicle in sunny weather,03:30,03:33,210,213,1
-TVSUM_9,16,New man enters the vehicle and drives off,03:33,03:48,213,228,1
-TVSUM_10,1,Woman talking on a set,00:05,00:25,5,25,1
-TVSUM_10,2,People looking at a car,00:26,00:28,26,28,0
-TVSUM_10,3,Cable being plugged into a car,00:32,00:33,32,33,2
-TVSUM_10,4,Man talking,00:46,01:03,46,63,0
-TVSUM_10,5,Man driving a small electric car,01:20,01:22,80,82,0
-TVSUM_10,6,Man talking with cars in the background,01:28,01:42,88,102,2
-TVSUM_11,1,A woman talking while petting a dog,00:05,00:09,5,9,1
-TVSUM_11,2,A woman showing the inside of a dog cage,00:11,00:26,11,26,1
-TVSUM_11,3,A woman talking while petting a dog who is standing on a table,00:27,01:26,27,86,1
-TVSUM_11,4,A dog getting dried,01:30,01:32,90,92,2
-TVSUM_11,5,A woman trimming a dog's paws,01:33,01:34,93,94,2
-TVSUM_11,6,A dog getting brushed,01:37,01:38,97,98,2
-TVSUM_11,7,A woman talking in front of dog cages,01:39,01:50,99,110,0
-TVSUM_11,8,A woman talking in front of dog cages,02:07,02:27,127,147,0
-TVSUM_12,1,A woman filming herself walking and talking around her house,01:08,01:15,68,75,-1
-TVSUM_12,2,A dog playing around a kitchen countertop,01:50,02:05,110,125,0
-TVSUM_12,3,A dog getting pet on a kitchen countertop,02:29,02:56,149,176,1
-TVSUM_12,4,A dog getting pet on a kitchen countertop with scissors and an electric razor next to him,04:25,04:30,265,270,2
-TVSUM_12,5,An electric razor being shown next to a dog,04:31,04:34,271,274,2
-TVSUM_12,6,Hair cutting materials being shown with a pile of hairs,05:41,05:47,341,347,2
-TVSUM_12,7,A pair of hair clippers being shown,06:34,06:40,394,400,2
+TVSUM_9,1,Man gets into car,00:00,00:06,0,6,1
+TVSUM_9,2,Mans speaking next to car,0:12,0:19,12,19,2
+TVSUM_9,3,Man gets out of car,00:27,00:33,27,33,1
+TVSUM_9,4,The car controls and functionality is shown,0:43,0:57,43,57,2
+TVSUM_9,5,A collision Simulation with a car is shown,00:58,1:03,58,63,2
+TVSUM_9,6,Wheel mechanism and internals are shown,01:07,01:26,67,86,1
+TVSUM_9,7,Dashboard with car information is shown,01:59,02:03,119,123,1
+TVSUM_9,8,Car driving on pavement next to other cars,02:50,02:56,170,176,2
+TVSUM_9,9,Man steering wheel,03:07,03:11,187,191,0
+TVSUM_9,10,Woman gets out of the car,03:28,03:31,208,211,1
+TVSUM_9,11,New man gets into the car and drives off,03:34,03:48,214,228,1
+TVSUM_10,1,Reporter introduce subject,00:05,00:25,5,25,1
+TVSUM_10,2,Woman continues explaining the electric car segment,00:16,00:25,16,25,1
+TVSUM_10,3,People talking around electric vechicle,00:26,00:30,26,30,1
+TVSUM_10,4,Electrical Vechicle charging demonstrated,1:05,1:15,65,75,1
+TVSUM_10,5,Exhibition environment shown,1:18,1:27,78,87,0
+TVSUM_10,6,Man talking with cars in background,1:28,1:42,88,102,2
+TVSUM_10,7,Electric buses being shown,1:44,1:52,104,112,1
+TVSUM_11,1,Store front of petstore,00:00,00:04,0,4,1
+TVSUM_11,2,Dog being groomed during explanation,00:05,00:10,5,10,1
+TVSUM_11,3,A woman showing the inside of a dog cage,00:11,00:26,11,26,1
+TVSUM_11,4,Dog on grooming table while groomer prepares to work,00:30,00:45,30,45,2
+TVSUM_11,5,Woman prepares to groom dog,00:45,01:06,45,66,1
+TVSUM_11,6,Woman talking to camera as dog is being petted,01:09,01:27,69,87,1
+TVSUM_11,7,Dog being groomed with a blower,01:29,01:39,89,99,2
+TVSUM_11,8,Woman talking at camera,01:39,01:52,99,112,0
+TVSUM_11,9,Pet food and products are shown on store shelves,01:52,02:07,112,127,1
+TVSUM_11,10,Woman talking at camera,02:07,01:25,127,85,1
+TVSUM_11,11,The video returns to the outside of the pet grooming shop,02:30,02:36,150,156,1
+TVSUM_12,1,A small white dog is shown close up,0:00,0:03,0,3,1
+TVSUM_12,2,A woman walking around her kitchen while talking,0:07,1:08,7,68,1
+TVSUM_12,3,Dog beauty product being displayed,1:10,1:25,70,85,1
+TVSUM_12,4,Water running in the sink,1:46,1:49,106,109,2
+TVSUM_12,5,A white dog playing around on a kitchen countertop,2:29,2:54,149,174,2
+TVSUM_12,6,A woman is walking in a parking garage,3:00,3:19,180,199,-1
+TVSUM_12,7,Two woman walking outside in a paved street in the sun,3:35,4:20,215,260,0
+TVSUM_12,8,A dog is shown on the kitchen countertop with clippers,4:31,4:34,271,274,2
+TVSUM_12,9,A pair of hair clippers being shown on its charging stand,6:34,6:40,394,400,1
+TVSUM_12,10,The groomed dog is shown lying on the floor,7:08,7:30,428,450,1

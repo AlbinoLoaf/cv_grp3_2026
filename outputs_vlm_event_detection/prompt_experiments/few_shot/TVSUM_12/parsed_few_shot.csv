@@ -1,0 +1,18 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_12,few_shot,1,A woman washes her dog,00:00,00:20,0,20
+TVSUM_12,few_shot,2,The woman talks to the camera while washing the dog,00:21,00:40,21,40
+TVSUM_12,few_shot,3,The woman applies shampoo to the dog's fur,00:41,01:00,41,60
+TVSUM_12,few_shot,4,The woman rinses the dog's fur,01:01,01:20,61,80
+TVSUM_12,few_shot,5,The woman dries the dog with a towel,01:21,01:40,81,100
+TVSUM_12,few_shot,6,The woman brushes the dog's fur,01:41,02:00,101,120
+TVSUM_12,few_shot,7,The woman puts the dog in a car,02:01,02:20,121,140
+TVSUM_12,few_shot,8,The woman walks the dog outside,02:21,02:40,141,160
+TVSUM_12,few_shot,9,The woman talks to the camera while walking the dog,02:41,03:00,161,180
+TVSUM_12,few_shot,10,The woman returns home and pets the dog,03:01,03:20,181,200
+TVSUM_12,few_shot,11,The woman brushes the dog's fur again,03:21,03:40,201,220
+TVSUM_12,few_shot,12,The woman talks to the camera while brushing the dog,03:41,04:00,221,240
+TVSUM_12,few_shot,13,The woman puts the dog in a car,04:01,04:20,241,260
+TVSUM_12,few_shot,14,The woman walks the dog outside again,04:21,04:40,261,280
+TVSUM_12,few_shot,15,The woman talks to the camera while walking the dog,04:41,05:00,281,300
+TVSUM_12,few_shot,16,The woman returns home and pets the dog one last time,05:01,05:20,301,320
+TVSUM_12,few_shot,17,The woman talks to the camera while petting the dog,05:21,05:40,321,340

@@ -1,0 +1,11 @@
+Salient event 1: News anchor introduces electric cars making the earth more green, 00:00 - 00:20
+Salient event 2: Interview with Yoo Dong-kun about establishing electric vehicle charging system, 00:21 - 00:40
+Salient event 3: Interview with Kim Tae-hoon about EV & Smart Car exhibition, 00:41 - 01:00
+Salient event 4: Demonstration of electric bus and charging station, 01:01 - 01:20
+Salient event 5: Interview with man about electric vehicle technology, 01:21 - 01:40
+Salient event 6: Demonstration of electric scooter, 01:41 - 01:50
+Salient event 7: Interview with man about electric vehicle industry, 01:51 - 02:00
+Salient event 8: Demonstration of electric car charging process, 02:01 - 02:20
+Salient event 9: Interview with woman about electric vehicle charging system, 02:21 - 02:40
+Salient event 10: Demonstration of electric car charging station, 02:41 - 02:50
+Salient event 11: Interview with man about electric vehicle industry, 02:51 - 03:00

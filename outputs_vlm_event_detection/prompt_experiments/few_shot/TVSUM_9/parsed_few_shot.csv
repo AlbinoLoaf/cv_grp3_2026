@@ -1,0 +1,14 @@
+video_name,prompt_name,event_id,event_description,start,end,start_seconds,end_seconds
+TVSUM_9,few_shot,1,A person introduces a futuristic vehicle,00:00,00:10,0,10
+TVSUM_9,few_shot,2,The vehicle's exterior and interior are showcased,00:11,00:30,11,30
+TVSUM_9,few_shot,3,The vehicle demonstrates its driving capabilities,00:31,00:50,31,50
+TVSUM_9,few_shot,4,The vehicle's battery status is displayed,00:51,01:10,51,70
+TVSUM_9,few_shot,5,The vehicle is driven on a city street,01:11,01:30,71,90
+TVSUM_9,few_shot,6,The vehicle's features are highlighted,01:31,01:50,91,110
+TVSUM_9,few_shot,7,The vehicle is driven again on a city street,01:51,02:10,111,130
+TVSUM_9,few_shot,8,The vehicle's battery status is displayed once more,02:11,02:30,131,150
+TVSUM_9,few_shot,9,The vehicle is driven on a city street again,02:31,02:50,151,170
+TVSUM_9,few_shot,10,The vehicle is driven on a city street one last time,02:51,03:10,171,190
+TVSUM_9,few_shot,11,The vehicle is shown driving on a city street,03:11,03:30,191,210
+TVSUM_9,few_shot,12,The vehicle is shown driving on a city street,03:31,03:50,211,230
+TVSUM_9,few_shot,13,The vehicle is shown driving on a city street,03:51,04:00,231,240

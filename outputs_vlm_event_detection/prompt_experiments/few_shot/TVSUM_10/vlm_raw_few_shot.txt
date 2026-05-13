@@ -1,0 +1,9 @@
+Salient event 1: An electric car is demonstrated at an exhibition, 00:00 - 00:20
+Salient event 2: A news anchor introduces the topic of electric cars, 00:21 - 00:40
+Salient event 3: A man speaks about the electric vehicle charging system, 00:41 - 01:00
+Salient event 4: A man demonstrates the electric vehicle's charging process, 01:01 - 01:20
+Salient event 5: A man discusses the benefits of electric vehicles, 01:21 - 01:40
+Salient event 6: A bus is showcased at the exhibition, 01:41 - 01:50
+Salient event 7: A man speaks about the electric vehicle industry, 01:51 - 02:00
+Salient event 8: A man demonstrates the electric vehicle's charging process again, 02:01 - 02:10
+Salient event 9: People interact with the electric vehicle charging station, 02:11 - 02:20
