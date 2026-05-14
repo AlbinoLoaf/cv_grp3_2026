@@ -1,5 +1,5 @@
 Event, Time Stamp, Subjectivity
-Store fron of petstore, 0:00 - 0:04, 1
+Store front of petstore, 0:00 - 0:04, 1
 A woman talking while peting a dog, 00:05 - 00:10, 1
 A woman showing the inside of a dog cage, 00:11 - 00:26, 1
 Dog on grooming table while groomer prepares to work, 00:30-0:45, 2
